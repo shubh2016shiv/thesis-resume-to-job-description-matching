@@ -1,0 +1,54 @@
+Principal Software Developer
+Nielsen  Kochi, Kerala, India Hybrid 2 weeks ago  26 applicants
+
+About the job
+At Nielsen, we believe that career growth is a partnership. You ultimately own, fuel and set the journey. By joining our team of nearly 14,000 associates, you will become part of a community that will help you to succeed. We champion you because when you succeed, we do too. Embark on a new initiative, explore a fresh approach, and take license to think big, so we can all continuously improve. We enable your best to power our future.
+
+Nielsen Global Media is a global independent measurement and big data analytics company focused on your future. We explore audiences everywhere—uncovering and discovering what they want—so businesses can make media that counts.
+
+Formal education combined with deep industry working experience or extensive industry working experience. This person will mentor others on the team and be a role model in best practices.
+
+This position is responsible for independently analyzing, developing, testing, and supporting highly complex application software. Will provide technical expertise and guidance to project teams and help develop strategies for developing complex applications.
+
+Responsibilities
+
+Designs, analyzes, and documents software applications across multiple project teams and applications:
+Investigate and analyze verbal and written requests for application software, interpreting application requirements to construct highly complex applications.
+Writes technical documentation for routines and applications, facilitating their maintenance.
+Constructs, tests, installs, and maintains software applications:
+Develops highly complex software code, which is maintainable, easy to use, and satisfies application requirements.
+Develops and executes application test plans, analyzes test results, and makes appropriate revisions to ensure the applications function as specified.
+Contributes to the planning for acceptance testing and implementation of new software, performing supporting activities to ensure that customers have the information and assistance they need for a successful implementation.
+Provides leadership and participates on project teams:
+Provides input to the work project plan, performs a technical review of applications and peers’ work, and develops proposals for improvements.
+Provides support to internal users and support staff:
+Investigates application incidents for missing or incorrect functionality.
+Assesses incident resolution and estimates application changes.
+Applies resolutions, leading to timely, error free revisions in applications.
+Researches, assesses, and facilitates the adoption of new technologies
+Performs configuration management tasks:
+Ensures application software components are archived in common repositories according to IT standards with appropriate documentation that reflects the progression from development to implementation.
+Works with and, in some instances, provides work direction to our vendor partners.
+Other duties as assigned
+
+Qualification
+
+4+ years of software development/engineering experience
+6+ years of IT experience
+Experience working with onshore and offshore vendor partners
+A bachelor’s degree in computer science or related fields or equivalent work experience
+Advanced knowledge of multiple software development languages and proficiency in all related languages
+Advanced knowledge of relevant operating systems and communication interfaces
+Advanced knowledge of software design and testing principles
+Advanced knowledge of database management systems
+Experience working with onshore and offshore vendor partners
+
+Nice To Have Skills
+
+Experience specifically with AWS.
+Experience with Docker
+Leading and mentoring in a hybrid work environment.
+
+As the arbiter of truth, Nielsen Global Media fuels the media industry with unbiased, reliable data about what people watch and listen to. To discover what’s true, we measure across all channels and platforms⁠—from podcasts to streaming TV to social media. And when companies and advertisers are armed with the truth, they have a deeper understanding of their audiences and can accelerate growth.
+
+Do you want to move the industry forward with Nielsen? Our people are the driving force. Your thoughts, ideas and expertise can propel us forward. Whether you have fresh thinking around maximizing a new technology or you see a gap in the market, we are here to listen and take action. Our team is made strong by a diversity of thoughts, experiences, skills, and backgrounds. You’ll enjoy working with smart, fun, curious colleagues, who are passionate about their work. Come be part of a team that motivates you to do your best work!

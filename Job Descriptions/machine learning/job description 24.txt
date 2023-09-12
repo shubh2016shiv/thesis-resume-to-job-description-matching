@@ -1,0 +1,43 @@
+Machine Learning Ops Engineer
+Brightree  Bengaluru, Karnataka, India 23 hours ago  69 applicants
+
+About the job
+Digital Health Technology team powers digital experiences and engagement to enhance the lives of millions of people every day through connected care. We build, deliver and manage a portfolio of data management platforms and mobile offerings in support of our core businesses. We thrive on simple and elegant architecture and agility. You’ll be immersed in a dynamic high-growth environment and empowered to excel, take informed risks, and drive ingenuity across the enterprise.
+
+Our Data Science and AI/ML team is dedicated to improving patients’ outcomes and lives, delighting our partners and customers, and improving the way we do business in an “AI First” fashion. We collaborate across the organization to identify, develop and deliver Artificial Intelligence (AI) and Machine Learning (ML) powered software solutions. On any given day, our team could be working on building sophisticated models to deliver personalized recommendations to patients to improve their sleep, identify optimal equipment and settings using our unparalleled store of billion+ nights of sleep data, proactively identify other health risk factors, or help optimize complex, global supply chain operations.
+
+As a software engineer you will be responsible for building automation and leading-edge architecture around data engineering on an AWS platform. Specifically, you will code and help architect a production-grade, scalable platform to be used by dozens of data scientists. You will help define and ensure best coding & CICD practices within the team of excellent and engaged engineers. You will be given creative freedom and work in supportive team environment. You will do hands-on code development and interact with business stakeholders.
+
+Let's Talk About Responsibilities
+
+Build and maintain systems built using DevOps, AWS, Python and Terraform.
+Stay informed of industry trends and enable successful DevOps AWS platform and Terraform solutions by leveraging best practices.
+Participate in and set up Proof of Concepts (POCs) to demonstrate proposed solutions.
+Enable team members through training, culture, and team building.
+Identify, design, and implement internal process improvements: Automating manual processes, re-designing infrastructure for greater scalability, etc.
+Build infrastructure needed for AWS platform, such as Lambdas, EC2, Docker, pipeline engineering, data monitoring alerting, and networking.
+Build, Design, Implement and support Data & ML models pipelines using latest CICD and deployment technologies.
+Work with stakeholders including the Executive, Product, Data and Design teams to help with technical issues and support their infrastructure needs.
+Actively handle escalated incidents to resolution and suggest solutions to limit future exposure.
+Participate in Code Review and process improvement.
+
+Let's Talk About Qualifications And Experience
+
+6+ years of total experience in a complex, technical environment.
+Experience with developing production-grade code in SQL, Pandas, Java Script and Scala.
+Experience with 3 or more of the following AWS tools: Lambda, EC2, EMR, S3, Glue, Athena, RDS, Networking, IAM, Batch processing, Sagemaker, MWAA
+Experience or self-study in Terraform and, generally commonly used DevOps tools and techniques like Bitbucket, Github & Jenkins.
+Experience in creating and working with APIs.
+Experience with relational SQL and NoSQL databases.
+Experience working with cross-functional teams in a dynamic environment.
+
+All listed duties, requirements and responsibilities are considered as essential functions to this position; however, business conditions may require reasonable accommodation for added tasks and responsibilities.
+
+Let’s Talk About What You Can Expect
+
+A supportive environment that focuses on people development and best implementation
+Opportunity to design, influence, and be innovative
+Work with inclusive global teams and the open sharing of new ideas. We want your ideas!
+Be supported both inside and outside of the work environment
+The opportunity to build something meaningful and see a direct positive impact on people’s lives!
+Dream big, iterate and experiment to drive innovation.

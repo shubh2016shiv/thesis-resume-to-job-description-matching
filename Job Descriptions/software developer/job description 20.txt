@@ -1,0 +1,56 @@
+Senior Software Developer - Data warehousing, SQL, Hadoop, Spark
+Mastercard  Pune, Maharashtra, India Hybrid 9 minutes ago  91 applicants
+
+About the job
+Our Purpose
+
+We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.
+
+Job Title
+
+Senior Software Developer - Data warehousing, SQL, Hadoop, Spark
+
+Overview
+
+Mastercard is a global technology company behind the world’s fastest payments processing network. We are a vehicle for commerce, a connection to financial systems for the previously excluded, a technology innovation lab, and the home of Priceless®. We ensure every employee has the opportunity to be a part of something bigger and to change lives. We believe as our company grows, so should you. We believe in connecting everyone to endless, priceless possibilities.
+
+As a Sr. Data Engineer in Data Platform and Engineering Services, you will have the opportunity to build high performance data pipelines to load into Mastercard Data Warehouse. Our Data Warehouse provides analytical capabilities to a number of business users who help different customers provide answers to their business problems through data. You will play a vital role within a rapidly growing organization, while working closely with experienced and driven engineers to solve challenging problems.
+
+Role
+
+Maintain and support current legacy system in Unix and sql , pl/sql environment
+Follow MasterCard Quality Assurance and Quality Control processes
+Leverage new technologies and approaches to innovating with increasingly large data sets
+Work with project team to meet scheduled due dates, while identifying emerging issues and recommending solutions for problems
+Perform assigned tasks and production incident independently
+Contribute ideas to help ensure that required standards and processes are in place and actively look for opportunities to enhance standards and improve process efficiency
+
+All About You
+
+Experience in Data Engineering and implementing multiple end-to-end DW projects in Big Data environment
+Experience of building data pipelines through Spark with Java/Scala on Hadoop or Object storage
+Experince of designing, developing, and maintaining software applications using Java and related technologies(Spring/Spring Boot)
+Knowledge of software design patterns and best practices
+Experience with RESTful web services and API design
+Experience of working on Unix environment
+Experience of working with Databases like Oracle, Netezza and have strong SQL knowledge
+Experience of working on Nifi will be an added advantage
+Experience of working with APIs will be an added advantage
+Experience of working in Agile teams
+Strong analytical skills required for debugging production issues, providing root cause and implementing mitigation plan
+Strong communication skills - both verbal and written – and strong relationship, collaboration skills and organizational skills
+Ability to multi-task across multiple projects, interface with external / internal resources and provide technical leadership to junior team members
+Ability to be high-energy, detail-oriented, proactive and able to function under pressure in an independent environment along with a high degree of initiative and self-motivation to drive results
+Ability to quickly learn and implement new technologies, and perform POC to explore best solution for the problem statement
+Flexibility to work as a member of a matrix based diverse and geographically distributed project teams
+
+Corporate Security Responsibility
+
+Responsibilities
+
+All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must
+
+Abide by Mastercard’s security policies and practices;
+Ensure the confidentiality and integrity of the information being accessed;
+Report any suspected information security violation or breach, and
+Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.

@@ -1,0 +1,9 @@
+Deep Learning Engineer
+Turing  Delhi, Delhi, India Remote 1 month ago  Over 200 applicants
+
+About the job
+A fast-growing company that is developing a comprehensive platform to help evaluate biology at an unprecedented resolution and scale, is looking for a Deep Learning Engineer. The engineer will be in charge of designing, developing, and delivering a fully functional product. The company is designing the necessary infrastructure for deep learning-based computer vision models to be trained, tested, and released. The company has successfully managed to secure $48mn+ during their Series A round of funding.
+
+Job Responsibilities:Design and develop infrastructure for tracking data, annotations, model parameters, and model performanceInnovate prototypes and initiate experiments to guide engineering effortsIntegrate new neural network architectures into the Matroid platform; create new onesExplore new machine learning algorithms and follow new trendsCollaborate with internal team members to brainstorm new ideas and establish company goals
+
+Job Requirements:At least 3+ years of relevant experience as a Deep Learning EngineerMust have extensive experience in Machine Learning and Data EngineeringGreat command over verbal and written English communication

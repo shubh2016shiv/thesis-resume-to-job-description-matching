@@ -1,0 +1,35 @@
+Specialist Specialist Data Science
+Elixir Consulting (A Gi Group Holding company)  Gurgaon, Haryana, India Hybrid 2 months ago  68 applicants
+
+About the job
+Job Description
+
+As an expert in Machine Learning & Artificial Intelligence who will assist in transforming the workflows at an operational level as well as aid in creating exciting new products.
+
+We are looking for motivated, detail-oriented team members with a penchant for problem solving, who can take initiative, overcome challenges and lead the development process.
+
+Requirements
+
+Expertise with either identifying use cases or developing data pipelines/models or deploying an appropriate AI/ML based solution.
+
+Hands on experience with owning an end-to-end machine learning pipeline from conception to delivery will be a major plus
+
+Experience with training and deploying models using either Tensorflow or Pytorch (Preferably Pytorch)
+Good knowledge in Image Processing, OpenCV, SciPy and NumPy
+Excellent programming & rapid prototyping skills in Python, software engineering processes and cloud platforms like AWS is a must
+Strong knowledge of math, geometry, probability, statistics, and algorithms
+Strong problem-solving and analytical skills
+Experience/exposure to product development methodologies & Software Engineering processes
+Development/software engineering experience with planning, architecting, building, delivering and maintaining software by using coding standards, code reviews, source management
+
+BE/B.Tech (Electronics, Computer Science or related engineering discipline)
+
+Master's/Post Graduate degree in Computer Science or related fields will be an advantage
+
+Benefits
+
+Location : Gurgaon & Bangalore
+
+Work from Office
+
+If you profile matches the above requirement , kindly share your updated resume at deepika.rawat@elixir-consulting.com

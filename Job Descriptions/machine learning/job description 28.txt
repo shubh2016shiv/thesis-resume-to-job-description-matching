@@ -1,0 +1,74 @@
+Senior Data Scientist
+Index Exchange  Bengaluru, Karnataka, India Remote 1 week ago  Over 200 applicants
+
+About the job
+We shaped the earliest forms of ad tech, and we’re looking for the technical expertise to help shape its future. Our customers have unique problems that can only be solved at internet scale, and that’s where the technical skills of our team make a real difference.
+
+Our exchange handles over 300 billion requests every day (for comparison Google serves an estimated 9 billion searches a day), all running in our own global data centers. Every member of our technology team has an enormous amount of autonomy in building and managing our systems to support and enable our growing level of scale. Through the transparency of our technology, dedication to innovation and integrity, and long-standing customer relationships, we lead through change.
+
+What’s it like to work at Index?
+
+We have more than 500 Indexers around the globe dedicated to building a safe and transparent marketplace that provides a trusted experience for consumers.
+
+Index is an exciting and fast-paced place to work. We’re built on our values of change, support, learning and teaching, trust, and intention. We pride ourselves on our independence and openness, not only in our technology, but in our teams, too. Our diverse and inclusive culture celebrates how we can leverage our unique differences to help drive Index forward.
+
+Our culture of success is truly supportive and collaborative. In working together across our teams, we’re continually investing in the people and technology to solve the industry’s most complex problems. As we extend the promise of ad tech to every channel, we’re looking for talented engineers to help advance Index, and the industry, forward.
+
+Are you ready to join the programmatic evolution?
+
+Index Exchange funds the open web. Content and journalism across the internet are funded through advertising, and we are the engine that helps to make that happen transparently, safely and efficiently. Handling hundreds of billions of auctions per day within milliseconds requires an intense understanding of the exchange and the ecosystem that we live in.
+
+Our business is growing significantly every year and is poised to grow even faster. Our people and our platforms are the foundation and enabler of that growth. We are significantly expanding our technology teams, and are looking for technologists with a passion for high performance software development, and a drive to deliver software products and platforms that enable and empower industries at a global scale.
+
+About The Role
+
+We’re looking for a Senior Data Scientist who can bring their depth and breadth of experience in applied data science and optimization at industry scale to help guide our Index-wide technology strategy for machine learning and optimization, and to drive pragmatic execution and iterative improvement of the same.
+
+Index’s scale spans the globe, our transactions happen 24x7 in our global data centers, and every second that passes millions of requests are evaluated across our exchange. In order to achieve our mission, global efficiency and reliability are absolutely key, as every millisecond quite literally counts in our business.
+
+What We’re Looking For
+
+A pragmatic data science technologist:
+
+Learn and understand the business vision and market opportunity for the company
+Work backwards from business problems to generate scientific hypotheses to guide development focus and pragmatism
+Use analytical, statistical and database skills to understand large, complex datasets with the aim to increase the programmatic efficiency
+Design, develop, and drive implementation of complex data-centric solutions, including large data set segmentation, transformation, and feature generation
+Clearly articulate research and development hypothesis, decisions and results
+Take part in the process of designing, developing & improving algorithms for automated decision making around programmatic exchange optimisation
+Take active part in designing, and driving implementation production performance monitoring frameworks and KPIs
+Work together with ML engineers and architects to develop production grade data centric solutions
+An entrepreneurial spirit with room and expectations to bring innovative ideas to address the problems at hand
+
+Here's What You Need
+
+Bachelors or Masters in Mathematics, Computer Science, Engineering, or equivalent
+3+ years of experience in data science or machine learning environments that requires the combined application of statistical & technical skills
+Experience in data science practices in operational environments and internet scale, i.e - this is an applied position, rather than a solely research focused one
+Strong statistical and research skills with a track record of using a variety of statistical methods (especially classification/prediction and time series models)
+Proven ability to demonstrate and articulate complex results to wide technological audience
+Demonstrated history of enabling advanced data modeling based guidance for technology development
+Experience in cross functional team cooperation to drive pragmatic technological solutions
+Expert in pragmatic application of data science and optimization best practices at large scale (industry scale platform experience preferred)
+Excellent development skills (Python required, specifically pandas, numpy, SciKit; Knowledge in Scala a plus)
+Familiarity with digital marketing, advertising or analytics is a plus
+Work experience in complex system engineering environments is a plus
+
+Why You’ll Love Working Here
+
+Company paid comprehensive health and life insurance plans
+Paid Time off and flexible work schedules
+Company contribution to Provident Fund
+Participation in our company Stock options plan
+Company paid Parental Leave
+Monthly internet stipend
+One Time Office Set up Allowance
+Quarterly Wellness allowance
+Community engagement opportunities and donation-matching program
+Volunteer paid day off
+Annual virtual company retreats and regular community-led team events
+A workplace that supports a diverse, equitable, and inclusive environment – learn more here
+
+Equal employment opportunity
+
+At Index Exchange, we believe that successful products are built by teams just as diverse as the audience who uses them. As such, we are committed to equal employment opportunities. We celebrate diversity of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Additionally, we realize that diversity is deeper than any status or classification—diversity is the human experience. For those who show grit, passion, and humility—Index will welcome you.

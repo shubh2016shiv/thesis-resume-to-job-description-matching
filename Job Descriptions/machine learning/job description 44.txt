@@ -1,0 +1,36 @@
+Senior Machine Learning Engineer
+OutSystems  Bengaluru, Karnataka, India On-site 1 week ago  83 applicants
+
+About the job
+Job Description, Low-code Style
+
+As the #1 low-code application development platform, OutSystems provides customers with everything they need to build apps incredibly fast. So, let us cut to the chase: we have an immediate opportunity to be part of our APAC leadership team – Senior Machine Learning Engineer to be based in Bangalore , India
+
+Responsibilities
+Collaborate closely with Research Scientists, AI Engineers, and cross-functional teams to understand their requirements, identify pain points, and drive solutions to improve productivity and efficiency;
+Lead the design, development, and implementation of scalable Machine Learning infrastructure, tooling, and frameworks to optimize the end-to-end AI research and development lifecycle;
+Establish and enforce best practices for code quality, version control, testing, and deployment in machine learning operations;
+Work closely with cross-functional teams, including Data Engineers, DevOps engineers, and Software Engineers to integrate Machine Learning solutions into production systems;
+Stay abreast of the latest advancements in Artificial Intelligence and Machine Learning operations and propose and implement new techniques, technologies, and approaches to drive continuous improvement.
+Contribute to strategic planning and decision-making processes, providing insights and recommendations on machine learning operations, resource allocation, and technology adoption.
+Requirements
+Bachelor's or Master's degree with strong Computer Science and Statistical Learning components (e.g. Computer Science, Electrical Engineering, Physics, Aerospace Engineering, etc). Ph.D. is valued.
+3+ years of work experience in applied Machine Learning related roles;
+Proficiency in Python with a focus on data manipulation, analysis, and automation;
+Deep understanding of machine learning concepts, algorithms, and frameworks, such as PyTorch and HuggingFace;
+Demonstrated experience in designing, building, and model serving in production environments;
+Experience training, deploying, and maintaining Large Language Models is highly valued;
+Familiarity with containerization technologies (e.g., Docker, Kubernetes) is highly valued;
+Familiarity with cloud platforms (e.g., AWS, Azure, GCP) for deploying and scaling machine learning applications is highly valued;
+Experience in Spark or Ray is highly valued;
+Excellent leadership and communication skills, with the ability to effectively collaborate and mentor team members, and influence stakeholders at all levels;
+Strong analytical and problem-solving abilities, with the capacity to think critically and strategically to tackle complex ML operations challenges;
+Be creative, ambitious and curious. Be resourceful and innovative.
+Working At OutSystems
+
+We do not have many rules, but we do have high standards and a culture of global collaboration. Our commitment to our culture is highlighted in The Small Book of the Few Big Rules, written by our Founder and CEO, Paulo Rosado. This commitment to culture landed us in the Forbes top cloud computing employers four years in a row.
+We grow, change, and innovate, and give our teams the space to be proactive and creative.
+We care about growth and development. Vertical career progression is obvious, and we also encourage lateral moves, joining different teams, and mastering new skills.
+Global colleagues who are as smart, hardworking, and driven as you.
+Our DNA is disrupting the status quo. It is why our company exists.
+We “Ask Why” a lot. It helps us connect our individual work to the bigger picture and often uncovers a better, more agile way.

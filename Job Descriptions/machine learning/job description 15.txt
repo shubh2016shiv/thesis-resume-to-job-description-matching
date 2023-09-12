@@ -1,0 +1,22 @@
+Engineering Services Engineer - Machine Learning
+Siemens Digital Industries Software  Pune, Maharashtra, India Hybrid 1 week ago  116 applicants
+
+About the job
+At Siemens, we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow’s reality. Find out more about the Digital world of Siemens here: www.siemens.com/careers/digitalminds.
+
+The Intelligent Control Systems team at Siemens Engineering Services (ES) is looking for a talented engineer to enhance the current capabilities of our group. Preferred educational background is Bachelors or Masters in Computer/Electrical/Mechanical engineering with a focus on Machine Learning (ML) applied to the design of adaptive control systems. We want someone with a minimum of TWO years of solid experience in modeling, training, and validation of Deep Learning (DL) models and systems. Since our group applies ML to the design of advanced controllers, fundamentals in control systems theory and design is a strong advantage.
+
+The candidate engineer should have the following capabilities:
+
+Experience with classical ML algorithms including those for classification, regression, clustering
+Experience with DL algorithms and network architectures (CNN, RNN, LSTM, …)
+Experience with Python (Numpy) and at least one ML framework (TensorFlow, Keras, PyTorch,)
+Experience in design and implementation of machine learning models for real-world systems/Engineering applications is preferred.
+Experience in Computer Vision and/or SLAM is a strong advantage.
+
+The following capabilities are highly recommended but not mandatory:
+
+Experience with classical control techniques, including advanced nonlinear control algorithm
+Experience using the MATLAB (Simulink and Stateflow) software environment
+Experience in Model/Software/Hardware in Loop Simulation set up, verification and validation
+Experience in automotive systems, embedded systems, auto-code generation, ADAS, Autonomous Driving.

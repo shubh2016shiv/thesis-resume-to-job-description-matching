@@ -1,0 +1,17 @@
+Interesting Job Opportunity: Data Scientist - NLP/Machine Learning
+Confidential  Mumbai, Maharashtra, India On-site 1 month ago  45 applicants
+
+About the job
+This job is sourced from a job board. Learn moreJob Description
+
+Are able to think forward into an incredible future that doesn't yet exist. We're engineering systems totally unlike anything seen before.
+
+The kind of person who would thrive in this role :
+
+At least 3 years experience building robust and scalable ML modules
+Intermediate to expert level proficiency in Python
+Intermediate to advanced knowledge of machine learning, natural language processing, probability theory, statistics, and algorithms. You will be required to discuss and use various algorithms and approaches on a daily basis.
+We use sequence tagging, recurrent models, LSTMs, XGBOOST, time series modelling, dimensionality reduction, Hierarchical clustering etc. on a regular basis.
+Experience in using deep learning, NLG, conversational agents
+Prior experience working with Django Projects
+Comfortable reading and implementing research papers.

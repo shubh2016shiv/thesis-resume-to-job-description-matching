@@ -1,0 +1,44 @@
+Software Engineer III- Full Stack Developer(React & Java)
+JPMorgan Chase & Co.  Bengaluru, Karnataka, India On-site 4 hours ago  5 applicants
+
+About the job
+Job Summary
+
+As a Software Engineer III at JPMorgan Chase, with the User Experience Team which is aligned to Employee Experience & Corporate Technology Team you are part of an agile team that works to enhance, design, and deliver the software components of the firm's state-of-the-art technology products in a secure, stable, and scalable way. You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle, as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals. We embrace a culture of experimentation and constantly strive for improvement and learning. You'll work in a collaborative, trusting, thought-provoking environment-one that encourages diversity of thought and creative solutions that are in the best interests of our customers globally.
+
+Job Responsibilities
+
+Executes standard software solutions, design, development, and technical troubleshooting
+
+Writes secure and high-quality code using the syntax of at least one programming language with limited guidance
+
+Understanding of software skills such as business analysis, development, maintenance, software improvement, architecture and design across all systems
+
+Ability to work in large, collaborative teams to achieve organizational goals
+
+Expertise in one or more modern programming languages
+
+Apply analytical skills & mindset to technical troubleshooting to break down solutions and solve technical problems of basic complexity
+
+Be a Team player and adds to team culture of diversity, equity, inclusion, and respect
+
+Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team
+
+Required Qualifications, Capabilities, And Skills
+
+8 + yrs Strong in Data Structures, Algorithms and Problem Solving Skills
+8+ yrs Experience working knowledge on NodeJS, ReactJS and Redux, Java, JEE, Springboot
+6+ yrs Experience with HTML5, CSS3, JavaScript ECMA5/6 and UI Frameworks.
+Cloud technologies and exposure to AWS, Kubernetes will be a plus.
+Experience in programming with Microservices, Caching and UX Grid technologies.
+Strong experience in Agile and Test Driven Methodologies
+
+Preferred Qualifications, Capabilities, And Skills
+
+Engineering Degree
+Exposure to cloud technologies
+
+JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+About the comp

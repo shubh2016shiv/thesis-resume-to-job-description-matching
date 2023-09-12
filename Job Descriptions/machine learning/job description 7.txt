@@ -1,0 +1,52 @@
+NLP Data Scientist
+RingCentral  Bengaluru, Karnataka, India Hybrid 2 weeks ago  Over 200 applicants
+
+About the job
+Say hello to possibilities.
+
+It’s not everyday that you consider starting a new career. We’re RingCentral, and we’re happy that someone as talented as you is considering this role. First, a little about us, we’re the $2 billion global leader in cloud-based communications and collaboration software. We are fundamentally changing the nature of human interaction—giving people the freedom to connect powerfully and personally from anywhere, at any time, on any device.
+
+We’re currently looking for:
+
+NLP Data Scientist with a minimum of 2 years of experience in NLP, who is passionate about exploring and utilizing the latest developments in NLP space. The ideal candidate will have proficiency in Python, Pytorch, transformers, and ONNX, with experience in training and inference pipelines using HuggingFace transformers.
+
+To succeed in this role you must have experience in:
+
+Experience in developing and deploying NLP models in production environment
+Experience in training and inference pipelines using HuggingFace transformers
+Strong understanding of NLP concepts such as summarization, auto-labeling, and augmentation techniques
+Strong analytical and problem-solving skills
+
+Responsibilities:
+
+Utilize latest NLP techniques to develop and improve natural language understanding models
+Develop and deploy NLP models in production environment
+Collaborate with cross-functional teams to identify and solve business problems using NLP techniques
+Convert models between PyTorch and ONNX formats and deploy them to production
+Develop data labeling and augmentation techniques to improve model performance
+Evaluate and optimize model performance through experimentation and analysis
+Stay up-to-date with the latest advancements in the field of NLP and share your knowledge with the team
+
+Desired Qualifications:
+
+Minimum of 2 years of experience in NLP
+Proficiency in Python, PyTorch, transformers, and ONNX
+Excellent communication and teamwork skills
+Bachelor's or Master's degree in Computer Science or a related field.
+
+What we offer:
+
+Mediclaim Benefits
+Paid Holidays
+Casual/Sick Leave
+Privilege Leave
+CaRing Days
+Bereavement Leave
+Maternity Leave
+Paternity Leave
+Wellness Coaching
+Employee Referral Bonus
+Professional Development Allowances
+Night Shift Allowances
+
+RingCentral’s Engineering team works on high-complexity projects that set the standard for performance and reliability at massive scale. What kind of scale? Millions of users today and hundreds of millions tomorrow. This is your chance to help imagine, develop and deliver products that raise the technological bar, and power human connections. If you’re a talented, ambitious, creative thinker, RingCentral is the perfect environment to join a world class team and bring your ideas to life.

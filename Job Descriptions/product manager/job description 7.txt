@@ -1,0 +1,58 @@
+Technical Product Manager - Rating
+Sinch  United Kingdom Remote 1 month ago  139 applicants
+
+About the job
+Description
+
+
+We are interested in every qualified candidate who is eligible to work in the location advertised on this role. However, we are not able to sponsor visas.
+
+
+We are Sinch. The world’s number one in mobile engagement, helping amazing companies communicate with customers. And whether you know us or not, you’ve definitely used our tech. From the life-changing to the time-saving, we’re helping over 3,000 businesses to interact with people like never before.
+
+
+Every time you hear a phone ping, you’ll be proud of knowing you were part of making that happen. 147 billion times a year. Now we’re looking for a Product Manager to join our Financial Platform team and chase the answers, chase the code and chase the dream with us.
+
+
+Role and Responsibilities
+
+We are seeking a product manager to develop and centralize our rating process and the platform. Rating is a process of billing pipeline, which includes collecting usage events and applying the monetary cost to them. You will envision, build & scale the product agnostic rating process of our brand-new billing pipeline. You will also be responsible for managing and maintaining our current primary rating process, migrating to new process and phase out by defining end of product life cycle.
+
+
+As a Product Manager, You Will
+
+Be part of a global team which works closely with our Enterprise Architecture team to define a meta specification (schema for master data), named as SmartSpecs in Sinch, as common data model and use the specification for various use cases like customer on-boarding, ordering, data processing, data governance and rating etc.
+Be responsible for ensuring the SmartSpecs supports required information for defining and developing a product agnostic rating pipeline
+Work closely with our various product organizations to understand their commercial model, help them translating their product in SmartSpecs, and use the specification to develop the rating process
+Work closely with our Billing Product team, supply the rated events to help them in further automating the invoicing flow
+Be responsible for managing requirements & changes to our current primary rating system, govern the new requirements, priorities them based on business values with the long-term goal to replace with SmartSpecs
+Be responsible for keeping the primary rating system up and running and providing rated data to various parts of organization inducing our BI & Analytics team, Billing team and other teams involved in platform consolidation and migration
+
+In Order To Contribute To This Role, You
+
+Are likely well versed in industry best practices and latest technologies with regards to cloud-based software, enterprise pricing, quoting, invoicing, metering, and billing capabilities. You have a combination of creative product thinking, collaborative mindset, finance and accounting team stakeholder management excellence, a thirst for learning and thoughtful use of data to build a great experience for our customers. You have an entrepreneurial mindset and are comfortable working in a fast-paced environment.
+
+
+Minimum Requirements
+
+5+ years of experience as a product manager with strong technical background as a developer or architect or similar area from a tech company
+Domain expertise with a focus on price management, rating, usage metering, billing, or other relevant areas.
+Experience in building and designing complex software flows and understanding cross functional implications (product, finance, analytics etc.)
+A curiosity and are data-driven with the ability to develop and defend strong points-of-view with data and analytics
+Able to articulate and present to different working levels across the organization from management to the engineers
+Ability to break down complex requirements and simplify them for customer adaptation
+Experience with agile development and methodologies
+
+Are you ready? Join us on our journey!
+
+
+Being You At Sinch
+
+We're a worldwide group of people, committed to diversity. We're working to offer an increasingly inclusive workplace wherever you are. No matter who you are, you'll be able to explore new career and growth options - sharing your voice, building your path and making it happen with us.
+
+We’re proud to be an equal opportunity employer, and all qualified applicants will be considered to join our team regardless of race, color, religion, gender identity or expression, sexual orientation, pregnancy, disability, age, veteran status, and more.
+
+
+Your life at Sinch
+
+Being a Sincher is all about learning and being in pursuit of new challenges. Working in the offices, at home, or in a hybrid model, that means celebrating change and the unknown, rolling up your sleeves and seeing what impact you can have on the world. The only way is up, and you’ll be reaching for the opportunities that match where you want to take your career. It’s closer than you think.

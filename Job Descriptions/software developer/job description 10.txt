@@ -1,0 +1,62 @@
+Software Developer
+Hansen Technologies  Pune, Maharashtra, India Hybrid 4 days ago  45 applicants
+
+About the job
+Job Description
+
+Software Developer
+
+Current position is for Telecom OSS/BSS product development team working on cloud native technologies.
+
+Roles and Responsibilities
+
+Write code for unit tests, contract test and tests for BDD & TDD
+Help in Sprint planning, estimations, backlog grooming etc.
+Deployment and testing on local or development environments
+Providing inputs for testing and documentation
+Troubleshoot or debug field issues as and when required
+Keep Jira and Confluence updated as per established practices.
+Code review of peers and software developers
+Create low level designs, sequence diagrams etc.
+Enforce git workflow or established versioning strategies
+Maintain the development environments
+Ensure success of CI builds with every code commit
+
+Experience: – 2 to 4 years
+
+Experience as a full stack developer with knowledge of OOP design patterns and SOLID principles and their implementation.
+Proficiency in C#, .NET CORE, Web API, ASP. Net, SQL Server
+Experience creating tables, views, indexes, packages, procedures and functions in MS SQL Server
+Strong experience across Angular 2+, HTML5, Ajax, CSS, JavaScript, jQuery
+Experience with DevOps, CICD and experts with Branching and Merging of complex application.
+Demonstrated experience with web platforms, multi-tier application frameworks, microservices, and cloud native applications.
+Work with Jira / Confluence and Ability to manage multiple tasks under tight deadlines.
+Excellent analytical, strategic conceptual thinking, planning, and execution skills.
+
+Apart from the above, experience with Docker, Kubernetes, Helm and AWS will be a plus.
+
+Desired Candidate Profile
+
+BE/BTech/MCA/MSc
+Previous relevant work experience in established software companies, technology centres of Banks, Financial Institutions, Telecom Operators
+
+Why Hansen
+
+Hansen Technologies, headquartered in Australia is a software product development company with flagship products built for the energy, utility, and tele-communications industries.
+
+Hansen software suites are developed to be cloud native with architectural and design
+
+philosophies based on microservices tenets. The 50-year-old multi-national company headquartered in Melbourne; Australia currently serves more than 600 customers in over 80 countries .
+
+Over the years, Hansen has acquired more than 30 companies and software technologies.
+
+Our 1600+ people support these customers working in collaborative and diverse teams that work remotely and in more than 36 offices and development centers around the world. India team has 316 and still counting.
+
+Current opening is for CSD BU. CSD is not a product – it is a suite of multiple products. Create-Sell-Deliver (CSD) provides a unified solution in delivering telecom offers to customers seamlessly.
+
+CSD gives a complete suite of products starting from
+Catalog which is being used to configure the offers as per business needs
+CPQ is to prepare quotes for the offers modelled in Catalog
+OM (Order Management) is being used to fulfill the orders placed through CPQ (by CSR)
+Portfolio is used to store the Product, Service and Resources consumed by Customers
+Informatics provides the insights to the business as per requirement

@@ -1,0 +1,49 @@
+Natural Language Processing (NLP) Internship in Navi Mumbai at Dimensionless Technologies
+Dimensionless TechAdemy  Navi Mumbai, Maharashtra, India On-site 3 weeks ago  44 applicants
+
+About the job
+This job is sourced from a job board. Learn moreAbout Dimensionless Technologies
+
+Website
+
+BaggageAI, a product of Dimensionless Technologies, is a patent-pending artificial intelligence-based solution that ensures accuracy and efficiency in threat detection at security checkpoints. With robust and fast algorithms at its core, BaggageAI can detect prohibited items in real-time from X-ray baggage scanners with accurate, reliable, and powerful detection.
+
+Activity on Internshala
+
+Hiring since November 2016
+
+241 opportunities posted
+
+38 candidates hired
+
+About The Internship
+
+Selected intern's day-to-day responsibilities include:
+
+Work on NLP using NLTK, pattern, spaCy, Gensim, data preprocessing, feature extraction, topic modeling, document classification, documents semantics, named entity recognition, and sentiment analysis
+Develop innovative solutions for various NLP problems using deep learning, word embeddings, Word2vec analysis, RNN, LSTM, and transformers
+Design and develop a conversational AI using transformers and Rasa
+Learn and explore new techniques and algorithms used for natural language understanding and natural language generation
+
+Skill(s) required
+
+Deep Learning Machine Learning Natural Language Processing (NLP) Python
+
+Earn certifications in these skills
+
+Learn Python
+
+Learn Voice App Development
+
+Learn Machine Learning
+
+Learn Deep Learning
+
+Who can apply
+
+Only Those Candidates Can Apply Who
+
+are available for full time (in-office) internship
+can start the internship between 18th May'23 and 22nd Jun'23
+are available for duration of 6 months
+have relevant skills and interests

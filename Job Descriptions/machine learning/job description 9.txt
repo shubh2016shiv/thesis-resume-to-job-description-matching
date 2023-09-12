@@ -1,0 +1,73 @@
+Data Scientist - Driverless AI
+Citi  Bengaluru, Karnataka, India On-site 1 month ago  Over 200 applicants
+
+About the job
+Job Id: 23646300
+
+About CITI
+
+Citi's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress. We have 200 years of experience helping our clients meet the world's toughest challenges and embrace its greatest opportunities.
+
+Analytics and Information Management (AIM)
+
+Citi AIM was established in 2003, and is located across multiple cities in India – Bengaluru, Chennai, Pune and Mumbai. It is a global community that objectively connects and analyzes information, to create actionable intelligence for our business leaders. It identifies fact-based opportunities for revenue growth in partnership with the businesses. The function balances customer needs, business strategy, and profit objectives using best in class and relevant analytic methodologies.
+
+X
+
+What do we do?
+
+The North America Consumer bank information management team provides reporting and business Insights support to help the business monitor/size the impact of various business strategies, campaigns and portfolio actions.
+
+The team helps the business take strategic decisions based on lots of data exploration, thorough understanding of business needs backed by structured thinking.
+
+Few notables among the multiple areas that we work in:
+
+Cutting Edge Data, Analytical, Modelling Tools and Platforms – Build, Setup and adopt cutting edge technologies and technology platforms to improve analysts efficiency, time to market and controls.
+Business critical Dashboards: self-explanatory and detailed dashboards to review the portfolio health with the business leaders with analytical backing of particular trends of interest
+Assessing Campaign Impacts: Understand the campaign setup and through data exploration get the actual campaign performance in terms of P&L. Using the data put together a solution to optimize the marketing spends based on campaign performance.
+Opportunity sizing: Help the business with sizing the impact of various regulatory / market / business / strategic changes to the portfolio
+Process Efficacy: Periodically review existing process and identify potential ways to streamline the process
+Business Intelligence Tools: Deploy existing reports to other advanced reporting platforms
+
+In order to achieve the best in class analytical solutions across business units we use the best in class tools and technology.
+
+What’s expected from you?
+
+As a senior analytics technology leader, we are seeking a candidate who should be able to perform below behaviors in their day to day role:
+
+Data obsession – Own data platforms to streamline data creation, management and maintenance to govern the organization data and make it available in most compliant manner to analysts in conjunction with our technology partners.
+Technology leadership – Manage team members and technology partners and their deliverables to fulfill analytics business projects
+Client Obsession – Create client centric analytic solution to business problems. Individual should be able to have a holistic view of multiple businesses and develop analytics solutions accordingly.
+Analytic Project Execution – Own and deliver multiple and complex analytic projects. This would require an understanding of business context, conversion of business problems to formulate analytical methodology, identifying trends and patterns with data
+Stakeholder Management: Experience in stakeholder management across various functions and regions.
+Presentation Skills : Delivering high class presentations to share the thoughts, the solutions or the problem statement to business stakeholders and senior management
+Project Management – Should have skillset to manage project in terms of creating project plan, assigning responsibilities,
+
+Skillset You Should Possess
+
+The most important skill that our analyst should possess is their love for data and their eagerness for new challenges & solving new problems. Apart from these, they should also have the following skillset
+
+Basic Qualifications
+
+Degree in computer science, engineering, mathematics, operations research or other quantitative field and strong relevant industry experience
+Preferred masters in above fields
+5+ years of industry experience in the field of ML/data science with using variety of ML techniques such as supervised, unsupervised, deep learning and NLP
+Has the ability to analyze and interpret modeling results
+Experience with ML open source tools and APIs like Scikit-Learn, Tensor flow/ keras, Numpy, scipy, pandas, matplotlib, just to name a few.
+Experience with NLP open source tools like NLTK, Gensim, spaCy, TextBlob, etc.
+Experience with Big data technologies like Hive, PySpark, etc.
+Experience with AutoML Technologies, specifically, H2O Driverless AI
+Experience with data munging, manipulating large datasets, data engineering and visualization
+Demonstrated strong coding and programming abilities for at least Python, SQL, and Linux
+Understanding of statistics and probabilities
+Good communication skills with ability to write proper documentation, and team player
+Experience/understanding cloud platform like AWS is a plus
+Ability to work on projects without continuous supervision in individual capacity
+Experience in working on Credit Cards and Retail Banking products is a plus
+Control orientated and Risk awareness
+
+Other Details
+
+Location: Bangalore, India
+Employment: Full Time
+Industry: Credit Cards, Financial Services, Banking

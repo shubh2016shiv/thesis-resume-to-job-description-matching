@@ -1,0 +1,46 @@
+ML Engineer
+Luxoft India  Greater Kolkata Area Remote 2 weeks ago  Over 200 applicants
+
+About the job
+Project Description
+
+We are looking for a Machine Learning (ML) Engineer to help us create artificial intelligence products.
+
+Machine Learning Engineer responsibilities include
+
+I: EDA: Capability to handle and transform data from Snowflake warehouse and Azure Data Factory
+
+II. ML Models
+Regression Models - Linear and Logistic Regression, Decision Trees
+Classification Models - Random Forest, SVM, Gradient Boost etc
+Clustering Techniques - KNN
+III. ML Ops: Setup training & inference pipelines, model registry and deployment in Azure MLOps
+
+Responsibilities
+
+I. EDA: Capability to handle and transform data from Snowflake Warehouse and Azure Data Factory
+
+II. ML Models
+Regression Models - Linear and Logistic Regression, Decision Trees
+Classification Models - Random Forest, SVM, Gradient Boost etc
+Clustering Techniques - KNN
+III. ML Ops: Setup training & inference pipelines, model registry and deployment in Azure MLOps
+
+Nice To Have Skills
+Deep Learning Models - Tensor Flow and Keras
+Anomaly Detection Models
+Associate Rule Mining
+Azure Dashboard, or PowerBI
+Skills
+
+Must have
+
+SnowFlake, Warehouses, Event Driven Architecture (EDA), Machine Learning, Azure Data Factory (ADF) Pipeline Full loads and Maintenance Activities
+
+Nice to have
+
+Deep Learning, Microsoft Power BI, Anomaly Detection
+
+Languages
+
+English: C1 Advanced

@@ -1,0 +1,55 @@
+Applied Engineer, Machine Learning
+Bayer  Hyderabad, Telangana, India 4 days ago  175 applicants
+
+About the job
+At Bayer we’re visionaries, driven to solve the world’s toughest challenges and striving for a world where ,Health for all, Hunger for none’ is no longer a dream, but a real possibility. We’re doing it with energy, curiosity and sheer dedication, always learning from unique perspectives of those around us, expanding our thinking, growing our capabilities and redefining ‘impossible’. There are so many reasons to join us. If you’re hungry to build a varied and meaningful career in a community of brilliant and diverse minds to make a real difference, there’s only one choice.
+
+Applied Engineer, Machine Learning
+
+POSITION PURPOSE:
+
+The Applied Machine Learning Group aims to bridge the gap between research and application of machine learning algorithms to expedite drug discovery. We are part of the broader DS&AI organization with a remit of implementing best-in-class machine learning models to enhance the R&D (Research & Development) processes in a data-driven manner. This position will play a hands-on role in the realization of this vision, working specifically with high-dimensional biological datasets, such as bulk transcriptomics or connected multi-omics data. Working in a fast-paced environment, you will be expected to fail fast and adapt quickly while establishing broader DS&AI capabilities and collaborating with bench scientists to test the deployed solutions.
+
+YOUR TASKS AND RESPONSIBILITIES:
+
+In order to tackle complex challenges with distinctive data and goals, you will conduct practical research by defining, designing, putting into practice, and assessing new machine learning models and algorithms.
+In this position, you will work with highly creative product teams across Bayer to complete projects and launch them.
+Your tasks include researching, developing, and implementing the most cutting-edge machine learning approaches as they pertain to healthcare data and related challenges.
+You will report to Head of Applied Machine Learning Designs and implement scalable tools/services for machine learning training and inference while selecting the suitable cloud and on premises infrastructure for production level machine learning models
+You will work with high dimensional biological datasets, including transcriptomics or connected multi omics (transcriptomics/proteomics/imaging) datasets
+You will play a hands-on role in building interpretable ML products while incorporating suggestions from wet lab scientists
+Co-create extensible software and infrastructure with other machine learning developers to speed up model training, serving, and operations.
+
+WHO YOU ARE:
+
+University degree (M.Sc.) in Machine Learning/Data Science or related field with 6-8 years of experience or fresh Ph.D. in Machine Learning, preferably combined with a first working experience in drug discovery
+Demonstrated experience with open source deep learning frameworks, such as TensorFlow/PyTorch as well as competency in Python as programming skill
+Direct knowledge regarding the implementation of deep learning techniques including Transformers, CNNs, and VAE; prior experience with algorithms for single cell RNA seq data aggregation and analysis would be preferred
+Basic understanding of outputs of omics technologies, particularly transcriptomics and gene expression determination, ideally with an understanding of the analysis of RNA sequencing data
+Familiarity with concepts and actors in molecular biology, such as the principles of gene regulation and the interactions and connections between genes, RNA and proteins
+Highly self-motivated with exceptional analytic abilities and scientific rigor as well as the aspiration to strive for scientific excellence
+Capable of presenting your work in a simplified manner to effectively communicate with other senior members to arrive at a decision about the progress of the projects
+Fluent in English, both written and spoken
+
+Additional Preference
+
+Familiarity with concepts and actors in molecular biology, such as the principles of gene regulation and the interactions and connections between genes, RNA, and proteins.
+Basic understanding of outputs of omics technologies, particularly transcriptomics and gene expression determination, ideally with an understanding of the analysis of RNA-seq data
+Record of Publications
+
+Bayer does not charge any fees whatsoever for recruitment process. Please do not entertain such demand for payment by any individuals / entities in connection with recruitment with any Bayer Group entity(ies) worldwide under any pretext.
+
+Please don’t rely upon any unsolicited email from email addresses not ending with domain name “bayer.com” or job advertisements referring you to an email address that does not end with “bayer.com”. For checking the authenticity of such emails or advertisement you may approach us at HROP_INDIA@BAYER.COM.
+
+YOUR APPLICATION
+
+Bayer is an equal opportunity employer that strongly values fairness and respect at work. We welcome applications from all individuals, regardless of race, religion, gender, age, physical characteristics, disability, sexual orientation etc. We are committed to treating all applicants fairly and avoiding discrimination.
+
+Location: India : Telangana : Hyderabad
+
+Division: Pharmaceuticals
+
+Reference Code: 793441
+
+Contact Us
+022-25311234

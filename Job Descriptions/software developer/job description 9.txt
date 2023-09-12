@@ -1,0 +1,66 @@
+Senior Software Developer (Computational Software)
+Siemens  Gurugram, Haryana, India On-site 1 week ago  25 applicants
+
+About the job
+Looking for challenging role? If you really want to make a difference - make it with us
+
+Ensuring the highest standards in engineering supporting the solution business of Siemens Ltd. worldwide. Should be a phenomenal teammate to engage in a fruitful collaboration with the business partners. Supporting international projects in the regions and on site in a self-reliant style.
+
+Your new role – challenging and future-oriented.
+
+Energy, Siemens Limited India is seeking a responsible, professional, and self-motivated individual to join the Gas Turbine Product Development team, Gurgaon as a Senior Software Developer (Computational Software). This position provides an exciting opportunity to work in a fast-paced, dynamic, global product development environment.
+
+Primary responsibility is to design, refactor, and enhance the existing inhouse software (computational tools) used in the analysis of Siemens Gas Turbine Performance.
+
+Additionally, this position will provide opportunity to support our Gas turbine core engineering functions, such as Gas Turbine testing activities (production and development).
+
+Roles & Responsibilities:
+
+Follow Agile/Scrum method in building a stable and robust software design environment which consists of multiple interfaces, translators, integration tools and automation scripts
+Focus on consolidating evolving requirements from various stakeholders and suggest code refactoring
+Clean coding and implement efficient algorithms related to internal numerical algorithms
+Design and develop an interface layer for easy of automation and integration with other analysis tools
+Apply software development lifecycle process for the analysis, design, implementation, testing and validation for building the application
+Support core engineering team in Gas Turbine performance analysis, performance testing activities etc. on need basis
+
+We don’t need superheroes, just super minds:
+
+Master’s/bachelor’s degree in IT/CS&E/Electronics/Mechanical/Aerospace/Computational Engineering with solid understanding of software design and development
+Minimum 6 years as an independent professional software development experience (preferable in a software product development setup)
+High level of proficiency of Object-Oriented Programming, Design Patterns and application architecture is a must
+Testing methods and technique to ensure bug free and stable software required for building mission critical apps
+Software configuration management using GiT
+Experience with prediction modelling techniques
+
+Skills required:
+
+High level of proficiency in programming language, preferably in C#
+Fluent with other programming languages, such as FORTRAN / MATLAB / VBA
+Understanding of gas turbine simple cycle (basic to intermediate level)
+Ability to carry out basic thermodynamic calculations is preferred.
+Experience in building robust numerical engineering application.
+Working knowledge of GiT
+
+General competencies:
+
+Problem solving skills (preferably with some training e.g. Kepner-Tregoe, Fault tree analysis, Ishikawa diagrams)
+Ability to communicate with a range of audiences (Customer, Management, local CDE) in a coherent succinct manner.
+Strong critical thinking
+Strong organizational skills
+Fast learner
+Quality mindset
+Very innovative
+Excellent verbal and written communications skills in English, including good presentation skills
+Independent contributor who takes initiative and decisive
+Focused on the purpose and committed to delivering minimum viable product in a timely fashion
+Ability to prioritize tasks and follow the Agile methodology
+Promotes a culture of inclusion where everyone feels respected and valued
+Acts as an owner of our company, with a passion to win and deliver exceptional results through continuous improvement
+Collaboration skills to work in an inclusive yet culturally diverse global development team
+Interested in long-term, stable career growth and development
+
+We’ve got quite a lot to offer. How about you?
+
+This role is based at Site ( Gurgaon ). You’ll also get to visit other locations in India and beyond, so you’ll need to go where this journey takes you. In return, you’ll get the chance to work with teams impacting entire cities, countries – and the shape of things to come.
+
+We’re Siemens. A collection of over 379,000 minds building the future, one day at a time in over 200 countries. We're dedicated to equality, and we welcome applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit and business need. Bring your curiosity and imagination and help us shape tomorrow.

@@ -1,0 +1,59 @@
+Machine Learning Engineer
+ResMed  Bengaluru, Karnataka, India 2 weeks ago  193 applicants
+
+About the job
+Digital Health Technology team powers digital experiences and engagement to enhance the lives of millions of people every day through connected care. We build, deliver and manage a portfolio of data management platforms and mobile offerings in support of our core businesses. We thrive on simple and elegant architecture and agility. You’ll be immersed in a dynamic high-growth environment and empowered to excel, take informed risks, and drive ingenuity across the enterprise.
+
+Machine Learning Engineer
+
+Let’s Talk About The Team
+
+
+Join our leading-edge Machine Learning Engineering (MLE) team to develop and deliver Artificial Intelligence (AI) and Machine Learning (ML) powered software solutions which support our business in an “AI First” fashion and have real-world impact. ResMed improves the lives of millions of patients with sleep apnea and similar conditions. Our billions+ nights of sleep data offer great opportunities for AI/ML applications. ResMed’s AI/ML team powers AI/ML products to support patient’s health such as personalized recommendations to patients to improve their sleep, automated identification of optimal equipment and settings, clinical models for diagnostic and therapeutic applications, and supply chain optimization.
+
+Let’s Talk About The Role
+
+
+As a ML Engineer, you will be responsible for building automation and model development, deployment, and serving to optimize time to market and quality of AI/ML applications. Specifically, you will give architectural guidance to ensure our global AI/ML systems are production-grade, scalable and use the latest state of the art technology and methodology. You will help define and ensure best coding practices within the team of excellent and engaged engineers. You will be given creative freedom and opportunities to work on advanced AI/ML problems, such as reinforcement learning and a self-serve AI/ML platform. You will do hands-on code development, mentor junior team members, and interact with business stakeholders. At ResMed, we are dedicated to a diverse team and inclusive work environment.
+
+Let's Talk About Responsibilities
+
+Build and Design the creation and maintenance of optimal global AI/ML architectures.
+Stay informed of industry trends and enable successful AI/ML solutions by leveraging best practices.
+Partner effectively with stakeholders and business users.
+Participate in and set up Proof of Concepts (POCs) to demonstrate proposed solutions.
+Enable team members in the MLE space through training, culture, and team building.
+Identify, design, and implement internal process improvements: Automating manual processes, re-designing infrastructure for greater scalability, etc.
+Build infrastructure needed for AI/ML systems, such as model inference, automated (re-)training, monitoring, explain ability, etc.
+Work with stakeholders including the Executive, Product, Data and Design teams to help with AI/ML-related technical issues and support their AI/ML infrastructure needs.
+You will build MVP applications to showcase the value of AI/ML models, owning the end-to-end process.
+You’ll develop & deploy re-usable production-grade functionality and automation around AI/ML feature pipelines, real-time/batch inference, continuous training, model monitoring.
+You will participate in design sessions with the team to solve leading-edge AI problems and present insights to various/all levels of the company.
+Actively handle escalated incidents to resolution and suggest solutions to limit future exposure.
+Participate in Code Review and process improvement.
+
+Let's Talk About Qualifications And Experience
+
+Bachelor/Master/Engineering degree in IT/Computer Science/software engineering or relevant field.
+4+ years of total experience in a complex, technical environment.
+Hands on experience in building scalable AI/ML Models/Systems for continuous training automation, computer vision, natural language processing, or similarly advanced AI/ML problems.
+Hands on experience in the following AWS (Amazon Web Services) cloud services: SageMaker, ECR/EC2, Kubernetes/ECS and Docker, AWS Batch processing, Lambda, Glue, EventBridge, Airflow, MLFlow, Step Functions etc.
+Hands on experience with developing production-grade Scala & Python.
+Hands on experience with infrastructure as code using Terraform.
+Hands on Experience with Dev ops(CICD) & ML Ops services/tools.
+Experience with big data tools such as EMR (Elastic MapReduce), Spark or similar.
+Experience with relational SQL and NoSQL databases.
+Experience leading, supporting, and working with cross-functional teams in a dynamic environment.
+
+All listed duties, requirements and responsibilities are considered as essential functions to this position; however, business conditions may require reasonable accommodation for added tasks and responsibilities.
+
+Let’s Talk About What You Can Expect
+
+A supportive environment that focuses on people's development and best implementation
+Opportunity to design, influence, and be innovative
+Work with inclusive global teams and the open sharing of new ideas. We want your ideas!
+Be supported both inside and outside of the work environment
+The opportunity to build something meaningful and see a direct positive impact on people’s lives!
+Dream big, iterate and experiment to drive innovation.
+
+Joining us is more than saying “yes” to making the world a healthier place. It’s discovering a career that’s challenging, supportive and inspiring. Where a culture driven by excellence helps you not only meet your goals, but also create new ones. We focus on creating a diverse and inclusive culture, encouraging individual expression in the workplace and thrive on the innovative ideas this generates. If this sounds like the workplace for you, apply now!

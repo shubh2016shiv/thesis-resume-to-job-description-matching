@@ -1,0 +1,2 @@
+Title: C Developer  ASPNET, SQL Server, Multithreaded
+Full Description: Senior/ C Software Developer  ASP.NET, SQL Server, Multithreading My client, a leading Search agency, are looking to expand their technology team with the addition of an experienced Software Developer. They are looking for candidates who have strong ASP.NET, C, SQL Server and Mulithreading experience. Additionally experience with WCF, SOAP, Salesforce and LINQ would be beneficial

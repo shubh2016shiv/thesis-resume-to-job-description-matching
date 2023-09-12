@@ -1,0 +1,27 @@
+Lead Consultant Machine Learning
+Elixir Consulting (A Gi Group Holding company)  Bengaluru, Karnataka, India On-site 3 weeks ago  18 applicants
+
+About the job
+Job Description
+
+Responsible for the ML Ops pipelines creation and automation on cloud and premise, CI/CD pipelines orchestration across multiple projects
+Responsible for designing and reviewing ML architectural designs with stakholders.
+ML models code refactoring, training, retraining, deployment, testing and continuous monitoring for drift.
+Applying software engineering rigor and best practices to machine learning, including CI/CD, automation, etc
+Optimisation of model hyper parameters
+
+Requirements
+
+10+ years of demonstrated expertise in building ML/automation pipelines from scratch (Including model versioning, model and data lineage, monitoring, model hosting and deployment, model optimization, scalability, orchestration, continuous learning, Automated pipelines)
+Knowledge of architectural design and implementation of end-to-end ML solutions.
+Should be proficient in AWS components such as Sage maker, AWS Lambda, other AWS services, serverless services, etc.
+Strong knowledge of python and PySpark. Working knowledge of R is preferred
+Strong knowledge of working tools like Docker, Kubernetes, Jenkins
+Bachelor’s or Master’s in Computer Applications/Computer Science OR Specialization/courses in ML/DS, having deep understanding of SDLC.
+
+Benefits
+
+Hybrid Model
+5 days Working
+Enhance skill with diverse projects
+Work Life Balance

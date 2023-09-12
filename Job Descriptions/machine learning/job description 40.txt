@@ -1,0 +1,45 @@
+Senior Data Scientist
+New Relic, Inc.  Bengaluru, Karnataka, India 2 weeks ago  185 applicants
+
+About the job
+Your opportunity
+
+Interested in building core data Analytical models that power the Growth, GTM, Product, User360 and Finance teams at NewRelic. We seek data scientist who are passionate about data at scale and useful insights to build a Data-Driven Operating Model at NewRelic! We are a fast-growing data engineering & Technology team building an “internal-facing data product” with a bold, ambitious vision to build the core data foundation needed to be responsible for a successful consumption business.
+
+We build core data products, promote data-driven culture, modernize insights through self-service and establish a single source of truth in business and customer metrics!
+
+What you'll do
+
+Mine and analyze data from the EDW and other data sources in the organization to build CFS-Central Feature Store as a foundation to support multiple DS use cases. Work with stakeholders, data analysts and data engineers to build and deploy Data Science models to support business use cases of customer acquisition, cross-sell/upsell, and customer retention. Leverage Statistical computer languages Python, SQL, and libraries (NumPy, Pandas) to manipulate data and draw insights from large data sets.
+
+This role requires
+
+BS/MS degree in Computer Science or PhD in Statistics, Mathematics, Data Science.
+At least 3+ Years experience as a Data Scientist.
+Hands-on experience in Python and SQL.
+3+ Years of experience in demonstrating numerical and machine learning libraries (NumPy, Pandas, sci-kit-learn, Tensorflow, etc.)
+Strong experience with the open-source and AWS Cloud ecosystem (experience with EMR, EKS, Snowflake, S3, SageMaker, and abacus.ai)
+Learning/statistical techniques, including Regression, Classification, Ensemble Methods, Deep Learning, and Reinforcement Learning.
+
+Bonus points if you have
+
+Hands-on experience with git.
+Dbt experience is good have
+
+We're looking for bold and passionate people to be a part of our mission to help every engineer do their best work, every day, using data, not opinions, at every stage of the software lifecycle. We'd love to have you apply, even if you don't feel you meet every single requirement. What's most important to us is finding authentic and accountable people who feel connected to our mission and values, not just candidates who check off all the boxes.
+
+We believe in empowering all Relics to achieve professional and business success through a workforce model called Flex First. Flex First allows us to work in a variety of workplaces that best support our success, including fully office-based, fully remote, or hybrid.
+
+Read more about Flex First.
+
+Our hiring process
+
+Please note that visa sponsorship is not available for this position.
+
+In compliance with applicable law, all persons hired will be required to verify identity and eligibility to work and to complete employment eligibility verification. Note: Our stewardship of the data of thousands of customers’ means that a criminal background check is required to join New Relic.
+
+Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. New Relic does not accept unsolicited headhunter and agency resumes, and will not pay fees to any third-party agency or company that does not have a signed agreement with New Relic.
+
+New Relic is an equal opportunity employer. We eagerly seek applicants of diverse background and hire without regard to race, color, gender identity, religion, national origin, ancestry, citizenship, physical abilities (or disability), age, sexual orientation, veteran status, or any other characteristic protected by law.
+
+Interested in the details of our privacy policy? Read more here.

@@ -1,0 +1,73 @@
+Senior Software Developer- job post
+CGI
+3,457 reviews
+United Kingdom•Hybrid remote
+Full-time, Permanent
+
+Job details
+Matches job preferences you are interested in
+Job type
+Full-time
+Permanent
+Job order - J0523-0204 - Permanent Full Time
+Title Senior Software Developer Category Software Development/ Engineering City Various, zINACTIVATE - Various, United Kingdom Job Description Senior Software Developer
+
+Position Description
+We are seeking a skilled software developer. The ideal candidate will have a strong background in JavaScript, HTML, CSS, C# .NET Core, ASP.NET Core, MS-SQL, and DV. They will also have experience in message queueing concepts, certificates, running code on Linux, integrating Python code in .NET, and basic imagery processing concepts and formats.
+
+As a software developer, your primary responsibility will be to develop and maintain software applications that meet the needs of our clients. You will be expected to work on both the front-end and back-end of our applications, with a particular focus on the JS heavy front end that doesn't use any particular framework.
+
+
+
+Your future duties and responsibilities
+Develop and maintain software applications using JavaScript, HTML, CSS, C# .NET Core, and ASP.NET Core
+Work on the front-end and back-end of our applications
+Integrate Python code in .NET and run it from .NET
+Work with MS SQL (not via Entity Framework) to process and store data
+Develop a good understanding of basic imagery processing concepts and formats
+Work on message queueing concepts, preferably RabbitMQ
+Ensure compliance with policies through SonarQube integration
+
+
+
+Required qualifications to be successful in this role
+Proficient in JavaScript, HTML, and CSS
+Strong experience in C# .NET Core and ASP.NET Core
+Experience with MS-SQL
+Familiarity with message queueing concepts, preferably RabbitMQ
+Knowledge of certificates, both user and SSL
+Experience in running code on Linux, preferably RHEL
+Understanding of basic imagery processing concepts and formats
+Experience in integrating Python code in .NET and running it from .NET
+
+Security Clearance: Must be UK national and either hold, or willing to gain higher level Security Cleared (SC).
+
+Working pattern: due to the secure nature of the work we are operating with a hybrid working policy. We would expect our members to be in their local office as and when required. Some travel to other CGI or client sites might be required (all travel away from your base office is expensed)
+
+Unconditionally inclusive we know diversity brings a great greater variety of ideas, perspectives and experiences to the workplace. We actively encourage diversity at CGI and inclusivity is one of our top priorities, with support networks for Parents, Women, LGBT+, BAME, Neurodiversity and Disability.
+
+#LI-CGISDI
+#INDCGI
+#IND
+
+
+
+Insights you can act on
+
+While technology is at the heart of our clients digital transformation, we understand that people are at the heart of business success.
+
+When you join CGI, you become a trusted advisor, collaborating with colleagues and clients to bring forward actionable insights that deliver meaningful and sustainable outcomes. We call our employees members because they are CGI shareholders and owners, and, as owners, we enjoy working and growing together to build a company we are proud of. This has been our Dream since 1976, and it has brought us to where we are todayone of the worlds largest independent providers of IT and business consulting services.
+
+At CGI, we recognize the richness that diversity brings. We strive to create a work culture where everyone belongs, and we collaborate with clients in building more inclusive communities. As an equal opportunity employer, we empower all our members to succeed and grow. If you require an accommodation at any point during the recruitment process, please let us know. We will be happy to assist.
+
+Ready to become part of our success story? Join CGIwhere your ideas and actions make a difference.
+
+
+
+Skills
+.NET
+C#
+JavaScript
+Linux
+Python
+Reference 1053983

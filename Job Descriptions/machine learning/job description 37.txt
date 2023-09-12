@@ -1,0 +1,15 @@
+Manager - Data Scientist
+SBI Card  Gurugram, Haryana, India On-site 1 month ago  114 applicants
+
+About the job
+Job Description
+Develop customized scorecards for all kind of interventions in customer's credit lifecycle
+Develop self cure models for customized collection interventions & cost control
+Develop micro segments for effective portfolio interventions & to maintain acquisition quality
+Develop transaction level scorecards as input to the authourization strategy and cross-sell qualifiation
+Develop application fraud prevention scorecard
+Develop propensity models for offering hardship programs
+Develop customized acqusition scorecards for assigned segments.
+Develop customized behaviour scorecards for each assigned segment.
+Maintain inventory of assigned models
+Automate & ensure model deployment either in credit & fraud decision engines or turbine/data lake

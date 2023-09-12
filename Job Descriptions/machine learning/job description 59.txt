@@ -1,0 +1,35 @@
+MLOPS Engineer
+Planview, Inc.  Bengaluru, Karnataka, India On-site 1 week ago  Over 200 applicants
+
+About the job
+Overview
+
+Planview is looking for a passionate data engineer to join our team innovating tools for connected work. You will work closely with other data engineers, data scientists and individual product teams to specify, validate, prototype, scale, and deploy features with a consistent customer experience across the Planview product suite.
+
+Responsibilities
+
+Ability to work in a fast paced start up mindset. Should be able to manage all aspects of AI/ML activities
+Develop platforms that make data across applications/application deployments available for AI/ML-driven feature prototyping, proofs-of-concept, and general availability
+Refine data pipelines for analysis, while refining, automating, and scaling as needed for the use-case at hand
+Work on various aspects of the AI/ML ecosystem - model building, ML pipelines, logging & versioning, documentation, scaling, deployment, monitoring and maintenance etc.
+Work closely with Data scientists and MLOps Engineers to come up with scalable system and model architectures for enabling real-time ML/AI services
+Create consumable services utilizing caching and other strategies to maximize performance
+
+Qualifications
+
+Required qualifications
+
+Masters or equivalent experience in Informatics, CS, Data Science or a related field
+2+ years of experience as a data engineer or data scientist with a focus on data and ML infrastructure engineering
+Strong Python and SQL coding skills
+Experience load-testing, profiling, maximizing performance, and choosing the tool stack that provides the right price-performance fit
+Experience with AWS Data and ML Technologies (AWS Sagemaker, Data Pipeline, Glue, Athena, Redshift etc)
+
+Preferred Qualifications
+
+Demonstrated experience building data and analytics pipelines/services that efficiently scale for cloud application usage, meeting a product team’s SLA for performance and resilience
+Exposure to any of the libraries and frameworks in data science (Scikit Learn, Tensorflow, PyTorch etc)
+Exposure to automated deployment and orchestration (CI/CD, Github Actions, Docker etc
+Exposure to data version control (DVC), orchestration tools (Kubeflow, etc), and MLOps tools (AWS SageMaker Experiments, SageMaker Monitoring, MLflow, Seldon, KServe etc)
+Skilled at working as part of a global, diverse workforce of high-performing individuals
+AWS Certification is a plus

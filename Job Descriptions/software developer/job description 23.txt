@@ -1,0 +1,23 @@
+Software Developer- Mumbai
+DC Consultants(India,USA,Australia,GCC)  Mumbai, Maharashtra, India On-site 1 week ago  7 applicants
+
+About the job
+This job is sourced from a job board. Learn moreEmployment Type: Full Time
+
+Work Experience: 1.0 Year(s) To 2.0 Year(s)
+
+We have an urgent opening for the position of Software Developers for a leading Company for the Mumbai location.
+
+Language: Python, POSTGRESQL
+
+Role
+
+Proficiency in writing a complex python script to build data pipelines
+Proficiency in writing ETL scripts for data migration
+Understanding of AWS Lambda
+Understanding of database design, tables, schemas, indexing, etc
+Experience in Data cleaning, amputation
+
+This job is provided by Shine.com
+Desired Skills and Experience
+"database design", python, postgresql

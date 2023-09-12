@@ -1,0 +1,46 @@
+Senior Product Manager (Tech), Workforce Intelligence
+Amazon  London, England, United Kingdom 3 days ago  41 applicants
+
+About the job
+Description
+
+The vision of Workforce Intelligence is to design and build technology to hire the ideal workforce to meet the customer promise anywhere. This organization develops technology to influence global workforce strategies that enable Amazon to scale more efficiently while also providing a unique voice for the hourly workforce. This is accomplished through a variety of science driven initiatives, KPI analysis and reporting, predictive modeling, and data engineering. Amazon’s mission is to be the most customer centric company in the world and Workforce Staffing, the organization responsible for hourly associate hiring globally, is on the front lines of that mission and will be your core customer in this role.
+
+This program will re-invent how Amazon attracts, communicates with, and ultimately hires its hourly associates. This team will own multi-layered research and program implementation to drive deep learnings, process improvements, and strategic recommendations to global leadership. Are you passionate about data? Are you a tinkerer by trade? Do you enjoy questioning the status quo? Do complex and difficult challenges excite you? If yes, this may be the team for you.
+
+The Senior Product Manager (Tech) will work closely with multiple stakeholders in North America, Europe and Asia to design new products to optimize the hiring of hourly associates. The product manager will define and deliver a new product roadmap based on the voice of the candidate, analytics or research topics to optimize hiring efficiency. There are many opportunities in this space to innovate and learn, experiment and pilot, and work closely with our business leaders as well as the Workforce Staffing team.
+
+Key job responsibilities
+
+Define a new product roadmap requiring frequent multi-layered communication, organization/time management, and creative problem solving skills.
+
+Building a close partnerships with stakeholders to research, design, implement and drive adoption of new tools.
+
+Act as a key internal resource in the analysis, measurement, and requirements-gathering related to process improvement and productivity initiatives.
+
+Plan, design and communicate the implementation and adoption of new products.
+
+Identify gaps for localization and bridge them to ensure adoption of products in different locales.
+
+Provide regular updates and metrics to stakeholders, including monthly and quarterly business reviews.
+
+Partner with legal, public relations, employee relations to ensure compliance of new products in different legal jurisdictions.
+
+Basic Qualifications
+
+Bachelor's degree
+Experience owning/driving roadmap strategy and definition
+Experience with feature delivery and tradeoffs of a product
+Experience contributing to engineering discussions around technology decisions and strategy related to a product
+Experience managing technical products or online services
+Experience in representing and advocating for a variety of critical customers and stakeholders during executive-level prioritization and planning
+Experience in technical product management, program management or engineering
+Experience owning feature delivery and tradeoffs of a product
+5+ years of end to end product delivery experience
+5+ years of technical product or program management experience
+
+Preferred Qualifications
+
+Master's degree
+7+ years of technical product or program management experience
+Established experience in HR, Business Analytics or Recruiting with knowledge of HR Privacy regulations and AWS technologies for business intelligence.

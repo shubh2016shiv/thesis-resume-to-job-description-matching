@@ -1,0 +1,36 @@
+R&D Software Developer C#
+Hitachi Energy  Bengaluru, Karnataka, India 1 week ago  125 applicants
+
+About the job
+Software Developer C#
+
+Hitachi Energy is looking for Software Developer C# for its for its Bangalore, India location.
+
+Hitachi Energy provides industry leading software and deep domain expertise. Our solutions help the world’s most asset-intensive industries such as energy, utilities, and mining to solve their biggest challenges, from plant level, regional network scale, to global fleet-wide operations. At Hitachi Energy, it is the people that matter most - to us and our customers. Which is why, we are always looking to add more talent to our team. Knowledge is critical. Drive is essential. Creativity is the key.
+
+In this role, you will work in our Global Lumada Team to support the Enterprise Software (ES) product group that delivers the Lumada portfolio. Your main goal will be to enhance our solution with the long-term planning & optimization capabilities.
+
+Responsibilities
+
+Achieving business goals through designing and developing code in the .NET technologies
+Assuring high code quality through unit tests and adherence to software development best practices like Clean Code, SOLID and code reviews
+Improving technical skills and knowledge of the project's business domain
+Being a member of a cross-disciplinary team (active participation in team activities that focus on a common goal)
+
+Qualifications
+
+More than 2-5 years of professional experience in software development
+Experience in the .NET technology stack: C#, REST Web Services, .Net Core, and Entity Framework
+Good knowledge of the Unit and Integration testing technics and frameworks
+Good understanding of the microservices architecture and related topics (for example, message queues, Kubernetes, Docker)
+Knowledge of DDD, Event Sourcing, Go or Python is a plus
+Effective team player with excellent communication skills who is eager to learn new things
+Good spoken and written English
+
+Nice To Have
+
+OData experience
+PowerBI
+Experience in Azure DevOps / Jira / Helm.
+
+Basic Info Location Bangalore, Karnataka, India Job type Full time Experience Experienced Job function IT, Telecom & Internet Contract Regular Publication date 2023-05-18 Reference number R0021788

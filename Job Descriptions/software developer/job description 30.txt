@@ -1,0 +1,26 @@
+Software Engineer II (UI Developer)
+Dun & Bradstreet Technology and Corporate Services India LLP  Hyderabad, Telangana, India Hybrid 2 weeks ago  Over 200 applicants
+
+About the job
+The Role: As a Software Engineer II, you will be responsible for developing highly scalable, distributed software systems, focused on the frontend. In addition, you will work closely with a geographically distributed cross functional software development teams as well as product managers, operational teams, vendors and program managers; execute and improve on industry best SDLC practices that will help modernize our products and platforms; drive innovation and collaborate with technologists across the organization to elevate our team; accelerate our time to market by reducing code complexity; build partner integrations into our customer-facing applications and be involved in exciting initiatives to consolidate multiple applications into a platform to simplify commonalities and leverage tools for efficiency. You are a creative thinker who enjoys developing & architectural breakdown of designs while moving a team toward delivering specific objectives. You work well with others and understand the power of teamwork in order to solve problems effectively. A team environment is fostered and is one where you will be involved in decision-making, architecture, design, implementation, administration, and maintenance of the applications and tools powering our products.
+
+
+Key Responsibilities:
+
+Hands-on development, architectural breakdown experience and design review of software.
+Identify, plan and ensure successful incremental execution of application modernization, re-platform and refactoring efforts.
+Lead software debugging, monitoring and performance optimizations.
+Collaborate with Product Management and other Application Development teams to prioritize initiatives and to plan resources effectively.
+
+Education/Experience and Competencies:
+
+Bachelor’s Degree in Computer Science, Mathematics, or Engineering with strong computer science fundamentals
+Experience working in a fast-paced, Agile methodology environment
+5+ years of experience developing web applications with Angular, Micro frontend, REST APIs, databases and storage.
+Hands-on proficiency with full-stack software development and advanced knowledge of the frontend, JavaScript, HTML and CSS
+Advanced knowledge of Angular and its ecosystem
+Knowledge of high-availability system design, architecture, cloud technologies, SQL databases, open source, and web technologies.
+Understanding of diverse API paradigms (REST, Procedural)
+Java/J2EE knowledge a plus, not required
+Knowledge of browser ecosystem, tools and web security
+Strong knowledge in Git repository management

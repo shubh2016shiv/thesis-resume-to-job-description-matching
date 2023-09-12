@@ -1,0 +1,17 @@
+Machine Learning Engineer
+UnFound  Mumbai, Maharashtra, India On-site 3 days ago  60 applicants
+
+About the job
+This job is sourced from a job board. Learn moreDoes the current state of media frustrate you? Do you want to change the way we consume news? Are you a kickass machine learning practitioner and aspiring entrepreneur, who has opinions on world affairs as well? If so, continue reading!
+
+We at UnFound are developing a product which simplifies complex and cluttered news into simple themes, removes bias by showing all (& often unheard of) perspectives, and produce crisp summaries- all with minimal human intervention!
+
+We are looking for passionate and experienced machine learning ENGINEER/INTERN,
+preferably* with experience in NLP. We want someone who can take initiatives. If you need to be micro-managed, this is NOT the role for you.
+Demonstrable background in machine learning, especially NLP, information retrieval, etc.
+Hands on with popular data science frameworks- Python, Jupyter, TensorFlow, PyTorch.
+Implementation ready background in deep learning techniques like word embeddings, CNN, RNN/LSTM, etc.
+Experience with productionizing machine learning solutions, especially ML powered mobile/ web-apps/ BOTs.
+Hands on experience on AWS, and other cloud platforms. GPU experience is strongly preferred.
+Thorough understanding of back-end concepts, and databases (SQL, Postgres, NoSQL, etc.)
+Good Kaggle (or similar) scores, MOOC (Udacity, Coursera, fast.ai, etc.) preferred. Skills:- Machine Learning (ML), Deep Learning, Natural Language Processing (NLP), Microservices, Python, Cloud Computing, Java and MongoDB

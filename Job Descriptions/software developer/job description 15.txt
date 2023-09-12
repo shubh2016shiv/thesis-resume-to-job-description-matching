@@ -1,0 +1,19 @@
+Software Developer
+Turing  India Remote 1 day ago  137 applicants
+
+About the job
+A fast-growing company that is determined to help humankind stay ahead of the curve while working extensively with AI technology, is looking for a Software Developer. The developer will be working as a team to define, design, and release new features. The company is on a mission to use next-gen technologies that help to enhance Human Intelligence and build a better future. This is an amazing opportunity for developers to learn from industry experts and build a lucrative career for themselves.
+
+Job Responsibilities:
+
+Work on the mobile bug reports and maintain existing application
+Rewrite the entire thing on React Native
+Work with a cross-functional team and guide junior developers
+Ensure the functionality, caliber, and responsiveness of applications
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a software developer
+Prolific experience working with iOS Swift and React Native
+Fluent in spoken and written English

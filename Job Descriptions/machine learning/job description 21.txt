@@ -1,0 +1,29 @@
+ML Engineer
+Turing  Mumbai Metropolitan Region Remote 2 weeks ago  10 applicants
+
+About the job
+A fast-growing company that has quickly established itself as the leading provider of professional information services is looking for an ML Engineer. The engineer will be in charge of using supervised and unsupervised deep learning and machine learning technologies to create predictive models. Businesses can safely rely on the company's superior tools and software solutions to manage their operations successfully, provide results for their clients, and thrive in an ever-evolving environment. This is a great opportunity for developers who are eager to learn and work in a dynamic environment.
+
+Job Responsibilities:
+
+Co-create cutting-edge goods and services with customers throughout the world
+Create models for robotic accounting, conversational AI, natural language interpretation, forecasting, and anomaly detection in the legal domain
+Dispense knowledge in feature engineering, exploratory data analysis, and data wrangling with massive data sets
+Support the creation of proofs-of-concept that show how AI/ML capabilities may be used to solve customer problems in partnership with product and other development teams
+Effectively work with other teams
+Must be a self-starter who can match a technology solution with a commercial objective
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science, Mathematics (or equivalent experience) with a specialization in Machine Learning
+At least 5+ years of relevant experience as an ML Engineer
+3+ years of experience supporting the development of solutions that are ready for production using AI technologies like NLP, Deep Learning, and Machine Learning
+Extensive knowledge of designing, constructing, and improving pipelines for training data and models
+Working knowledge of open source software like NumPy, SciPy, scikit-learn, Pandas, matplotlib, spaCy, NLTK, Jupyter, Anaconda, transformers, etc.
+Demonstrable experience with deep learning frameworks like TensorFlow, Keras, and PyTorch
+Prolific experience applying Deep Learning to NLP
+Experience delivering solutions on cloud-based systems like AWS or Azure
+Prior working knowledge of Test-Driven Development (TDD), Agile, and Software Development Lifecycle tools (such as JIRA, Confluence, and Git)
+Nice to have some knowledge of Computer Vision modeling
+Some familiarity and experience with SageMaker or Azure ML Studio is desirable
+Fluent in spoken and written English communication

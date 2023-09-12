@@ -1,0 +1,74 @@
+Associate,Data Scientist, Data Strategies and Solutions
+Jobs via eFinancialCareers  Gurgaon, Haryana, India Hybrid 5 days ago  39 applicants
+
+About the job
+Description
+
+About this role
+
+About This Role
+
+Elevate your career by joining the world's largest asset manager! Thrive in an environment that fosters positive relationships and recognizes outstanding performance! We know you want to feel valued every single day and be recognized for your contribution. At BlackRock, we strive to empower our employees and effectively engage your involvement in our success.
+
+Business Unit Overview:
+
+Data Strategy & Solutions is a Global Data Research team within BlackRock Portfolio Management Group (PMG) focused on alternative, primary and big data. We are seeking an experienced technical business analyst, with experience in financial services, to contribute to our established primary and vendor data platform and service offering.
+
+This role offers tremendous scope for an entrepreneurial person with a keen interest in learning how alternative data (transactions, sales, sentiments, interests) can drive investment decisions and make a significant contribution to alpha generation across our world class investment teams. You will be working with a team that shares your passion for data and its potential to positively transform the investment landscape.
+
+What you will be doing?
+Work with Portfolio Managers and Researchers to answer Investment hypothesis across Asset Classes, Investment strategies and Sectors
+Investigate new trends and business areas, working across a wide variety of industries on a range of topics that are important to the global investment community
+Develop and use knowledge of technology to design innovative approaches to solve data-related challenges
+Create summaries, data visualizations, algorithms, models, written analyses, and other presentations of work performed
+Manage time and tasks to meet deadlines for stakeholders in time-sensitive projects
+Participate in internal and external meetings to review results of work performed
+Deliver on day-to-day activities of a project including interaction with other team members and stakeholders
+Transform large structured and unstructured data sets into actionable insights
+Assist in the identification and evaluation of data sources and vendors
+Create new data assets including those sourced through web scraping
+Participate in brainstorming meetings to design, execute, and deliver novel solutions for investment debates
+Partner with researchers to deliver analytical solutions to support investment decision making
+
+Qualifications
+2+ years of experience in building data driven solutions to challenging problems preferably in sectors like Investments, Technology, Healthcare, Banking & Financial Services
+Experience using alternative data to analyze the sectors like ESG, Healthcare, Pharmaceutical, Renewable Energy, Social Responsibility, Biotech, and/or Life Sciences sectors is a plus
+Experience incl. working with large unstructured dataset (e.g. in equity or quantitative research, academia, risk or operations, consultancy) is preferred
+Bachelor's degree from an accredited college / university; thesis or experience working in a research environment preferred
+Intellectually curious with strong analytic, quantitative, and critical reasoning skills
+
+Skills required include
+Ability to communicate and align priorities across multiple teams with inspiration and authority
+Database experience (SQL, DDL/DML, performance tuning, data modeling).
+Basic understanding of UNIX/LINUX environments.
+Ability to work efficiently in a fast-paced environment on multiple concurrent projects
+Solid experience doing technical business analysis
+Technical background including working knowledge of at least one of the programming languages SQL, Python, and R
+Familiarity with git, data visualization tools, and web scraping technologies a plus
+Knowledge of Pyspark, Databricks, GCP, Airflow, and other leading big data analysis tools a plus
+
+Other personal characteristics
+Unquestioned integrity and the highest ethical standards
+Ability to provide feedback to others in a constructive, assistive way
+Not afraid of failure and demonstrated ability to operate with vague or light client feedback
+Perform diverse and complex tasks with accuracy and a desire to coach others on the same
+Communicate effectively both verbally and in writing, particularly with global colleagues.
+A built-in drive to achieve outstanding results under tight timelines
+
+Our benefits
+
+To help you stay energized, engaged and inspired, we offer a wide range of benefits including a strong retirement plan, tuition reimbursement, comprehensive healthcare, support for working parents and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about.
+
+Our hybrid work model
+
+BlackRock's hybrid work model is designed to enable a culture of collaboration and apprenticeship that enriches the experience of our employees, while supporting flexibility for all. Employees are currently required to work at least 3 days in the office each week, with the flexibility to work from home up to 2 days a week; some business groups may require more time in the office due to their roles and responsibilities. Beginning in September, all employees will shift to at least 4 days in the office per week, with the flexibility to work from home 1 day a week. We remain focused on increasing the impactful moments that arise when we work together in person - aligned with our commitment to performance and innovation. As a new joiner, you can count on this hybrid model to accelerate your learning and onboarding experience here at BlackRock.
+
+About BlackRock
+
+At BlackRock, we are all connected by one mission: to help more and more people experience financial well-being. Our clients, and the people they serve, are saving for retirement, paying for their children's educations, buying homes and starting businesses. Their investments also help to strengthen the global economy: support businesses small and large; finance infrastructure projects that connect and power cities; and facilitate innovations that drive progress.
+
+This mission would not be possible without our smartest investment - the one we make in our employees. It's why we're dedicated to creating an environment where our colleagues feel welcomed, valued and supported with networks, benefits and development opportunities to help them thrive.
+
+For additional information on BlackRock, please visit careers.blackrock.com | www.blackrock.com/corporate | Instagram: @blackrock | Twitter: @blackrock | LinkedIn: www.linkedin.com/company/blackrock
+
+BlackRock is proud to be an Equal Opportunity Employer. We evaluate qualified applicants without regard to age, disability, family status, gender identity, race, religion, sex, sexual orientation and other protected attributes at law.

@@ -1,0 +1,39 @@
+Deep Learning Engineers
+CONXAI  Bengaluru, Karnataka, India On-site 1 week ago  Over 200 applicants
+
+About the job
+Passionate about developing cutting edge AI solutions that will transform the global construction Industry?
+
+We are building the first NO-CODE AI PLATFORM for the AEC industry, with the 3rd generation AI, that allows users to create complex use cases with zero coding at the frontend and neuro-symbolic AI under the hood.
+
+As a part of this platform, we are working on a module that involves the use of neural reasoning.
+
+Tasks
+
+We are looking for Deep Learning Engineers to implement state of the art techniques and create new deep learning models. With such an experience, the candidate will also be in a position to create cutting edge "Neural Reasoning" solutions to understand construction sites from visual and IoT sensor data. We will provide a unique opportunity to work on the 3rd generation Explainable AI.
+You will work on "Deep Learning" tasks, such as Object Detection, Instance Segmentation, Semantic Segmentation, Pose Estimation, Depth Estimation etc.
+You will build the prototype on real world data. We will provide the environment and tools through our platform to productionize it. We expect the candidate to have a balance of innovation and application perspectives
+You will gain experience in more advanced learning methods such as self-supervision and one-shot learning
+You will contribute to our overall platform and product developments.
+
+You will work closely with and learn from the Founder/CTO, Dr. Krishna Sridhar, former Program Head of Autonomous AI (autonomous driving) at Continental AG and who earlier worked as a Post-Doc AI Researcher at a DARPA Project(US Dept. of Defense).
+
+Requirements
+MS / MTech in Deep Learning with 2+ years of experience. PhD is a plus
+Masters degree in Computer Science from a top university
+Hands on experience in Computer Vision topics such as Object Detection, Instance Segmentation, Semantic Segmentation, Pose Estimation and Depth Estimation
+Exceptional coding skills in PyTorch or TensorFlow
+Publications in top conferences (ICCV, CVPR, ICML)
+A thorough understanding of software design
+Evidence of being able to code from scratch in GitHub
+Additional experience in Bayesian Learning and Graph Neural Networks is a plus
+Additional experience in Natural Language Processing (NLP) using Deep Learning is a plus
+Good writing and speaking skills
+Team player
+Fluent English
+
+Benefits
+
+Competitive salary (INR 18L - 27L per annum) depending on the experience
+Annual Training Budget
+ESOPs

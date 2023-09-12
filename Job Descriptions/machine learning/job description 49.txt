@@ -1,0 +1,42 @@
+NLP Data Scientist - Machine Learning/Deep Learning
+BRANE ENTERPRISES PRIVATE LIMITED  Hyderabad, Telangana, India On-site 1 month ago  2 applicants
+
+About the job
+This job is sourced from a job board. Learn moreJob Description
+
+As a key member of the Digital Mind module, he/she will be responsible for providing Natural Language Processing support to help improve our NLP products and create new NLP applications. NLP Engineer responsibilities include transforming natural language data into useful features using NLP techniques to feed classification algorithms. The individual is expected to possess strong statistical knowledge, good understanding of machine learning methods and text representation techniques.
+
+Responsibilities
+
+2+ years of relevant experience specialized in Machine learning and NLP technology.
+Understanding business objectives and developing models that help to achieve them, along with metrics to track their progress.
+Proficiency in data science and applying appropriate algorithms to different use cases.
+Verifying data quality, and/or ensuring it via data cleaning / pre-processing
+Creating pre-processing pipelines and algorithms to extract information from large set of unstructured data.
+Perform statistical analysis and fine-tuning using test results.
+Training models and tuning their hyperparameters
+Deploying models to production
+Required Skills :
+
+Experience with at least one Deep Learning framework such as TensorFlow, Keras, or PyTorch
+Experience of working with Neural Network models like ANN, RNN, LSTM.
+Should have experience on transformer-based NLP models like BERT, GPT3, T5.
+Should have exposure to building language models to cater multiple tasks such as text generation, Q&A, summarization, translation etc.
+Should be able to evaluate the model accuracy using different metrics such as WER, BLEU, ROGUE, METEOR etc.
+Proficiency with Python and libraries for machine learning such as scikit-learn, pandas, NumPy etc.
+Expertise in visualizing and manipulating big datasets.
+Knowledge on MLOPs and deployment pipelines is a plus.
+Ability to select hardware to run an ML model with the required latency.
+Expertise on supervised, unsupervised and reinforcement ML algorithms.
+Proficient in algorithms of supervised such as Linear Regression, Logistic
+Regression, Decision Tree, Random Forest etc. and unsupervised machine learning such as K-means clustering, DBSCAN etc.
+Excellent communication skills
+Good team player
+Outstanding analytical and problem-solving skills
+Knowledge on Product development life cycle.
+Preferred Skills :
+
+Working experience in Agile methodology
+Experience in deep learning with Computer vision using libraries such as OpenCV, pre-trained networks (VGG16, VGG19, ResNet50, Inception V3, and Xception)
+Knowledge on DevOps and cloud platforms
+Knowledge on Web frameworks such as Django, Flask, FastAPI

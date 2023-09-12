@@ -1,0 +1,2 @@
+Title: Software Developer
+Full Description: To design, develop, deliver and maintain enterprise calibre software for internet, mobile and desktop channels. This role will be responsible for the analysis, design and delivery of software on an individual basis, or act as part of a larger team of developers and analysts. Skills C, ASP.NET MVC Object Orientated design Agile Team Foundation Server SharePoint SQL Server 2008 and above ORM Solutions Mobile development  Apple, android, windows

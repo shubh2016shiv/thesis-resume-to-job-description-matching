@@ -1,0 +1,21 @@
+Lead Data Scientist - Computer Vision
+Michelin  Pune, Maharashtra, India 5 days ago  Over 200 applicants
+
+About the job
+- - - - - - - - - - - -
+
+End-to-end ownership & development deep learning based computer vision models.
+Understand and follow IT & company processes for machine learning projects.
+Understand the problem, analyze & develop approach to solve it
+Collect, analyze, review, clean, organize & document image datasets efficiently / programmatically
+Responsible for getting dataset annotated with help of annotators (internal/external)
+Transform images using opencv library, develop scripts to process annotation data/files
+Customize standard deep learning based computer vision models for object/keypoint detection/segmentation (using python & keras/tensorflow/pytorch)
+Train models systematically with clear rationale behind approach used
+Tune hyperparameters and loss functions
+Track training experiments and evaluate & compare models objectively
+Leverage other machine learning approaches like clustering, regression, classification to solve sub-problems
+Review, refactor, optimize for speed/efficiency and check-in code frequently
+Capture detailed documentation of data, models, application architecture, steps to execute code.
+Manage datasets and deploy models & inferencing pipelines on Azure cloud for scaling in production
+Communicate results/status updates to stakeholders once a week

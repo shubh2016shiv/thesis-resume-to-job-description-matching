@@ -1,0 +1,39 @@
+Artificial Intelligence Specialist
+Enzo Prep | GMAT Experts  Gurugram, Haryana, India On-site 3 hours ago  20 applicants
+
+About the job
+1. Algorithm Development:
+
+Design and implement Machine Learning (ML) algorithms that enable personalized learning experiences and intelligent tutoring systems.
+Collaborate with software developers to ensure algorithms are efficiently implemented and integrated into the platform.
+Regularly review algorithm performance and adjust as needed to optimize results.
+
+2. Data Management:
+
+Oversee the data collection process to ensure it aligns with the needs of the AI models.
+Handle preprocessing tasks including data cleaning, normalization, and transformation.
+Ensure data security and privacy measures are in place and adhered to.
+
+3. Model Training and Refinement:
+
+Use collected and preprocessed data to train AI models.
+Validate models using appropriate techniques and adjust parameters to optimize performance.
+Regularly update and refine models based on new data and changing requirements.
+
+4. Testing and Evaluation:
+
+Conduct thorough testing of AI models to identify any potential issues or areas for improvement.
+Refine the model to ensure model reliability.
+Regularly evaluate model performance against key performance indicators (KPIs) and business objectives.
+
+5. Collaboration and Communication:
+
+Work closely with other team members, such as software developers and UX/UI designers, to ensure seamless integration of AI functionalities into the platform.
+Translate complex AI concepts and methods to non-technical team members and stakeholders.
+Participate in regular team meetings, present progress and results, and collaborate on future developments.
+
+6. Research and Continued Learning:
+
+Stay updated on the latest AI/ML developments and trends, particularly those relevant to the educational sector.
+Research and experiment with new techniques and technologies that could improve the platform.
+Participate in relevant professional development opportunities such as webinars, workshops, or conferences.

@@ -1,0 +1,31 @@
+Patient Analytics and AI/ML/Databricks
+Axtria - Ingenious Insights  Pune, Maharashtra, India Hybrid 3 days ago  Over 200 applicants
+
+About the job
+We are looking for professionals for our Data Science team to join us in our Noida/Hyderabad/Pune/Bangalore office.
+
+
+
+ROLES AND RESPONSIBILITIES
+
+Collaborate with stakeholders to understand business objectives and requirements for predictive modeling projects.
+Design and develop statistical models and algorithms to predict and analyze key business metrics and trends
+Ability to clean, preprocess, and transform large datasets to prepare them for model development.
+Conduct exploratory data analysis to identify patterns, trends, and relationships in the data.
+Select and apply appropriate modeling techniques, such as regression analysis, machine learning algorithms, clustering, neural nets, random forests, deep learning algorithms etc.
+Validate and refine models using various evaluation techniques, including cross-validation, hypothesis testing, and performance metrics.
+Interpret model results and present findings to technical and non-technical stakeholders in a clear and concise manner.
+Collaborate with data engineers to ensure seamless integration of models into production systems.
+
+REQUIRED EXPERIENCE:
+
+Bachelor's or Master's degree in a quantitative field such as Statistics, Mathematics, Data Science, or a related discipline.
+Experience of 4 to 12 years
+Understanding of Patient data/ Claims data/ Patient Analytics is highly desirable
+Proven experience in developing and implementing predictive models in a professional setting.
+Strong proficiency in statistical analysis and modeling techniques, such as linear regression, logistic regression, decision trees, random forests, clustering, deep learning algorithms, boosting, text mining, NLP, social network analysis, etc.
+Proficiency in programming languages such as PySpark or R or Python.
+Solid understanding of database systems and SQL for data retrieval and manipulation.
+Strong problem-solving and analytical skills, with the ability to translate business requirements into actionable models.
+Excellent communication and collaboration skills to work effectively with cross-functional teams.
+Experience with big data technologies (e.g., Hadoop, Spark) and cloud platforms (e.g., AWS, Azure) is a plus.

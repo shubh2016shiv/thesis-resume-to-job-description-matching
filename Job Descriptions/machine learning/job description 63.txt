@@ -1,0 +1,24 @@
+ML Engineer (NLP)
+Paxcom India (P) Ltd - A Paymentus Company  Delhi, Delhi, India On-site 1 month ago  5 applicants
+
+About the job
+This job is sourced from a job board. Learn moreRequirements
+
+Strong practical experience with analysis, development, and deployment of real-world use cases in the area of Natural Language Processing,
+Knowledge of state-of-the-art ML algorithms such as BERT, ELMo, GPT, GPT-3 ChatGPT XLNET, T5 LSTMs, CRFs, ONNX, etc., APIs, and open-source methods.
+Understanding of NLP techniques for text representation, semantic and lexical analysis, data structures, and modeling.
+Proactively identify opportunities and drive the development of state-of-the-art methods aligned with and guided by business priorities.
+Use effective text representations to transform natural language into useful features.
+Find and implement the right algorithms and tools for NLP tasks.
+Train the developed model and run evaluation experiments, and maintain the models using MLOps techniques.
+Work closely with product and business teams to ensure strong alignment between AI solutions and customer requirements.
+An ideal candidate has strong software engineering practices and is comfortable with Python programming, debugging/profiling, and version control.
+Experience with Tensorflow, PyTorch, or other Deep Learning Frameworks.
+Strong experience with data science tools including Python scripting, CUDA, numpy, scipy, matplotlib, scikit-learn, bash scripting, and Linux environment.
+Understanding of Deep Learning fundamentals (CNN, RNN, attention/memory) and extensions (Transformer, LSTM, ResNet, etc. ).
+Perform statistical analysis of results and refine models.
+Extend ML libraries and frameworks to apply in NLP tasks.
+Remain updated in the rapidly changing field of machine learning.
+
+Desired Skills and Experience
+Computer Vision,Data Mining,Machine Learning,NLP,Python,CUDA,OpenCV,PyTorch,Scikit-learn,SciPy,TensorFlow

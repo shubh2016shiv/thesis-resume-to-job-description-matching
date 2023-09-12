@@ -1,0 +1,17 @@
+MLOps Engineer - Deep Learning/Neural Networks
+Leading Financial Services Organisation  Navi Mumbai, Maharashtra, India On-site 1 week ago  2 applicants
+
+About the job
+This job is sourced from a job board. Learn moreJob Description
+
+Must - have technical skills and experience :
+
+Expertise and at least 3yrs of professional experience in MLOps
+Software engineering skills and expertise in SQL
+ML skills- DL, neural network architectures, NLP, graph
+Knowledge of ML and AI frameworks
+Knowledge of GCP Vertex AI
+At least 5 yrs of professional experience in the related field of data science or MLOps
+Professional experience with a major cloud computing platform such as GCP or Azure
+Understanding of AutoML and ensembled models and its pipelines
+Strong communication skills both verbal and written including the ability to interact effectively with colleagues of varying technical and non-technical abilities.

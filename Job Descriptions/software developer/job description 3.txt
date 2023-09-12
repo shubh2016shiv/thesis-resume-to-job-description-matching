@@ -1,0 +1,43 @@
+Associate- Software developer (Java)
+Deutsche Bank  Pune, Maharashtra, India On-site 1 week ago  Over 200 applicants
+
+About the job
+Position Overview
+
+This role is for Software Development Engineer responsible for developing and unit testing software applications. The candidate is expected to work closely with Team Leads or Software Development Managers and other key stake holders to ensure good quality, maintainable, scalable and high performing software applications are delivered to users. He/she should be coming from a strong technological background. Should be hands on and be able to work independently requiring minimal technical/tool guidance. Should be able to technically guide and mentor junior resources in the team. Work closely with team members and vendor team to design and develop software. Should have good communication skill and strong positive outlook.
+
+Key Responsibilities
+Hands-on software development
+Should be able to contribute towards good software design
+Thorough testing of developed software
+Participate in daily stand-up meetings
+Articulate issues and risks to management in timely manner
+Train other team members to bring them up to speed
+Analyse software defects and fix them in timely manner
+Work closely with Functional Analysis and Quality Assurance teams
+
+Experience
+
+Must have (Strong technical knowledge required)
+Strong development skills in Java 8 and above, knowledge of additional languages like Kotlin, Scala, Python is a plus
+Hands on experience in opensource Java frameworks like – Spring Batch, Spring Boot, JPA and Hibernate.
+Hands on experience in messaging technologies like – JMS, IBM MQ, Solace, Kafka
+Experience in at least one of the relational databases – Oracle (preferable), MySQL, Postgres, H2
+Handson experience in developing REST/JSON Web Services
+Should have sound knowledge in Build tools – Maven (preferable), Gradle, Jenkins, TeamCity
+Should have sound knowledge in web and application servers like Tomcat (preferably), Weblogic, Webspere, JBoss etc.
+Should have sound knowledge in revision control system – Git (preferable), SVN
+Sound knowledge of Unit testing frameworks – Junit (preferably), Mockito
+Experience in developing Unix shell scripts
+Experience in Agile methadeologies and understanding of CI/CD.
+
+Nice to have
+Experience in UI development using frameworks like Angular, React
+Understanding of BDD concepts and testing frameworks like Cucumber
+Exposure to development in cloud platforms like Azure, GCP, AWS, Openshift
+Knowledge of Spring Cloud framework e.g. Spring cloud dataflow, stream and tasks Some exposure on ibatis ORM framework.
+Full Stack Development Experience
+
+Our values define the working environment we strive to create – diverse, supportive and welcoming of different views. We embrace a culture reflecting a variety of perspectives, insights and backgrounds to drive innovation. We build talented and diverse teams to drive business results and encourage our people to develop to their full potential. Talk to us about flexible work arrangements and other initiatives we offer.
+
+We promote good working relationships and encourage high standards of conduct and work performance. We welcome applications from talented people from all cultures, countries, races, genders, sexual orientations, disabilities, beliefs and generations and are committed to providing a working environment free from harassment, discrimination and retaliation.

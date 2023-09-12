@@ -1,0 +1,35 @@
+Software Engineer In Test - Deep Learning in Computer Vision
+MathWorks  Hyderabad, Telangana, India Hybrid 2 weeks ago  Over 200 applicants
+
+About the job
+Job Summary
+
+MathWorks has a hybrid work model that enables staff members to split their time between office and home. The hybrid model provides the advantage of having both in-person time with colleagues and flexible at-home life optimizations. Learn More: https://www.mathworks.com/company/jobs/resources/applying-and-interviewing.html#onboarding.
+
+Do you enjoy working with 'Deep learning in vision, Lidar and related domain'? If so, Deep Learning Software Engineer in Test is the position for you. As a Quality Engineer at MathWorks, you will be part of deep learning area of Computer Vision Toolbox (CVT), Image Processing Toolbox(IPT) and Automated Driving Toolbox (ADT) team. You will use your strong programming background to define test strategies and write automation for cutting-edge Deep Learning features in CVT, IPT & ADT toolboxes. You will own, and drive test programs and you will play a key role in ensuring high quality software that exceeds the expectations of our global customers
+
+MathWorks nurtures growth, appreciates diversity, encourages initiative, values teamwork, shares success, and rewards excellence.
+
+Responsibilities
+
+Design, code, debug, and maintain automated test suites for CVT & ADT Deep Learning features.
+
+Design and develop comprehensive test strategies based on functional and design specifications of Automated Driving and Computer Vision Applications.
+
+Participate actively in functional, system and regression testing activities.
+
+Collaborate with all other engineers to resolve product bugs.
+
+Qualifications
+
+A bachelor's degree and 3 years of professional work experience (or a master's degree, or equivalent experience) is required.
+
+Additional Qualifications
+
+Knowledge of popular Deep Learning technologies such as Object detection, Semantic Segmentation, Lidar Deep Learning is required.
+
+Knowledge of at least one of the Deep Learning frameworks like Tensorflow, Pytorch, etc.
+
+Experience in developing tests for deep learning based applications.
+
+Experience in verification & validation of ‘Computer Vision / Image Processing’ applications.

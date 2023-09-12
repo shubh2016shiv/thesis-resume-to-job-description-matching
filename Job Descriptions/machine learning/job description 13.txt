@@ -1,0 +1,21 @@
+Junior Machine Learning Engineer
+Turing  India Remote 1 month ago  Over 200 applicants
+
+About the job
+An NYSE-listed multi-billion dollar company that has been active in the pharmacy industry for over a century is looking for a Junior Machine Learning Engineer. The engineer will be working closely with the product owner, management team, and development team. The US-based company is the world's largest and most diverse healthcare provider. This is a nice opportunity for developers who wish to quickly move up the ladder while working on challenging problems.
+
+Job Responsibilities:
+
+Understand the importance of shipping on-time and meet deadlines
+Help form and maintain engineering standards, tooling, and processes
+Patiently dive deep to analyze complex challenges and come up with innovative solutions
+Take product ownership and push features over the line
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a Machine Learning Engineer
+Prolific experience working with Python and Deep Learning
+Extensive experience working with Machine Learning
+Ability to navigate through deadlines and work under pressure
+Excellent problem-solving and multitasking skills

@@ -1,0 +1,76 @@
+Software Developer - Python
+Uplers  Pune, Maharashtra, India Hybrid 3 days ago  5 applicants
+
+About the job
+Director of software engineering
+
+
+Experience: 10+ years
+
+Salary: INR 5,41,000 / month (based on experience)
+
+Expected Notice Period: 2 to 4 Weeks
+
+Shift: IST Full Shift (10:30 AM to 7:30 PM IST)
+
+Opportunity Type: Hybrid (Pune)
+
+Placement Type: Direct Placement
+
+(*Note: This is a requirement for one of Uplers' clients)
+
+
+About the Client/Company:
+
+It is the world’s first sales compensation solution driven by a collective data model. It allows organizations to design, execute, and optimize their sales compensation strategy within a single platform.
+
+
+Our Client is Looking for:
+
+Director of software engineering who is passionate about their work, eager to learn and grow, and who is committed to delivering exceptional results, who is responsible for the development and maintenance of Auction applications for a diverse and vast number of browsers. Who will work alongside software and production engineers to build and ship new features that will drive the growth of the company. Committing to collaboration, problem-solving, sophisticated design, and creating quality products is essential. If you are a team player, with a positive attitude and a desire to make a difference, then we want to hear from you!
+
+
+Roles & Responsibilities
+
+You will:
+
+Commitment to hire, retain, grow, and lead a team of software engineers working on our next-generation data platform powered by Databricks. You will be responsible for recruiting top engineering talent and building a well-developed people management philosophy to drive team performance.
+Provide consistent communication with product management and customer onboarding teams to understand and implement customer requirements (e.g., stand up new product features in a standardized, repeatable way when feasible, customize requirements when appropriate, etc.).
+Be ready to collaborate closely with the North American teams to establish support and enforce best practices for existing customers and onboard new ones. Develop recommendations and standardizations in how we design and implement new building blocks on our data platform to streamline popular use cases and allow for local differences where advantageous.
+You will have technical accountability in the data platform group and will guide the team as they support and maintain data processing pipelines, create new ones, while evolving and improving our platform.
+
+Be in our Pune office 3-days a week (hybrid)
+
+
+This Role Requires:
+
+Have 10+ years of experience in software development.
+Ability to build successful peer partnerships working with leaders across Engineering, Product, and Professional Services.
+Prior experience leading a product-focussed Engineering team where you have worked through the startup & growth stage and succeeded in navigating the complexity, chaos, and excitement
+Strong people leadership capabilities in mentoring and coaching teams of around 10-20 engineers with prior experience leading managers and/or leads.
+Demonstrates technical depth with Python, relational databases, and data platform scaling that will enable you to guide and support the engineering team.
+In a past life, a software engineer with heavy exposure to data. Note this is not a hands-on coding role, but you should be able to dive into technical details as needed.
+
+Nice to have:
+
+Background in building data platforms with Spark (ideally on Databricks) and a background in traditional relational database and ETL technologies.
+Previous experience working at a start-up.
+
+About Uplers
+
+Our goal is to make hiring reliable, simple, and fast. Our role will be to help all our talents find and apply for relevant direct placement hybrid opportunities and progress in their career. We will support any grievances or challenges you may face during the engagement. You will also be assigned to a dedicated Talent Success Coach during the engagement.
+
+
+How to apply for this opportunity?
+
+
+Register or login on our portal & fill out the application
+Clear the assessment(s) required and apply for the opportunity
+Once completed, our team will contact you with an interview with our SME/Matcher
+Once it’s all done, your profile will be shared with the client
+When selected, just meet the client and get your exciting career started!
+
+(Note: There are many more opportunities apart from this on the portal. Depending on the assessments you clear, you can apply for them as well).
+
+
+So, if you are ready for a new challenge, a great work environment, and an opportunity to take your career to the next level, don't hesitate to apply today. We are waiting for you!

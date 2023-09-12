@@ -1,0 +1,55 @@
+Sr Application/ Software Developer
+Hexagon Manufacturing Intelligence  Pune, Maharashtra, India On-site 1 week ago  103 applicants
+
+About the job
+Hexagon is a global leader in sensor, software and autonomous solutions. We are putting data to work to boost efficiency, productivity, and quality across industrial, manufacturing, infrastructure, safety, and mobility applications. Our technologies are shaping urban and production ecosystems to become increasingly connected and autonomous – ensuring a scalable, sustainable future. Hexagon’s Manufacturing Intelligence division provides solutions that utilise data from design and engineering, production and metrology to make manufacturing smarter.
+
+
+Due to our continued growth, we are seeking a Senior Software / Application Developer to lead work on a new simulation software application development team.
+
+You will be a software developer with an enquiring and technical mind, looking to work on technical software which is used across the world. You will be comfortable working on front-end GUIs, complex object models and using web-APIs, and yet be able to work with technical experts in the domain.
+
+You must be ready to challenge yourself working with expert developers in applied maths and web-backends, and across a stack that includes desktop and web front ends. You will have experience of translating requirements from on-site teams based in the UK, converting them into software design and code.
+
+You will be developing our world leading CAE (Computer Aided Engineering) applications for blue-chip electric-vehicle, renewable energy, aerospace & automotive companies.
+
+Key responsibilities
+
+You must be able to work across the whole software development life cycle:
+
+Understand technical requirements from our product designers in UK
+Take ownership of software delivery
+Code new features in our simulation software
+Test software against user & technical requirements
+Debugging and resolving technical problems that arise.
+Producing detailed design documentation.
+Work with developers, testers, and product designers in an agile environment
+Actively contribute to the culture of this dynamic team
+4-6 years commercial software development experience, of which significant experience is in C#, Python or Smalltalk
+
+Job requirements and qualifications
+
+Essential:
+
+Strong English skills, written and spoken
+Prior experience as a .NET Developer.
+Good proficiency in C#, Python or Smalltalk
+2:1 or better graduate in computer-science, a science or engineering degree
+Good numeracy skills
+Love of technology and attention to detail
+Automated testing – unit and system testing
+Experience of working on complex object models or API’s
+Use of JSON or XML
+Production use of Git, GitLab, GitHub or Azure DevOps
+Experience of mentoring junior team members
+Agile methods such as Scrum
+
+Desirable:
+
+Experience in / Desire to learn
+Web front-end development with JavaScript using Angular
+React frameworks
+Experience in JIRA or similar tracking tools
+Experience in documentation using Confluence
+An appreciation for physics or engineering
+Test Driven Development

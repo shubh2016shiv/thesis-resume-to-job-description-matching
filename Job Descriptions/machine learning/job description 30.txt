@@ -1,0 +1,43 @@
+AM/DM - Data Scientist
+Maruti Suzuki India Limited  Gurgaon, Haryana, India On-site 3 weeks ago  Over 200 applicants
+
+About the job
+Responsibilities
+
+Role & Responsibility:
+
+Understanding of accident data and environment data
+Architect a data-based solution for the business problem presented.
+Develop contextual automotive domain knowledge around the problem. Collaborate with the domain knowledge expert if required.
+Understand the IoT device (Telematics Control Unit) of the vehicle.
+Develop understanding of Time-Series Data
+Clean up and Prepare datasets for modeling, get involved in ETL process if required.
+Exploratory data and get insights. Present the descriptive stats and insights to the domain experts. Find meaningful patterns in data, detect seasonality and trend, establish cause and effect relationships in data. Develop & Test hypothesis in collaboration with the domain experts.
+Design features, shortlist features, study feature importance, decide the ML strategy
+Data modelling, selection of an appropriate machine learning / deep learning model, data pipeline setup for model training, hyper-parameter tuning, validation and test. Apply ensemble model techniques (if required)
+Reporting & Visualization: Comprehension of reports, visualization of data in the form of plots.
+Mentoring juniors in data science
+
+Competency Requirement
+
+Must have minimum of 4 years of industry experience in developing data science models and /or accident
+Strong programming skills in python is a must. Working experience with pandas, numpy, matplotlib, sklearn
+Statistical analyses (descriptive ,inferential, hypothesis testing)
+Hands on experience of mathematical modelling
+ML models (GLM, Boosting, Decision Trees, Neural Networks, SVM, Bayesian Methods,)
+Time series models (econometrics, RNNs, LSTM, GRUs)
+Unsupervised learning algorithms
+Experience of image classification using computer vision techniques
+Experience of deployment of models
+
+Desirable
+
+Experience of simulation of accidents on PC crash/ OPENPass
+Experience of deployment of models
+Experience in time-series/IoT data analytics
+Exposure to automotive systems, automobile basics, controller area Network protocol (CAN protocol) etc.
+Data Visualization tools such as Tableau, PowerBI etc
+
+Educational Requirement
+
+BE/ B Tech with 60% marks and certification course/diploma in Data science

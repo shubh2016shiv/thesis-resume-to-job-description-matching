@@ -1,0 +1,23 @@
+Software Developer
+mailercloud  Kozhikode, Kerala, India On-site 3 weeks ago  Over 200 applicants
+
+About the job
+Mailercloud, an innovative information technology and services company, is seeking a talented Software Developer to join our team. As the Software Developer, you will be responsible for developing and maintaining software solutions that meet the needs of our customers and improve their experience with our products. You will work in a collaborative environment where your ideas are valued and your skills are appreciated.
+
+Responsibilities
+Design, develop, and maintain software applications and features
+Write and execute unit tests to ensure the software meets quality standards
+Collaborate with other developers to design and implement new features and enhancements
+Participate in code reviews to ensure code is efficient, maintainable, and scalable
+Troubleshoot and debug software issues
+Stay up-to-date with emerging trends and technologies in software development
+Provide support to customers and internal teams with technical issues and inquiries
+
+Requirements
+Bachelor's degree in Computer Science or related field
+Strong proficiency in programming languages such as Go and PHP
+Experience with software development methodologies such as Agile and Scrum
+Familiarity with database technologies such as SQL and NoSQL
+Knowledge of web development technologies such as HTML, CSS, and JavaScript
+Understanding of object-oriented programming concepts
+Excellent communication and problem-solving skills.

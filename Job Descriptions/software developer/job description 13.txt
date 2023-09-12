@@ -1,0 +1,67 @@
+Senior Software Developer(Data Engineer)
+S&P Global  Gurgaon, Haryana, India On-site 2 weeks ago  40 applicants
+
+About the job
+Segment : S&P Global Sustainable1
+
+The Role: Senior Software Developer( Data Engineer)
+
+The Team: We are looking for a highly motivated, enthusiastic, and skilled software engineer for Sustainable1. This developer would help us to accelerate our ESG Analytics work.
+
+The Impact: As a developer, you will be part of a development team that manages and supports the internal applications that is supporting ESG datasets. This role expects a candidate to handle any data processing, big data application development.
+
+What’s in it for you: It’s a fast-paced agile environment that deals with huge volumes of data, so you’ll have an opportunity to sharpen your data skills and work on an emerging technology stack.
+
+Responsibilities
+Design, and implement software components for Climanomics platform.
+Perform analysis and articulate solutions.
+Design underlying engineering for use in multiple product offerings supporting a large volume of end-users.
+Develop project plans with task breakdowns and estimates.
+Manage and improve existing solutions.
+Solve a variety of complex problems and figure out possible solutions, weighing the costs and benefits.
+Perform other duties as assigned
+Basic Qualifications
+
+What We’re Looking For:
+Bachelors/Master’s Degree in Computer Science, Information Systems or equivalent.
+3+ years of experience working with highly available, data-at-scale in a production environment
+Proficient with software development lifecycle (SDLC) methodologies like Agile, Test-driven development
+Solid understanding of Data Engineering fundamentals.
+Experience designing and implementing large-scale, distributed systems
+Experience with large datasets and ETL pipelines in cloud environments (preferably with Postgres, DynamoDB, and Document DB)
+Experience in distributed event streaming platform like Apache Kafka
+Ability to work and communicate effectively with developer and Business users.
+Proficient programming skills in Python
+Experience with SQL and NoSQL databases
+Preferred Qualifications
+Exposure to working in AWS environment
+Nice to have skills: Apache Spark, Scala, Databricks
+Experience with SAFe Agile Framework
+Experience in Devops and container platform such as Docker Enterprise or Kubernetes.
+Return to Work
+
+Have you taken time out for caring responsibilities and are now looking to return to work? As part of our Return to Work initiative , we are encouraging enthusiastic and talented returners to apply, and will actively support your return to the workplace.
+
+Grade: 10
+
+The Location: Hyderabad / Ahmedabad/ Gurgaon
+
+About Company Statement
+
+S&P Global delivers essential intelligence that powers decision making. We provide the world’s leading organizations with the right data, connected technologies and expertise they need to move ahead. As part of our team, you’ll help solve complex challenges that equip businesses, governments and individuals with the knowledge to adapt to a changing economic landscape.
+
+Equal Opportunity Employer
+
+S&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.
+
+If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person. 
+
+US Candidates Only: The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.
+
+20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.1 - Middle Professional Tier I (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning)
+
+Job ID: 285405
+
+Posted On: 2023-05-22
+
+Location: Hyderabad, Telangana, India

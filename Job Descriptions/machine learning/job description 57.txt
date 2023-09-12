@@ -1,0 +1,46 @@
+Senior / Lead Data Scientist - Pharma
+Tiger Analytics  Chennai, Tamil Nadu, India 2 weeks ago  88 applicants
+
+About the job
+Job Description
+
+Job Title: Lead Data Scientist
+
+Bangalore | Chennai | Hyderabad
+
+Tiger Analytics is a global AI and analytics consulting firm. With data and technology at the core of our solutions, our 2800+ tribe is solving problems that eventually impact the lives of millions globally. Our culture is modeled around expertise and respect with a team-first mindset. Headquartered in Silicon Valley, you’ll find our delivery centers across the globe and offices in multiple cities across India, the US, the UK, Canada, and Singapore, including a substantial remote global workforce.
+
+We’re Great Place to Work-Certified™. Working at Tiger Analytics, you’ll be at the heart of an AI revolution. You’ll work with teams that push the boundaries of what is possible and build solutions that energize and inspire.
+
+Curious about the role? What your typical day would look like?
+
+As a Senior / Lead Data Scientist, you will work on a broad range of cutting-edge data analytics and machine learning problemsin pharma and life sciences space; Seamlessly switch between roles of an Individual Contributor, team member, and data science manager as demanded by each project.
+
+On a typical day, you might
+
+Engage with clients to understand their business context
+Work with large scale healthcare related datasets
+Devise creative analytical approaches to solve business problems
+Develop and enhance algorithms and models to solve a business problem
+Maintaining all models along with development and updating of code and process documentation
+Ideate with your peers to design data science solution approaches to unstructured problems, conduct quantitative analyses, and interpret results
+Interact and collaborate with multiple teams (Consulting & Engineering) and various stakeholders to meet deadlines, to bring Analytical Solutions to life.
+
+What do we expect?
+
+8 - 12 years of total IT experience with 5+ years in Data Science (preferably working on pharma and life sciences projects)
+Experience working with healthcare datasets such as claims, EHR, CRM etc.
+Experience working on commercial analytics problems such as forecasting, call planning, omni-channel marketing, dynamic targeting, next best action, etc.
+Experience working with machine learning approaches such as regression, classification, sequential models, NLP, Deep learning
+A passion for writing high-quality code (Python) and the code should be modular, scalable, and free of bugs.
+Comprehensive knowledge of SQL with experience in office skills (Excel & PowerPoint)
+Enthuse to collaborate with various stakeholders across the organization and take complete ownership of deliverables.
+Adept understanding of various data science approaches, machine learning algorithms, and statistical methods.
+
+You are important to us, let’s stay connected!
+
+Every individual comes with a different set of skills and qualities so even if you don’t tick all the boxes for the role today, we urge you to apply as there might be a suitable/unique role for you tomorrow.
+
+We are an equal opportunity employer. Our diverse and inclusive culture and values guide us to listen, trust, respect, and encourage people to grow the way they desire.
+
+Note: The designation will be commensurate with expertise and experience. Compensation packages are among the best in the industry.

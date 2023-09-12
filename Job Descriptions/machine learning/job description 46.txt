@@ -1,0 +1,49 @@
+Camera Machine Learning Specialist/Lead
+Qualcomm  Bengaluru East, Karnataka, India Hybrid 2 weeks ago  Over 200 applicants
+
+About the job
+Company
+
+Qualcomm India Private Limited
+
+Job Area
+
+Engineering Group, Engineering Group > Systems Engineering
+
+General Summary
+
+Key job responsibilities may include a subset of the following:
+Developing machine learning algorithms for advanced imaging features (low-light, next-generation sensors, vision and scene understanding etc.)
+Work on training strategies and supporting deployment and commercialization for the machine learning features
+Work on system and algorithmic design changes to improve machine learning inference speed
+Driving regular engagements with software/test teams towards the ML feature commercialization on Qualcomm platforms
+
+Minimum Qualifications
+Bachelor's OR Master’s degree in Science, Engineering, or related field, with 7+ years’ working experience in machine learning and deep network architectures
+Working experience with machine learning framework/packages (e.g, PyTorch, TensorFlow, Keras etc.)
+Strong background in image and signal processing, statistics, and data analysis.
+Strong programming skills and working experience in C/C++ and Python.
+
+Preferred Qualifications
+Background in color science, and image signal processor pipelines
+Knowledge/working experience in computer vision algorithms
+Good communication skills
+
+Educational Requirements
+Required: Master’s, Computer Engineering and/or Computer Science and/or Electrical Engineering
+Preferred: Doctorate, Computer Engineering and/or Computer Science and/or Electrical Engineering
+
+Keywords: Machine learning, Image Processing, Camera, ISP, Optimization, Computer Vision
+
+Minimum Qualifications
+Bachelor's degree in Engineering, Information Systems, Computer Science, or related field and 6+ years of Systems Engineering or related work experience.
+
+OR
+
+Master's degree in Engineering, Information Systems, Computer Science, or related field and 5+ years of Systems Engineering or related work experience.
+
+OR
+
+PhD in Engineering, Information Systems, Computer Science, or related field and 4+ years of Systems Engineering or related work experience.
+
+Applicants: If you need an accommodation, during the application/hiring process, you may request an accommodation by sending email to accommodationsupport

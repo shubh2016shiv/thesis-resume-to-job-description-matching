@@ -1,0 +1,53 @@
+Staff Deep Learning NLP Engineer
+H1  India Remote 1 month ago  128 applicants
+
+About the job
+At H1, we believe access to the best healthcare information is a basic human right. Our mission is to provide a platform that can optimally inform every doctor interaction globally. This promotes health equity and builds needed trust in healthcare systems. To accomplish this our teams harness the power of data and AI-technology to unlock groundbreaking medical insights and convert those insights into action that result in optimal patient outcomes and accelerates an equitable and inclusive drug development lifecycle. Visit h1.co to learn more about us.
+
+Our team is building a suite of machine learning tools to help solve problems in the healthcare and life science space. The team’s initial focus is the entity matching problem to automate the merging of data from across multiple sources to enrich the health care provider profiles in H1’s core product. As the team grows there many data-driven projects lined up including intelligent automated web scraping, natural language processing to better group and classify medical information, and graph algorithms to understand the patterns of connection across the global healthcare landscape.
+
+What You'll Do At H1
+
+Supporting Machine Learning platform team with technical directions, while providing them feedback and guidance
+Understanding business objectives and developing models that help to achieve them, along with metrics to track their progress
+Managing available resources such as hardware, data, and personnel so that deadlines are met
+Analyzing the ML algorithms that could be used to solve a given problem and ranking them by their success probability
+Exploring and visualizing data to gain an understanding of it, then identifying differences in data distribution that could affect performance when deploying the model in the real world
+Verifying data quality, and/or ensuring it via data cleaning
+Supervising the data acquisition process if more data is needed
+Finding available datasets online that could be used for training
+Defining validation strategies
+Defining the preprocessing or feature engineering to be done on a given dataset
+Defining data augmentation pipelines
+Training models and tuning their hyperparameters
+Analyzing the errors of the model and designing strategies to overcome them
+Deploying models to production
+
+About You
+
+An agile development background and history of leading teams in highly agile environments
+Strong leadership, communication, collaboration, and problem-solving skills
+A great human who contributes to an amazing, accepting, and diverse culture
+
+Requirements
+
+Experience leading small teams of engineers and inspiring them to greatness
+5+ years of experience with most of the following skill sets and technologies: Python, containerization ecosystems (Docker, Kubernetes, etc) DAG management systems (Airflow, Argo, Prefect, etc) SQL/NoSQL database design and optimization, AWS, Unit tests, CI/CD tools, documenting software architectures, refactoring existing codebases
+Proficiency with a deep learning framework such as Pytorch or Keras or Tensorflow or OpenAI
+Proficiency with Python and basic libraries for machine learning such as scikit-learn and pandas
+Expertise in visualizing and manipulating big datasets
+Familiarity with Linux
+Ability to select hardware to run an ML model with the required latency
+Understanding of LLM, Langchain framework is a plus
+
+Not meeting all the requirements but still feel like you’d be a great fit? Tell us how you can contribute to our team in a cover letter!
+
+H1 OFFERS
+
+Full suite of health insurance options, in addition to generous paid time off
+Pre-planned company-wide wellness holidays
+Retirement options
+Health & charitable donation stipends
+Impactful Business Resource Groups
+Flexible work hours & the opportunity to work from anywhere
+The opportunity to work with leading biotech and life sciences companies in an innovative industry with a mission to improve healthcare around the globe

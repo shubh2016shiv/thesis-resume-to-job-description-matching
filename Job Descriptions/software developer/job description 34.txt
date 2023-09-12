@@ -1,0 +1,31 @@
+Fresher Software Developer / Software Tester (0-2 Years) Upto 5LPA
+SAZ India  Kochi, Kerala, India On-site 4 weeks ago  Over 200 applicants
+
+About the job
+We are looking for a Software Developer to build and implement functional programs. You will be given training to work with other Developers and Product Managers throughout the software development life cycle.
+
+Your goal will be to build efficient programs and systems that serve user needs.
+
+Responsibilities
+
+Work with developers to design algorithms and flowcharts
+Produce clean, efficient code based on specifications
+Integrate software components and third-party programs
+Verify and deploy programs and systems
+Troubleshoot, debug and upgrade existing software
+Gather and evaluate user feedback
+Recommend and execute improvements
+Create technical documentation for reference and reporting
+
+Requirements And Skills
+
+Basic Knowledge of Software principles.
+Basic knowledge of one UI technologies (JavaScript , HTML,CSS). Knowledge of react JS /native will be good.
+Knowledge of OOPS concept, and basics of any language/tech Dot net Core, Dot net,asp.net,
+RDBMS concepts, SQL queries, PostgreSQL
+Ability to learn new languages and technologies
+Resourcefulness and troubleshooting aptitude
+BE (CS/IS),BCA,BSc in Computer Science
+Work From Home.
+
+Skills: software developer,software tester,0-1 year,java script

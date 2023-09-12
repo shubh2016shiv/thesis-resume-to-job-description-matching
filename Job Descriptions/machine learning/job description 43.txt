@@ -1,0 +1,40 @@
+Lead Machine Learning Engineer
+ResMed  Bengaluru, Karnataka, India 1 week ago  41 applicants
+
+About the job
+ResMed has always applied the best of technology to improve people's lives. Now our SaaS technology is fueling a new era in the healthcare industry, with dynamic systems that change the way people receive care in settings outside of the hospital–and tools that work every day to help people stay well, longer. We have one of the largest actionable datasets in the industry, creating a complete view of people as they move between care settings. This is how we empower providers–with vital insight to deliver the care people need, right when they need it.
+
+We're also ensuring that our health solutions connect to other companies' networks. Because when objectives align, everyone wins. And as we work today to drive better care and lower costs, we're developing more personalized solutions for tomorrow, utilizing machine learning, intelligent care paths, and predictive protocols. If you are an innovator who wants to make an impact we want to talk to you! We have exciting opportunities supporting Brightree by ResMed and MatrixCare by ResMed!
+
+We are seeking a highly skilled and experienced Lead ML Engineer with a strong background in AWS, SQL & Python. As the Lead ML Engineer, you will be responsible for designing, implementing, and maintaining scalable data infrastructure and ML operations pipelines. You will work closely with cross-functional teams deploy and operationalize machine learning models, manage data pipelines, and ensure the reliability and efficiency of our data infrastructure.
+
+Responsibilities:
+
+Lead/Mentor team members to align with product goals and tech stacks required for the product.
+Lead the design, development, and implementation of scalable data infrastructure and ML operations pipelines.
+Collaborate with data scientists, software engineers, and other stakeholders to operationalize machine learning models and integrate them into production systems.
+Develop and maintain feature engineering pipelines, ensuring the timely and efficient extraction, transformation, and loading (ETL) of large volumes of data.
+Optimize data storage and retrieval processes to ensure high performance and reliability.
+Manage and monitor data infrastructure, identifying and resolving issues to ensure data quality, availability, and security.
+Implement and maintain data governance policies and procedures to ensure compliance with regulatory requirements.
+Leverage AWS services and tools to architect and deploy scalable and cost-effective data solutions.
+Work with cross-functional teams to define requirements, develop APIs, and integrate data from various sources.
+Stay up-to-date with the latest advancements in ML, and cloud computing to drive innovation and continuous improvement.
+
+Qualifications:
+
+Bachelor's degree in Computer Science, Data Science, or a related field. A Master's degree is preferred.
+Strong experienced ML Engineer, or in a similar role.
+Proficiency in AWS services such as IAM, VPC, Amplify, Sagemaker, S3, EC2, ELB, EMR, EKS, ECR, Lambda, RDS, Postgres, Codebuild, CodePipeline with hands-on experience in designing and implementing data solutions on AWS.
+Expertise in SQL for data extraction, manipulation, and analysis, with experience in optimizing SQL queries for performance.
+Strong programming skills in Python, including experience with data processing libraries (e.g., Pandas, NumPy), ML frameworks (e.g., Sklearn, TensorFlow, PyTorch), and API Frameworks(Flask, FastAPI).
+Solid understanding of ML Ops principles and best practices, including model deployment, monitoring, and versioning.
+Familiarity with containerization technologies (e.g., Docker, Kubernetes) and infrastructure-as-code tools (e.g., Terraform, CloudFormation).
+Proven experience developing and consuming REST APIs to integrate data from multiple sources.
+Excellent problem-solving and troubleshooting skills, with a strong attention to detail.
+Strong communication and leadership abilities, with the capacity to collaborate effectively with cross-functional teams.
+Having knowledge in Data Engineering, Data Warehouse is an added advantage.
+
+If you are a highly motivated individual with a passion for building scalable data infrastructure and operationalizing machine learning models, we would love to hear from you. Join our team and play a key role in driving data-driven decision making and innovation within our organization.
+
+Joining us is more than saying “yes” to making the world a healthier place. It’s discovering a career that’s challenging, supportive and inspiring. Where a culture driven by excellence helps you not only meet your goals, but also create new ones. We focus on creating a diverse and inclusive culture, encouraging individual expression in the workplace and thrive on the innovative ideas this generates. If this sounds like the workplace for you, apply now!

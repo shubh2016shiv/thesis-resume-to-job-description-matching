@@ -1,0 +1,2 @@
+Title: Senior Software Developer
+Full Description: Altura Solutions are currently recruiting for an experienced software developer with core technical capabilities in C,ASP.NET and VB.NET to work for a prestigious organisation based in Luton. Candidates must ideally have experience of developing ecommerce, web sites or web applications within an MVC framework, working to Agile (SCRUM) methodologies. Candidates should be experienced in Test Driven Development (TDD) techniques and proficient in web services. Please submit CV s for immediate consideration.

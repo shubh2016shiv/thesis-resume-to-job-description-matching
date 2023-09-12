@@ -1,0 +1,22 @@
+EY - Data Scientist - R/SQL/Python
+Ernst and Young Services  Pune, Maharashtra, India On-site 2 months ago  21 applicants
+
+About the job
+This job is sourced from a job board. Learn moreJob Description
+
+Should have 6+ years of experience.
+Should have proficiency in Predictive modelling and Machine Learning (Logistic / Linear regression, GBM, XGBoost , GLM modelling, Time-series forecasting, Clustering, Segmentation etc).
+Apart from shallow learning, candidate should also have experience in at least one of the mentioned deep learning techniques - LSTM, CNN, RNN, Auto-encoders and transformers etc.
+The illustrative use cases that the candidate would be working on are Customer behavior, segmentation, Market mix modelling, price optimization.
+Selecting features, building and optimizing classifiers using machine learning techniques
+Data mining using state-of-the-art methods
+Extending company's data with third party sources of information when needed
+Enhancing data collection procedures to include information that is relevant for building analytic systems
+Processing, cleansing, and verifying the integrity of data used for analysis
+Doing ad-hoc analysis and presenting results in a clear manner
+Creating automated anomaly detection systems and constant tracking of its performance
+Proficiency in using query languages such as SQL, Hive
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Good scripting and programming skills using R, Python, and others
+Data-oriented personality
+Some exposure to banking, risk, NLP is good to have.

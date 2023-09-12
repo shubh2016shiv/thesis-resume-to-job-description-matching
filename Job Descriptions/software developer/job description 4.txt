@@ -1,0 +1,40 @@
+Software Developer - Golang
+Siemens Digital Industries Software  Udaipur, Rajasthan, India Hybrid 2 weeks ago  98 applicants
+
+About the job
+Siemens Digital Industries Software is a leading provider of solutions for the design, simulation, and manufacture of products across many different industries. Formula 1 cars, skyscrapers, ships, space exploration vehicles, and many of the objects we see in our daily lives are being conceived and manufactured using our Product Lifecycle Management (PLM) software.
+
+Key Responsibilities:
+
+Work to define and deploy Hands-on experience in software application development in Golang or Java or Python
+Deliver technical presentations and demonstrations
+Lead evaluations and benchmarks to technical success
+Collaborate with R&D to assist and drive product direction
+Good understanding of cloud technologies.
+Hands-on experience in software application development in Golang &Java
+Knowledge of container environments like Docker, Kubernetes
+Good hands-on Working knowledge in RDBMS
+Experience in DevOps and microservices would be preferred
+Test-driven development, CI/CD process, continuous testing, agile and development with GitHub/Jira/Jenkins/Collaborator or similar platforms
+Strong common open-source tools platforms candidate is expected to have strong debugging, triaging and
+troubleshooting skills.
+Awareness of software development lifecycle methodologies (Waterfall, Agile)
+Experience with Object-Oriented Design (OOD)
+Good delegation and time management skills
+Problem-solving abilities.
+
+Qualifications:
+
+Bachelor’s degree in computer science or similar subject, as well as 5 to 10 of experience.
+
+We are Siemens
+
+A collection of over 377,000 minds building the future, one day at a time in over 200 countries. We're dedicated to equality, and we encourage applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit and business need. Bring your curiosity and creativity and help us shape tomorrow!
+
+We offer a comprehensive reward package which includes a competitive basic salary, bonus scheme, generous holiday allowance, pension, private healthcare and actively support working from home.
+
+At Siemens, we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow’s reality. Find out more about the Digital world of Siemens here: [1] www.siemens.com/careers/digitalminds
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status.
+
+Siemens Software. Where today meets tomorrow

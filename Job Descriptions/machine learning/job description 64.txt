@@ -1,0 +1,32 @@
+Machine Learning Engineer
+Zycus  Pune, Maharashtra, India Hybrid 1 month ago  Over 200 applicants
+
+About the job
+Job Description
+
+We are especially looking for Machine Learning Engineers with a strong background in Analytics, Data mining and Machine Learning. Experience in Natural Language Processing and Image Processing is a plus.
+
+Machine Learning Engineer will report to Director Engineering - Machine Learning & the roles & responsibilities are as below:
+
+Work as the data strategist, identifying and integrating new datasets that can be leveraged through our product capabilities and work closely with the engineering team to strategize and execute the development of data products
+Communicate analytic solutions to stakeholders and implement improvements as needed to operational systems consulting with managers to determine and refine machine learning objectives.
+Designing and devloping machine learning systems and self-running artificial intelligence (AI) software to automate predictive models.
+Transforming data science prototypes and applying appropriate ML algorithms and tools.
+Solving complex problems with multi-layered data sets, as well as optimizing existing machine learning libraries and frameworks.
+Developing ML algorithms to analyze huge volumes of historical data to make predictions.
+Running tests, performing statistical analysis, and interpreting test results. Documenting machine learning processes.
+
+Keeping abreast of developments in machine learning.
+
+Job Description
+
+Bachelor, Master’s or Ph.D. in Statistics, Mathematics, or Computer Science
+Graduate/Post Graduate from Tier I institutes
+Experience using python/R etc.
+Experience in working with regression and deep learning algorithms.
+Working experience with NLP, Computer Vision/Image Processing preferred.
+1-3 years of experience building statistical models with real world applications.
+Experience with AI algorithm optimization techniques.
+Experience using web services: Redshift/S3/Spark/DigitalOcean, etc.
+Experience with distributed data/computing tools.
+Experience in EDA (Exploratory Data Analysis.)

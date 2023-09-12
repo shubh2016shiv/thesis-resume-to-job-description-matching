@@ -1,0 +1,81 @@
+Software Developer
+IBM  Bengaluru East, Karnataka, India On-site 1 week ago  Over 200 applicants
+
+About the job
+643347BR
+
+Introduction
+
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.
+
+Your Role and Responsibilities
+
+As a python cloud development engineer you will
+
+Design, development and test Power Private Cloud software.
+Able to do the architecture level discussions with SMEs and turn the requirements into high level and low level designs
+Active open source contributions and participation and open source tools knowledge is preferred
+Experience and understanding of AWS, Azure and Redhat OpenShift products. Software development in Cloud Domain, OpenStack, Virtualization (KVM), Linux OS Internals, Networking / Storage/ Security is preferred
+Understanding of any cloud based virtualization software [GCP, Azure] and Openstack concepts.
+Work with OpenSource community and contribute towards open source development / Testing.
+Good understanding of Cloud development and automation framework, applying the skill into the product to deliver good quality product.
+
+Responsibilities
+
+IBM India Systems Development Lab is looking for Software Engineer / Developer to be integral part of a team responsible for Product Development/testing of PowerVC Platform on Power. The product is built on the Openstack cloud computing platform using Python. In addition, there is an opportunity to work on several OpenSource communities and front end/back end development as well.
+
+Required Technical and Professional Expertise
+
+3+ years of experience in the IT industry
+3+ years of experience working as a developer well versed with feature enablement on private/public cloud platforms or in an equivalent role supporting partners and enterprises
+3+ years of experience with solutions development or implementation in Unix or Linux environments using python programming language.
+1+ years of experience working with Ansible [ Nice to have ].
+Proficient in Python programming and scripting experience and Openstack concepts.
+Experience working in Open Source communities is a big plus.
+Proven experience designing, and developing customer solutions in a rapidly evolving technology domain
+Ability to perform customer-facing activities in a fast-paced environment with short timeframes
+Experience with concepts of Openstack cloud computing platform.
+Ability to uncover business challenges and develop custom solutions to solve these challenges
+Working knowledge of object-oriented design and design patterns applicable to modern software development
+Applied knowledge of working with agile, scrum, and DevOps teams
+Clear understanding of cloud service and deployment models
+Comfortable working with highly distributed teams, including interaction with open source communities
+Ability to study on your own, learn quickly, and put new knowledge into practice
+Any commercial experience with technologies like Openstack, virtualization and public cloud services, e.g., Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP)
+Ability to quickly learn new technologies, frameworks, and techniques; ability to facilitate technical conversations within your team and with external stakeholders
+Keen interest contributing to and building communities in open source
+Ability to work both on your own and as part of an agile team.
+
+Preferred Technical And Professional Expertise
+
+Hands-on experience on Openstack based clouds, basic concepts of virtualization, strong with Python programming, automation using Ansible.
+
+About Business Unit
+
+IBM Systems helps IT leaders think differently about their infrastructure. IBM servers and storage are no longer inanimate - they can understand, reason, and learn so our clients can innovate while avoiding IT issues. Our systems power the world’s most important industries and our clients are the architects of the future. Join us to help build our leading-edge technology portfolio designed for cognitive business and optimized for cloud computing.
+
+This job requires you to be fully COVID-19 vaccinated prior to your start date and proof of vaccination status will be required before your start date. During the Onboarding process you will be asked to confirm your vaccination status, in case you are unable to get vaccinated for any reason, you can let us know at that stage. Please let us know if you are unable to be vaccinated due to medical or religious reasons. IBM will consider such requests on a case by case basis subject to submission of required proof by the candidate before a stipulated date.
+
+Your Life @ IBM
+
+In a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.
+
+Being an IBMer means you’ll be able to learn and develop yourself and your career, you’ll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.
+
+Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.
+
+Are you ready to be an IBMer?
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+
+When applying to jobs of your interest, we recommend that you do so for those that match your experience and expertise. Our recruiters advise that you apply to not more than 3 roles in a year for the best candidate experience.
+
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.

@@ -1,0 +1,64 @@
+Software Developer – Mendix
+Siemens  Pune, Maharashtra, India On-site 3 days ago  55 applicants
+
+About the job
+Together we make the difference
+
+Siemens Mobility is an independent managed company of Siemens AG. Its core business includes rail vehicles, rail automation and electrification solutions, turnkey systems, intelligent road traffic technology and related services.
+
+The Information Technology (IT) department has the global responsibility for the internal IT of Siemens Mobility. Its goal is to provide a robust and efficient IT landscape derived from business and market demands.
+
+Your personality and individuality make the difference. In our team, we increase business performance and point the way into the digital age.
+
+Is that exactly your thing? Then live your passion in a cross-location team in which you can actively shape the future of our company. You open up new possibilities for our customers with your competence. Connected with this is an exciting career path that leads you to ever new projects and solutions in the field of IT for Siemens Mobility.
+
+Here's where you make the difference
+
+The Siemens Mobility IT DevOps Center is responsible to provide professional application services to our users of Siemens Mobility worldwide. We support our business units by managing the services for different web applications, both internally and externally hosted (Software as a Service).
+
+Your task is to support the continuous service for a set of different applications. This includes solving customer issues, directly communicate with the user community as well as enhancing the existing services by collecting and refining requirements. Continuous monitoring of processes, fast intervention and a high awareness of all current issues are key elements of successful operation and high user satisfaction.
+
+Consult with application managers and business process owners to understand their business requirements and design cloud-based solutions that meet those needs
+As part of our ITIL based service team, you will be responsible for the operation of our IT managed applications by managing and solving tickets, requests and changes from our business.
+You will systematically log and process tickets from key users.
+You will create and track tickets to our infrastructure provider and 2nd / 3rd level support.
+You will perform code review, root cause analysis and bug correction.
+You regularly monitor the application and proactively prevent performance and security issues.
+You are responsible to create and maintain the service documentation and regularly update the knowledge base.
+You will support setting up enhancements to our services and take over the service responsibility according to service level agreements.
+Furthermore, you will support and perform development and design tasks with emphasis on programming, customizing, testing and maintenance of applications.
+You will also support to operate future applications in conjunction with our internal and external business partners.
+Optionally you will grow into the Mendix DevOps Team as developer by enhancing existing applications or support our new developments.
+
+What do I bring with me?
+
+The cornerstone of your professional success is a master’s or bachelor’s degree in computer science or IT, informatics, or business informatics. Alternatively, you can show a comparable training in conjunction with corresponding additional qualifications.
+1 – 3 years of work experience in software product development and service
+You have strong foundation on Mendix as you already developed or maintained Low-Code applications, ideally based on Mendix.
+You have good knowledge on ITIL processes, especially Incident, Problem and Change Management.
+You have good knowledge of SQL databases, as you can analyze and create SQL queries, stored procedures, cursors, functions, views, indexes.
+You know how to analyze change requests and create specifications out of them.
+Ideally, some knowledge of HTML, CSS, JavaScript (jQuery, React) is preferred.
+In addition, you have basic knowledge of working methodologies (SCRUM)
+Basic knowledge in web security and cyber security.
+Good experience on documentation and maintenance of knowledge bases.
+Mendix Rapid / Intermediate Certification is a plus.
+Experience in Project Management is a plus.
+If you also have fluent knowledge of Business English (Level C1), are highly self-motivated and can think in a customer-oriented way, then you are qualified to join us in our team!
+
+We’ve got quite a lot to offer. How about you?
+
+Competitive compensation
+An opportunity to craft the future of autonomous systems
+Extraordinary researchers and engineers as team members
+We are an equal opportunity employer and embrace diversity
+
+This role is based in Pune. You’ll also get to visit other locations in India and beyond, so you’ll need to go where this journey takes you. In return, you’ll get the chance to work with teams impacting entire cities, countries – and the shape of things to come.
+
+Make your mark in our exciting world at Siemens.
+
+We’re Siemens. A collection of over 379,000 minds building the future, one day at a time in over 200 countries. We're dedicated to equality, and we welcome applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit, and business need. Bring your curiosity and imagination and help us shape tomorrow.
+
+Find out more about mobility at: https://new.siemens.com/global/en/products/mobility.html and about Siemens careers at: www.siemens.com/careers
+
+At Siemens, we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow ‘s reality. Find out more about the Digital world of Siemens here: www.siemens.com/careers/digitalminds

@@ -1,0 +1,45 @@
+Software developer with Python and Django experience of 3-5 years
+TechnoMigrate  India Remote 4 days ago  199 applicants
+
+About the job
+The Company:
+
+﻿TechnoMigrate provides digital transformation services based on latest cutting edge technologies including Artificial Intelligence (Chatbots, AI powered application development), Cloud (AWS / Azure / GCP), Quantum Computing, Salesforce, and Data Analytics and Software Engineering services to Fortune 500 and SMB customers in US, Canada, India, and across the globe.
+
+Come and grow with us. There are people who believe in taking risk to make difficult things happen to rise high in their careers and change this world. Those are ones who make this world a better place to live and help themselves and people around them to scale up higher in their careers. We support you with empowerment, opportunities, and training.
+
+
+Job Title: Software Developer (Python and Django)
+
+Job Summary:
+
+We are seeking a talented and experienced Software Developer with a strong background in Python and Django to join our dynamic team. The ideal candidate should have 3-5 years of professional experience in software development, with a focus on building web applications using Python and Django frameworks. In addition to technical expertise, excellent communication skills are essential for this role as the candidate will collaborate with cross-functional teams and communicate with stakeholders effectively.
+
+Responsibilities:
+
+Develop and maintain robust, scalable, and high-performance web applications using Python and Django frameworks.
+Collaborate with cross-functional teams, including product managers, designers, and other developers, to gather requirements and translate them into technical solutions.
+Design and implement efficient and reusable code, ensuring the application is secure, maintainable, and adheres to industry best practices.
+Conduct thorough testing, debugging, and troubleshooting of software to ensure high-quality deliverables.
+Perform code reviews and provide constructive feedback to maintain code quality and ensure adherence to coding standards.
+Participate in Agile development methodologies, such as Scrum or Kanban, and contribute to sprint planning, stand-up meetings, and retrospectives.
+Stay up-to-date with emerging technologies, industry trends, and best practices, and apply them to enhance the development process and overall product quality.
+Collaborate with the QA team to identify and resolve software defects and ensure a smooth deployment process.
+Communicate effectively with stakeholders, providing regular updates on project progress, challenges, and technical solutions.
+
+Qualifications:
+
+Bachelor's degree in Computer Science, Software Engineering, or a related field.
+3-5 years of professional experience as a Software Developer, with a focus on Python and Django.
+Strong knowledge of Python programming language and Django web framework.
+Experience with front-end technologies such as HTML, CSS, and JavaScript, along with related frameworks/libraries (e.g., React, Angular, or Vue.js).
+Proficient understanding of databases (SQL and/or NoSQL) and experience in writing efficient queries.
+Familiarity with version control systems, preferably Git.
+Good understanding of software development principles, design patterns, and best practices.
+Excellent problem-solving and analytical skills, with the ability to identify and resolve complex technical challenges.
+Strong communication skills, both verbal and written, with the ability to effectively collaborate with cross-functional teams and stakeholders.
+Experience working in an Agile development environment is a plus.
+Prior experience with cloud platforms (e.g., AWS, Azure, or Google Cloud) and DevOps practices is desirable but not mandatory.
+We offer competitive compensation, flexible work hours, a supportive work environment, and opportunities for professional growth and development. If you are a passionate and dedicated Software Developer with expertise in Python and Django, we would love to hear from you.
+
+To apply, please submit your resume, along with a cover letter highlighting your relevant experience and explaining why you would be a great fit for this role.

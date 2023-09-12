@@ -1,0 +1,29 @@
+Machine Learning Engineer
+Quantiphi  Bengaluru, Karnataka, India On-site 1 month ago  Over 200 applicants
+
+About the job
+While technology is the heart of our business, a global and diverse culture is the heart of our success. We love our people and we take pride in catering them to a culture built on transparency, diversity, integrity, learning and growth.
+
+If working in an environment that encourages you to innovate and excel, not just in professional but personal life, interests you- you would enjoy your career with Quantiphi!
+
+Basic Responsibilities
+Work on creating high performance and scalable solution for different problems
+Develop sophisticated yet simple interpretations and communicate insights to clients that lead to quantifiable business impact
+Ability to envision new technologies and turn them into innovative products.
+Remain knowledgeable about current technology and carry out research to identify new trends that can be used to achieve maximum results
+Carry out other technical related duties that may be required. Be abreast of the best coding and architecting practices
+
+Skills Required
+Bachelor’s/Master’s in Computer Science/Electrical Engineering with focus on AI/ML
+Experience with submitting papers to machine learning conferences (e.g. NeurIPS, ICLR,ICML, etc.)
+Should have at least 3 years of experience with a minimum of 2+ years in the design and development of AI/ML-based systems.
+Knowledge of statistical modeling and popular machine learning models.
+Hands-on with Python/R programming and knowledge of machine learning tools like Scikit-Learn, Pandas, Tensorflow, Pytorch is a must
+Should possess knowledge of at least one cloud platform (GCP, Azure, or AWS) and machine learning services offered by them.
+Working knowledge of Recommender systems is a must
+Conceptual and code level understanding of Computer Vision, Object detection(Faster RCNN, YOLO, SSD, etc), Image similarity is good to have
+NLP: Vector Space modeling in NLP, LSTMs, Sequence modeling, Attention modeling, BERT, Large Language models is a must. Knowledge on using the above-mentioned techniques performing Document classification, Semantic similarity, NER, Sentiment Analysis is a must
+Experience in the design and development of continuous delivery and automation pipelines (MLOps) in the cloud is good to have
+Ability to use analytical thinking and business understanding to perform an insightful, actionable quantitative and qualitative analysis of the business
+Experience in working in an Agile environment
+Strong verbal and written communication skills.

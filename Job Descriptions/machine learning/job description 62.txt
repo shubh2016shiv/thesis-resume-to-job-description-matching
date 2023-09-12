@@ -1,0 +1,99 @@
+MLOps - Data Scientist
+Paytm  Noida, Uttar Pradesh, India Remote 1 month ago  154 applicants
+
+About the job
+About Paytm :
+
+Paytm is India’s leading digital payments and financial services company, which is focused on driving consumers and merchants to its platform by offering them a variety of payment use cases. Paytm provides consumers with services like utility payments and money transfers, while empowering them to pay via Paytm Payment Instruments (PPI) like Paytm Wallet, Paytm UPI, Paytm Payments Bank Net banking, Paytm FASTag and Paytm Post-paid - Buy Now, Pay Later. To merchants, Paytm offers acquiring devices like Soundbox, EDC, QR and Payment Gateway where payment aggregation is done through PPI and also other banks’ financial instruments. To further enhance merchants’ business, Paytm offers merchants commerce services through advertising and Paytm Mini app store. Operating on this platform leverage, the company then offers credit services such as merchant loans, personal loans and BNPL, sourced by its financial partners.
+
+About the team:
+
+We are a growing team of 50+ data scientists working on various projects primarily using AWS EMR and AWS Sage maker servers. This AWS and MLOPs team works on end-to-end integrated solutions of many data science models, manage the team’s EMR cluster and AWS S3 bucket storages and deployments, and provide support for various issues related to sessions & model deployments.
+
+Overall Relevant Experience:
+
+6 to 8 (MLOps, Cloud: AWS/GCP/Azure, Data Pipelines, Data Science Deployments)
+
+Superpowers/ Skills that will help you succeed in this role.
+
+End-to-End Solution Designing of Data Science models.
+
+Build, understand and evaluate data science solutions based on business problems
+
+○ Deployment and maintenance of ML Models (MLOps) real-time, near-real time and batch-mode
+
+○ Create architecture diagrams for deployments
+
+○ Discuss with Data Science team, review development codes (PySpark & Python) and convert to deployment codes and unit-test
+
+○ Designing a model monitoring and governance framework and building trigger-mechanism system to fire various model-rebuild pipelines
+
+Explore New Services & Create Machine Learning Frameworks
+
+○ Quickly test, set-up with help of DevOps, and facilitate demos for team on new AWS services: Sage maker
+
+○ Upon successful demo/validation of new services
+
+○ Create frameworks and starter-codes for various ML algorithms: clustering, deep learning models, tree-based (XGB, LGB, GB, CB, RF) and linear/logistic models
+
+AWS Support
+
+○ Debug teams’ day-to-day issues and cater to service-requests related to AWS EMR (main), S3, EC2, PySpark Code, Sagemaker (optional) services with least possible TAT
+
+○ Quickly raise and follow-up on JIRA tickets to various DevOps and other Data teams as and when required
+
+○ Create and maintain policies and reports and best-practices to lower debug-TAT and increase overall efficiency
+
+○ Raise AWS Support Cases for worst-cases and have discussions with AWS to resolve the same
+
+AWS S3 Management
+
+○ Manage AWS S3 Storage to make sure users use S3 storage responsibly, follow up on memory reports and create and optimize S3 Buckets Usage Policy
+
+○ Cater to S3 Bucket requests: deletions, download and share or move files/folders
+
+AWS EMR Maintenance & Cluster Management
+
+○ Advice users on what Spark Session configuration to use
+
+○ Monitor HDFS utilization
+
+○ Monitor Master Node's Storage and RAM
+
+○ Monitor Cluster RAM
+
+○ Coordinate with DevOps for new EMR cluster/service creation, cost understanding Inter-team Communication
+
+○ Coordinate activities with DevOps team and see the DevOps tasks to completion.
+
+○ Coordinate with Data Science team for their service requests & deployments
+
+Team Management
+
+○ Manage/lead a team of MLOps and AWS specialists in performing various deployment and support functions.
+
+○ Other team management responsibilities: performance reviews, providing timely feedbacks and support learning and growth
+
+Superskills to succeed in this role:
+
+Fluent with AWS interfaces and basic knowledge of AWS services
+Exposure to MLOps & Machine Learning model deployments on AWS
+Good understanding of Spark Architecture and AWS EMR service
+Excellent Python scripting skills
+Experience in PySpark
+Basic understanding of DevOps and ability to communicate clearly with DevOps team
+Preferably completed the Udemy Course: AWS SolutionsArchitect Associate
+Experience with version control and git (GitHub / Bitbucket / Gitlab)
+Experience in building python packages
+Experience in Airflow [Good to Have]
+Experience in Docker [Good to Have]
+
+Soft Skills:
+
+High Availability
+Patient and proactive debugger and focus towards solutions
+Good interpersonal skills
+
+Education:
+
+Must be a Btech/Mtech, MBA

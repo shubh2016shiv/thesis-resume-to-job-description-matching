@@ -1,0 +1,70 @@
+Junior Android Developer - Remote WFH- job post
+Mainstream Digital Ltd
+Birmingham
+£30,000 - £40,000 a year - Full-time, Permanent
+
+Job details
+Matches job preferences you are interested in
+Salary
+£30,000 - £40,000 a year
+Job type
+Full-time
+Permanent
+Shift and schedule
+Monday to Friday
+This rapidly growing telecommunications and SaaS (Software as a Service) provider has been at the forefront of corporate communication solutions for over 30 years. A national supplier with a local perspective, they recognise that innovation in the channel is an important differentiator, but customer service is a key element of what they do and something their clients value. Innovation must therefore enhance their technical offer, their ability to deliver for their customer service.
+
+You are a creative person with the will and drive to bring your innovative ideas to life, developing new and exciting services that their clients want to use. You will be challenged to think from the customer perspective and deliver real results that work for both the company and their new and existing client base as they grow their service offering.
+
+Help them to grow, and they will help you to grow. Your hard work will be rewarded with new opportunities for developing skills that will push you and them forward with new technology and customer innovation.
+
+Responsibilities
+
+Building and maintaining mobile applications
+Providing recommendations on best technological practices
+Assist in the design of mobile solution architecture
+Continual testing, development and maintenance of technologies
+Superb communication skills for collaborative development
+Skills and Experience
+
+Experience with Android Studio IDE, Android API, Kotlin
+Experience of integrating third-party libraries into Android Apps
+Understanding of mobile security of applications
+Desirable Skills (but not required)
+
+Experience with JAVA
+Benefits
+
+23 days holiday in addition to official Bank Holidays
+Increased Holiday with Service
+Annual Bonus Scheme
+Long Service Bonus
+Buy/Sell Holiday Scheme
+5% employer pension contribution on qualifying earnings
+Subsidised Gym Membership
+To apply please send your CV for consideration.
+
+Job Types: Full-time, Permanent
+
+Salary: £30,000.00-£40,000.00 per year
+
+Benefits:
+
+Work from home
+Schedule:
+
+Monday to Friday
+Supplemental pay types:
+
+Loyalty bonus
+Yearly bonus
+Application question(s):
+
+Would you need a Visa Sponsorship in the future? (Required)
+Are you currently in the United Kingdom? (Required)
+How much non-commercial (at-home) Android Experience do you have? (Required)
+Do you have any commercial (working) experience, if so for how long? (Required)
+Are you able to share any samples of your previous Android code? If so, please can you include a link in your CV. (Optional)
+Work Location: In person
+
+Reference ID: AndroidDev1Lon

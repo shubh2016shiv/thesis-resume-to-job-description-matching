@@ -1,0 +1,31 @@
+Data Scientist
+BrandMuscle  Bengaluru, Karnataka, India On-site 1 month ago  Over 200 applicants
+
+About the job
+Position: Data Scientist / Senior Data Scientist
+
+Location: Bangalore, India
+
+Overview:
+
+We are looking for a Data Scientist who will support our product, leadership and marketing teams with insights gained from analysing company data. The ideal candidate is adept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action. They must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. They must have a proven ability to drive business results with their data-based insights.
+
+Responsibilities:
+Working with business stakeholders to define and ideate data science based solutions to existing business problems
+Processing, cleansing, and verifying the integrity of data to be used for analysis
+Creation, validation and maintenance of ML/DL models based on business requirements
+Recommend enhancements to current data collection procedures to include information that is relevant for building analytic systems
+
+Skills and Qualifications:
+Excellent understanding of basic statistics, machine learning techniques and algorithms, and their application to business problems such recommendation systems, customer purchase propensity models, etc.
+Demonstrated experience in working with a diverse team showcasing excellent communication skills to articulate and understand business problems
+Experience with common data science toolkits, such as AzureML, AWS Sagemaker, Python, R etc.
+Proficiency in using query languages such as SQL, Hive, Pig etc.
+Experience with NoSQL databases, such as MongoDB, Cassandra, HBase.
+Experience with Adobe Analytics suite is a plus
+
+Experience: -
+Graduate degree in Engineering/Statistics/Economics
+2+ years of experience, working as a Data Scientist.
+Prior experience with Marketing Analytics with specific focus on Market Mix models is a plus
+Prior experience with simulation models – Monte Carlo, Agent based simulations is a plus

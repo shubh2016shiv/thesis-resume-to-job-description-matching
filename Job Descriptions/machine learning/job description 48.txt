@@ -1,0 +1,41 @@
+Data Engineering Architect
+GEP Worldwide  Mumbai, Maharashtra, India On-site 1 day ago  176 applicants
+
+About the job
+GEP is a diverse, creative team of people passionate about procurement. We invest ourselves entirely in our client’s success, creating strong collaborative relationships that deliver extraordinary value year after year. Our clients include market global leaders with far-flung international operations, Fortune 500 and Global 2000 enterprises, leading government and public institutions.
+
+We deliver practical, effective services and software that enable procurement leaders to maximise their impact on business operations, strategy and financial performance. That’s just some of the things that we do in our quest to build a beautiful company, enjoy the journey and make a difference. GEP is a place where individuality is prized, and talent respected. We’re focused on what is real and effective. GEP is where good ideas and great people are recognized, results matter, and ability and hard work drive achievements. We’re a learning organization, actively looking for people to help shape, grow and continually improve us.
+
+Are you one of us?
+
+GEP is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, ethnicity, color, national origin, religion, sex, disability status, or any other characteristics protected by law. We are committed to hiring and valuing a global diverse work team.
+
+For more information please visit us on GEP.com or check us out on LinkedIn.com.
+
+What You Will Do
+Exercise strong decision-making skills in terms of data analysis and architecting Big data infrastructures.
+Review functional and technical requirements, raising potential issues and participating actively in design discussions.
+Collaborate with both technical and business stakeholders to understand data platform requirements.
+Perform Proof of Concepts on New solutions and technologies and design the implementation strategy.
+Create and document future state architectural options to address specific issues or initiatives.
+Maintain in-depth and current knowledge of Cloud Data Services (Azure / AWS), their main components, tradeoffs, pros and cons for each, knowledge of when to use each, and how they can be optimally combined to create data patterns and frameworks.
+Provide thought leadership around big data ecosystem and data warehouse design by leveraging past experiences.
+Guide the creation and best practices around Data Governance, Data Stewardship and overall Data Quality initiatives and processes, as part of the overall data effort.
+Develop and maintain conceptual, logical, and physical big data platform, database and data warehouse architectures.
+Collaboratively support the development and deployment of architectures supporting the enterprise big-data and data warehouse environments.
+Collaborate with the Enterprise Architect and client IT team as warranted to establish and implement strategic initiatives.
+Guides team members on the development of Spark programs to ingest/process data.
+What You Should Bring
+Bachelor’s degree or higher in Computer Science or a related field.
+Expert knowledge in Data Lake, Spark, Datawarehouse, and how to implement microservices-based architecture to establish a complete data lifecycle.
+Functional exposure to Supply planning area (Demand planning / Material planning etc.) will be a good to have skill
+Azure Data ecosystem experience like Databricks, Data Factory, Analysis Services/ PowerBI (Preferred).
+Excellent data analysis skills using SQL.
+Expertise on Data Pipelines design and Maintenance, CI/CD Implementation, and best Practices.
+Ability to design Spark ecosystem and data warehousing solutions that can take large volumes of structured and unstructured data via streaming and batch and rapidly generate meaningful reports and/or support ongoing analytical needs.
+Exposure and Deep knowledge on Medallion Architecture
+Experience in identifying and documenting data integration issues, and challenges such as duplicate data, non-conformed data, and unclean data including both internal and external data sources.
+Experience in identifying, analyzing and translating business requirements into conceptual, logical and physical data models in complex, multi-application environments.
+Exposure to Machine Learning will be added advantage for this role
+Exposure to Supply Planning / Demand Planning domain will be added advantage for this role.
+Exposure to Confluent Kafka and Realtime Streaming services

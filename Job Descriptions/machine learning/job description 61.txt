@@ -1,0 +1,30 @@
+MLOps Engineer
+Michelin  Pune, Maharashtra, India 3 weeks ago  1 applicant
+
+About the job
+- - - - - - - - - - - -
+
+Role & Responsibilities –
+
+Responsible for design and implementation of secure and scalable infrastructure in Azure cloud.
+Build and maintain CI/CD/CT pipeline across azure cloud platform for Data science projects.
+Own and automate the infrastructure provisioning, demand forecasting and capacity planning
+Build tools and automation to improve systems availability, reliability, performance, monitoring and scalability.
+Setting up the alerts and monitoring for the platform.
+Monitoring system, application health, security controls and cost
+Envision, implement and rollout best MLOPs/DevOps tools and automation.
+
+Requirements
+
+Hands on Experience in Azure DevOps practices and building release pipelines
+Proficient in Azure Cloud practices and managing Azure Kubernetes Service deployments
+Good to have Hands on experience in Python or any other scripting languages (Groovy, Shell)
+Experience in Databricks, MLFlow deployment pipeline will be an added advantage
+Experience with monitoring tools like ELK, Prometheus, Grafana, App Insights etc
+Hands-on experience in Docker, Kubernetes.
+Excellent experience with source code management tools (git)
+Good to have experience in implementing Data/Model drift.
+Strive for Continuous Improvement and build continuous integration, continuous development and constant deployment pipeline
+Excellent Troubleshooting skills
+Always ready to learn more and adopt new cutting edge technology with right value proposition.
+Good to have knowledge on Dataiku devops.

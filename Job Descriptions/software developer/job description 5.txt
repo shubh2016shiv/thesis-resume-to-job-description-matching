@@ -1,0 +1,32 @@
+Junior Software Developer (India)
+Geneva Trading  Gurugram, Haryana, India On-site 3 weeks ago  Over 200 applicants
+
+About the job
+Description
+
+How You Can Make An Impact
+
+Geneva Trading is seeking a talented Junior Software Developer with an interest in gaining insights into the FinTech domain and trading industry, developing and enhancing automated market-neutral strategies, acquiring a thorough understanding of trading systems, and designing real-time software. This is a temporary position seeking a candidate who can commute to work on-site in Cyber City, Gurugram.
+
+Your Responsibilities Will Include
+
+The ideal candidate will have a strong financial markets background, experience in developing automated trading strategies, and a passion for programming. This is an exciting opportunity to work on innovative projects and build a career in a dynamic environment with potential for role extension or full-time conversion.
+
+Write code to find and validate new opportunities, optimize research infrastructure pipelines, and extend interface to work with live/historical data seamlessly
+Support team in building tools around live strategies, including messaging to send automated signals to the strategy; manage pricing, analysis and execution streams to help find end-to-end optimizations
+Partner with team in building a generic back testing framework for Java; including modules to replay prices, strategy back testing and integration testing
+
+Our interview process consists of a phone screen, technical assessment, technical interview, and a final interview with the team. This role is temporary and on-site to allow for direct mentorship and collaboration with a member of our Digital Assets Team.
+
+What You'll Need
+
+Tech, B.E., B.S. or M. Tech, M.E., M.S. degree in computer science or related field
+Past internship/full-time experience in trading industry not required; preferred
+Programming skills in Python required; Java, Python, C, and/or C++ preferred
+Practical understanding of CS concepts in the following areas: Data Structures and Algorithms, Operating Systems, Computer Networks, and Database Management Systems
+Exceptional problem-solving and logical reasoning skills
+Passion for FinTech, trading industry, and innovation
+
+Who We AreGeneva Trading LLC is a global proprietary trading firm founded in 1999 with offices in Chicago and Dublin. Our dedication to the improvement and optimization of our best-in-class proprietary technology allows our firm to compete on all levels in the global trading industry. We pride ourselves on a collaborative culture of integrity, trust, passion, and dedication to personal excellence.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

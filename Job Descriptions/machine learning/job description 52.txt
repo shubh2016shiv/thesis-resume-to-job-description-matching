@@ -1,0 +1,61 @@
+Data Modeler II
+Experian  Mumbai, Maharashtra, India Hybrid 2 months ago  100 applicants
+
+About the job
+Company Description
+
+About Experian
+
+Experian is the world’s leading global information services company. During life’s big moments — from buying a home or a car to sending a child to college to growing a business by connecting with new customers — we empower consumers and our clients to manage their data with confidence. We help individuals to take financial control and access financial services, businesses to make smarter decisions and thrive, lenders to lend more responsibly, and organizations to prevent identity fraud and crime.
+
+We have 17,800 people operating across 44 countries, and every day we’re investing in new technologies, talented people and innovation to help all our clients maximize every opportunity. We are listed on the London Stock Exchange (EXPN) and are a constituent of the FTSE 100 Index.
+
+Learn more at www.experianplc.com or visit our global content hub at our global news blog for the latest news and insights from the Group.
+
+Job Description
+
+We are looking for a Data Modeler to help us unlock our vast amounts of data via effective modelling and advanced analytics, enabling us to make smarter decisions and deliver even better products to our clients. Your primary focus will be in applying data mining techniques, doing statistical analysis, and building high quality prediction systems and automated scores using machine learning, integrated with our products. You will be also be supporting our business teams, pre-sales and analytics to ensure optimal product creation.
+
+Ideally suited to someone who has 3 to 5 years’ experience core analytics function of a large bank / consulting firm and with experience on handling large data volumes using data analysis tools and generating good data insights.
+
+What You’ll Need To Bring To The Party
+
+You’ll need to be a curious problem solver who can get a question and use data to answer in a clear and straight-forward way
+You must be self-directed and comfortable supporting the data needs of multiple teams, systems and products
+We want you to be excited by the prospect of working with large and diverse datasets using cutting-edge techniques such as AI, machine learning and deep learning.
+Drive high standards of customer service and proactive client communication throughout the project term
+Develop industry best practice on model development/validation
+
+What You’ll Be Doing
+
+This role is responsible for efficiently and effectively managing multiple and complex projects from concept to implementation on time, within budget and in line with client expectations.
+You’ll play an integral role to Engage Business/Technical Consultants and delivery teams appropriately so that there is a shared understanding and agreement as to deliver proposed solution
+
+Qualifications
+
+More about you
+
+A strong understanding of machine learning techniques and algorithms, such as Gradient Boost, KNN, etc.
+Knowledge of different modelling frameworks like Linear Regression, Logistic Regression, Multiple Regression, LOGIT, PROBIT, time- series modelling, CHAID, CART etc.
+Thorough understanding of the Application/Behaviour/Collection scorecard development process.
+Thorough knowledge of the use and application of analytical methodologies Linier Regression, Logistic Regression etc
+Decent understanding and hands-on of statistical modelling/data analysis tools (SAS, Python, R etc.), techniques and market trends
+Good applied statistics skills, such as distributions, statistical testing, regression etc.
+Understanding of decisioning and portfolio management in banking and financial services would be added advantage
+
+Why this role is critical to us
+
+Our business thrives on our ability to leverage data and advanced analytical capabilities, so you’ll have an important mission
+Pinnacle appointment in our broader targeting solutions product development team
+
+Why us
+
+We’re a high-performance and driven team but we don’t forget to celebrate success
+We offer strong career and international opportunities for high performers
+We invest heavily in our products and our people
+
+We offer training and support from experienced subject matter experts and managers plus dedicated learning & development time
+
+Additional Information
+
+Our uniqueness is that we truly value yours. From India, across Asia to Japan and down to Australia, our 1800 people are what make our business special. Experian's culture, people and environments are key differentiators. We focus on what truly matters; diversity and inclusion, work/life balance, development, innovation, collaboration, wellness, reward & recognition, volunteering... That's why we're an award winning organization for our people-first practices, something we’re very proud of.

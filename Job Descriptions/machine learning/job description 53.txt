@@ -1,0 +1,29 @@
+Principal Data Scientist
+Providence India  Hyderabad, Telangana, India On-site 2 weeks ago  145 applicants
+
+About the job
+Principal Data Scientist – JD
+
+We are seeking a highly skilled data scientist with a PhD in a quantitative field to join our team. The ideal candidate will have a strong background in statistical modelling and machine learning, and experience working with large datasets. Experience with patents and published whitepapers is preferred.
+
+As a Principal in Data Sciences, you will
+
+Contribute to creating a robust vision for AI/ML team within Providence India. Maintain healthy backlog of futuristic product features and technical capabilities. Perform and set review standards, own Healthcare marketing models complicated (For Ex: Propensity models, Lead scoring algorithm, Next Best Action model, Response and Utilization models) and help the team with design and development approach as needed.
+Engage with Providence stakeholders to define use case for model development globally and influence decisions related to marketing measurement, audience targeting, channel strategy and Martech product features, and priorities.
+Create forecasting and machine learning models by working alongside with business stakeholders in Marketing, Strategy and Digital experience to solve their business questions.
+Partner with multiple cross-functional global teams like product managers and data analytics engineers in deriving insights, presenting, and documenting the findings.
+Design and implement experiments to test hypotheses and validate models.
+Hands-on experience with latest MLOPs tools like Databricks, Microsoft Azure Machine learning studio or similar in deploying models at an enterprise scale.
+Show an ever-learning mindset to strengthen understanding of global health care systems. Participate and contribute to industry learning and stay up to date with latest trends and findings.
+
+Who are we looking for?
+
+12 years+ industry experience with PHD in a quantitative field such as Data Science, Computer Science, Statistics, Physics, Economics, Analytics, or other science, math, and technology intensive field.
+Should possess strong math, technology, business, and communication skills.
+Extensive experience in conducting diverse statistical analyses of complex, high dimensional datasets and preparing reports and visualizations to support findings. Demonstrated expertise in Machine Learning via Python or R.
+Experience in developing & deploying machine learning models using modern, open-source tools and frameworks. Experience in Deep learning is a plus.
+Experience in applied statistics skills, such as distributions, statistical testing, regression, etc.
+Ability to translate complex statistical concepts into easily understandable language for non-technical stakeholders.
+Familiarity with cloud computing platforms such as AWS, Snowflake or Azure
+Experience with big data technologies such as Hadoop, Spark, or NoSQL databases
+Background in healthcare system or marketing is a plus.

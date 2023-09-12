@@ -1,0 +1,40 @@
+Deep Learning Deployment Engineer (Edge AI)
+CONXAI  Bengaluru, Karnataka, India On-site 4 days ago  11 applicants
+
+About the job
+Passionate about Scaling Hardware Deployment of AI on Edge ?
+
+We are building the first NO-CODE AI PLATFORM for the AEC industry, with the 3rd generation Explainable AI, that allows users to create complex use cases with zero coding at the frontend and neuro-symbolic AI under the hood.
+
+Tasks
+
+We are looking for a Deep Learning Deployment Engineer (Edge AI) to join our Bengaluru office.
+
+You will be part of our product development team and will work closely with other AI Engineers to optimize and deploy AI models on the edge hardware at scale.
+Optimize AI Models (compression, quantization, etc) on the Edge hardware such as NVIDIA Jetson, Adreno etc.
+Deploy the optimized AI Models and tailor it for specific Edge hardware
+Lifecycle management of the deployed models
+
+The technology will scale in public/private cloud across a rapidly increasing number of customers in multiple geographies, while processing and rendering large amounts of image based data points.
+
+Requirements
+B Tech / M Tech in Computer Engineering from a top tier university
+5+ years of hands-on experience with Machine Learning & Deep Learning models and their deployment to production on Edge devices
+Exceptional programming skills with C/C++ and Python
+Demonstrable experiences in deployment and optimisation of AI systems on the Cloud, Server and Edge Hardware
+Experience with computer architecture, low-level optimisation, via compilers or manual.
+Good understanding of Deep Learning Frameworks and workloads
+Experience in SoC or/and GPU acceleration for AI
+Experience in embedded systems, and real time EDGE OS development
+Experience in automation strategies for deployment of deep learning models
+Experience in Parallel Computing Platforms/General-purpose computing on graphics such as CUDA, OPENCL
+Experience in periphiral communication protocols like SPI, UART, CAN, I2C, etc.
+Experience in at least one of the wireless communication protocols like Bluetooth, Wifi, LoraWAN, etc.
+Experience in AI model optimization techniques (compression, quantization, etc)
+Excellent communication skills in English
+
+Benefits
+
+Competitive salary (INR 20L - 28L per annum) depending on the experience
+Annual Training Budget
+ESOPs

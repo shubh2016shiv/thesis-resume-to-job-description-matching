@@ -1,0 +1,34 @@
+Findability Sciences - Artificial Intelligence/Machine Learning Architect - NLP/Neural Networks
+
+About the job
+This job is sourced from a job board. Learn moreRole : AI/ML Architect
+
+Location: Noida, UP (onsite only)
+
+Job Type : Full time
+
+Exp Range : 12 to 15 Years
+
+Job Details
+
+AIML experience > 7 years
+Expertise in AI Pretrained Embedding Engines (like BERT, GPT-2, ELMO, etc.) and Custom Neural networks
+Good at troubleshooting AI/ML's Architecture and performing on stagnant results.
+Machine learning and Advanced Deep learning (Autoencoders, Transformers, Generative Adversarial Networks).
+Computer vision frameworks and Modelling (Basic), Graph neural networks.(special emphasis on computer vision modelling)
+Cloud based AI solution provider tools (AWS, Azure and other) and Container or Dockers ( Bonus Advantage).
+Big Data and distributed computing ( includes Hadoop, Hive and other latest frameworks).
+Advanced Machine learning for Signal or Speech processing ( For the certain new projects
+Hands-on experience with NLP > 5 years
+Product development(Requirement, Design, Code) > 10 years
+Language : Python
+Software development model : Waterfall and Agile
+DevOps Tools and Technologies
+OS : Windows and Linux
+Proficient in Communication Skill, Analytical Skill
+Customer Handling > 8 Years
+Team Leadership > 8 Years
+RASA Framework
+Expert in selection and utilization of open source software as per project needs
+Knowledge of Static Code analysis tools and techniques
+Repository: GIT and SVN

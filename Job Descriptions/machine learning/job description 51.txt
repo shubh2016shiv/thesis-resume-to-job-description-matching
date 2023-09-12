@@ -1,0 +1,34 @@
+Data/NLP Engineer
+PharmaACE  Pune, Maharashtra, India On-site 2 months ago  17 applicants
+
+About the job
+Brief Introduction
+
+If you are keen to work on analytical database problem solving, then work in the area of advance data analytics to provide consulting to pharmaceutical clients Designation name & Description: As a Data Engineer / NLP Engineer, you are expected to develop and implement NLP techniques across teams to help build Products and solutions to address our client business needs. Data Engineering team designs and implements NLP tools and techniques to address business problems of our clients and engage with client to help them in better data driven decision making.
+
+Responsibilities
+Understanding business objectives and developing models that help to achieve them, along with metrics to track their progress
+Design and Develop NLP models and algorithms.
+Apply techniques like part-of-speech tagging, named entity recognition and text classification
+Expert in concepts of Data Acquisition, Data Cleansing and working with large data sets.
+Defining validation and preprocessing strategies to be done on a given dataset
+Training models and tuning their hyperparameters
+Analyzing the errors of the model and designing strategies to overcome them
+Deploying models to production
+Knowledge on Deep learning techniques
+Knowledge on latest NLP technologies and trends
+Collaborate with Data Scientists and Data Engineers to integrate NLP models with various pr ojects
+Qualifications
+Bachelor’s/ Masters Degree
+3+ years of functionally related professional experience in software development is required
+Having work experience in Pharma/Life sciences background is advantage
+Expertise in visualizing and manipulating big datasets
+Proficiency with Python and experience with NLP libraries like NLTK, spa C y and others
+Experience of deep learning frameworks such as TensorFlow or PyTorch is required
+Other Competencies
+Entrepreneurial orientation.
+Excellent interpersonal and communication skills (written and verbal).
+Innovative and collaborative behavior, team player.
+Customer centricity and paying attention to details.
+Experience developing new applications within an agile environment preferred
+Ability to work independently and as part of a team

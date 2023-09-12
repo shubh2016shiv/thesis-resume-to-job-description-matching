@@ -1,0 +1,24 @@
+Software Developer
+Kivi Capital  Delhi, India 3 days ago  30 applicants
+
+About the job
+This job is sourced from a job board. Learn more
+We are actively seeking software development engineers who are interested in designing robust trading systems and refining programs to efficiently manage various types of financial market data that facilitate our quantitative investment research. By designing and improving the firm's internal applications, the SDE will play a key role in expanding the firm's trading capabilities.
+
+Responsibilities
+Management & scaling up existing infrastructure for high-frequency market data capture.
+Develop a scalable and consistent data handling infrastructure for the above data to facilitate efficient backtesting of quantitative investment strategies.
+Perform R& D; to build a software platform in Python for backtesting various kind of investment strategies using the above databases.
+This will involve studying the strategy development process and performance evaluation metrics.
+Develop autopilot risk-management systems to monitor live performance of the Portfolio.
+Improve the existing algorithms to achieve better execution price and reduce the latency.
+Requirements
+
+Our ideal candidate would have graduated with a degree in computer science from a top university with 1-3 years industry experience, along with:
+High Level of proficiency in Python and good knowledge of Matlab/C++/C#.
+Past experience in dealing with large datasets and Knowledge of database administration and network programming will be a plus.
+Well-versed in software engineering principles, frameworks and technologies.
+The ability to manage multiple tasks in a fast-paced environment.
+Excellent analytical and problem solving abilities.
+A keen interest in learning about the financial markets.
+Skills:- Data Structures, Algorithms, Python, pandas, C++, C# and Matlab

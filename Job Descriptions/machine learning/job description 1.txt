@@ -1,0 +1,31 @@
+Data Scientist
+ADA  Bengaluru, Karnataka, India On-site 4 days ago  Over 200 applicants
+
+About the job
+Job Description: Data Scientist (Fresher)
+
+Position Overview: As a Data Scientist, you will be responsible for analyzing and interpreting complex datasets to provide valuable insights and solve challenging business problems. You will work closely with cross-functional teams to gather data, build predictive models, develop algorithms, and deliver data-driven solutions. This position is ideal for a fresher who possesses strong analytical skills, programming expertise, and a passion for working with data.
+
+Key Responsibilities:
+Data Collection and Preprocessing:
+Collect, clean, and preprocess large volumes of structured and unstructured data from various sources.
+Conduct data quality assessments and implement data cleaning techniques to ensure accuracy and reliability.
+Exploratory Data Analysis (EDA):
+Perform exploratory data analysis to understand the characteristics of the data and identify patterns, trends, and outliers.
+Utilize statistical techniques and visualizations to gain insights from the data.
+Statistical Modeling and Machine Learning:
+Develop predictive models and algorithms using statistical techniques and machine learning algorithms.
+Apply regression analysis, classification, clustering, time series analysis, and other relevant methods to solve business problems.
+Evaluate model performance, fine-tune parameters, and optimize models for better accuracy.
+Feature Engineering:
+Identify and engineer relevant features from raw data to enhance model performance.
+Conduct feature selection techniques to improve model interpretability and efficiency.
+Model Deployment and Evaluation:
+Collaborate with software engineers to deploy models into production systems.
+Monitor model performance, diagnose issues, and implement improvements as needed.
+Data Visualization and Reporting:
+Communicate findings and insights effectively through clear and concise data visualizations, reports, and presentations.
+Present complex data-driven concepts to non-technical stakeholders in a way that is easy to understand.
+Continuous Learning and Research:
+Stay up-to-date with the latest advancements in data science, machine learning, and related fields.
+Conduct research and experimentation to explore new methodologies and approaches.

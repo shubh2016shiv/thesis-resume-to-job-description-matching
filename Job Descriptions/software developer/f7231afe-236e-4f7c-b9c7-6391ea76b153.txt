@@ -1,0 +1,2 @@
+Title: NET Developer
+Full Description: My client is a well established manufacturing company based in South Yorkshire. They are looking to recruit an experienced Java/Net Software Developer to a new role within the business. This is an internal consultancy role that will support all aspects of their business systems and internal clients. Candidates should be experienced in software development using .NET programming and the maintenance of SQL databases and servers. As well as .NET, Java, C, C++ and VB skills will be required

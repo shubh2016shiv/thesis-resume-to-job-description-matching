@@ -1,0 +1,39 @@
+Machine Learning Engineer
+MatrixCare  Bengaluru, Karnataka, India 1 week ago  Over 200 applicants
+
+About the job
+Digital Health Technology team powers digital experiences and engagement to enhance the lives of millions of people every day through connected care. We build, deliver and manage a portfolio of data management platforms and mobile offerings in support of our core businesses. We thrive on simple and elegant architecture and agility. You’ll be immersed in a dynamic high-growth environment and empowered to excel, take informed risks, and drive ingenuity across the enterprise.
+
+Join our leading-edge Machine Learning Engineering team to develop and deliver Artificial Intelligence (AI) and Machine Learning (ML) powered software solutions which support our business in an “AI First” fashion. Our AI/ML team powers impactful projects, such as personalized recommendations to patients to improve their sleep, automated identification of optimal equipment and settings, clinical models for diagnostic and therapeutic applications, and supply chain optimization. ResMed is a large public company with billions+ nights of sleep data.
+
+As a Machine Learning Engineer (MLE) you will work with the team to build scalable AI/ML development and production systems which are able to handle big data throughput. You will use the leading-edge technologies in machine learning and cloud computing to train, serve and monitor AI/ML models in production.
+
+This role is based in Bengaluru, India. This role requires you to move to Bengaluru and work from there. At ResMed, we are dedicated to a diverse team and inclusive work environment.
+
+About The Role
+
+You will work closely with MLEs, MLOps, Data Engineers, and Data Scientists to build and extend our global AI/ML platform
+You will build MVP applications to showcase the value of AI/ML models, owning the end-to-end process
+You’ll develop re-usable production-grade functionality and automation around AI/ML feature pipelines, real-time/batch inference, continuous training, model monitoring, and more
+You will participate in design sessions and brainstorm with the team on how to solve leading-edge AI problems with scalable solutions
+You’ll work closely with Data Scientists to support productionizing their use case
+You’ll use python, AWS, and terraform, perform code review and end-to-end testing
+
+About You
+
+Basic Qualifications
+
+Bachelor’s or Master’s in Computer Science or technical field
+Solid knowledge of Machine Learning Systems (model training, model inference, APIs, feature pipelines, continuous training, model monitoring)
+4+ years of industry experience in Data Science, Machine Learning Engineering, Data Engineering, or similar
+3+ years’ experience of AWS or other cloud platforms
+Excellent python coding skills
+Experience serving a model in production
+
+Preferred Qualifications
+
+2+ years’ experience using terraform & building production grade ML systems(infrastructure)
+
+"Joining us is more than saying “yes” to making the world a healthier place. It’s discovering a career that’s challenging, supportive and inspiring. Where a culture driven by excellence helps you not only meet your goals, but also create new ones. We focus on creating a diverse and inclusive culture, encouraging individual expression in the workplace and thrive on the innovative ideas this generates. If this sounds like the workplace for you, apply now!"
+
+Joining us is more than saying “yes” to making the world a healthier place. It’s discovering a career that’s challenging, supportive and inspiring. Where a culture driven by excellence helps you not only meet your goals, but also create new ones. We focus on creating a diverse and inclusive culture, encouraging individual expression in the workplace and thrive on the innovative ideas this generates. If this sounds like the workplace for you, apply now!

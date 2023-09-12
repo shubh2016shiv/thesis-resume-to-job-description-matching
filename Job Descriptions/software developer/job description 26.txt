@@ -1,0 +1,72 @@
+Staff Software Engineer - Full Stack Developer
+Baker Hughes  Mumbai, Maharashtra, India On-site 16 hours ago  28 applicants
+
+About the job
+Staff Software Engineer - Full Stack Developer 
+
+Join our Digital Engineering Team
+
+ 
+
+Are you a Lead Software Engineer looking for an innovative change?
+
+ 
+
+Join our Bently Nevada Digital Engineering Team
+
+ 
+
+Baker Hughes Bently Nevada offers a plant-wide, holistic suite of machine condition monitoring and protection hardware, software and services that help achieve the highest level of asset reliability possible. Our team takes ownership in designing and implementing web/cloud applications.
+
+ 
+
+Partner with the best
+
+ 
+
+As a Staff Software Engineer, you will develop high performing, scalable and innovative end-to-end web/cloud applications. You will collaborate extensively with various product stakeholders to design and implement products.
+
+As a Staff Software Engineer, you will be responsible for:
+
+
+Working on enterprise-scale/complex projects that require you to connect the business needs and domain with technical knowledge.
+Working & collaborating with cross-functional teams of devops, quality engineers, product managers, SMEs, etc to implement efficient solutions.
+Working independently and contributing to teams across business.
+Demonstrating clarity of thinking to work through limited information and vague problem definitions.
+Develop technical framework and implement best practices for scalable and maintainable code; recommending tools & technology for productivity.
+Spearheading technical coaching & code reviews across teams
+Leading the team execution and guiding team on architecture & design.
+Understanding whole product, its modules while being an expert in the critical modules. Helping in designing interfaces and information exchange between modules.
+
+Fuel your passion
+
+ 
+
+To be successful in this role you will:
+
+
+Have 10+ years of hands-on experience in designing and implementing applications on Azure/AWS using microservices architecture; docker/containerization.
+Have atleast 4+ years of experience in leading a team at technical and execution level while owning the timelines, quality and productivity of the team.
+Have proficiency in back-end development using either Nodejs with TyperScript or .NET
+Have proficiency in Database (MySQL, PostgreSQL).
+Have hands on experience in backend like Session management, caching, algorithms & data structures, secure coding, etc.
+Proficiency in Angular/React, JavaScript/Typescript, HTML, CSS, jQuery, Web Servers & RESTful Web services.
+Hands-on experience on data communication protocols like AMQP/MQTT & message brokers like RabbitMQ/Kafka etc. 
+Flexible to learn and develop in any language/technology/tools as per the project’s needs.
+Have deep understanding of Application and Infrastructure architecture and non-functional aspects like Performance, Scalability, Reliability, Availability etc.
+Have good Problem-solving skills, Collaboration, Influencing and articulation.
+Deep understanding and hands on experience of Programming concepts: OOPS, best practices, refactoring, maintainable/reusable code, Design principles and patterns, Architecture, TDD, Unit testing, debugging, automation.  
+Facilitates dialogues that triggers new perspectives.
+Learn domain knowledge and demonstrate customer focus.  
+Be a graduate of Computer Science or in STEM Majors (Science, Technology, Engineering and Math).
+
+Work in a way that works for you
+
+ 
+
+We recognize that everyone is different and that the way in which people want to work and deliver at their best is different for everyone too. In this role, we can offer the following flexible working patterns:
+
+ 
+
+
+Working flexible hours - flexing the times when you work in the day to help you fit everything in and work when you are the most productive

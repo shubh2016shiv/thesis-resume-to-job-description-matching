@@ -1,0 +1,41 @@
+IND (New) ML Ops Engineer
+Quantium  Hyderabad, Telangana, India On-site 1 week ago  Over 200 applicants
+
+About the job
+Quantium
+
+Founded in 2002, Quantium combines the best of human and artificial intelligence to power possibilities for individuals, organisations and society. Our solutions make sense of what has happened and what will, could or should be done to re-shape industries and societies around the needs of the people they serve.
+
+As one of the world’s fully diversified data science and AI leaders we operate across every sector of the economy and we’re growing fast - with growth comes opportunity! We’re passionate about building out our team of smart, fun, diverse and motivated people.
+
+We combine a team of experts that spans data scientists, actuaries, statisticians, business analysts, strategy consultants, engineers, technologists, programmers, product developers, and futurists – all dedicated to harnessing the power of data to drive transformational outcomes for our clients.
+
+We actively foster a culture where our people can stretch themselves to reach their full potential.
+
+We also know that work has to work for you, and modern life is fast-paced and balance can be tricky. You want to work where you are respected and valued as an individual, not a number. Quantium embraces a flexible and supportive environment dedicated to powering possibilities for our team members, clients and partners.
+
+MLOps Resposibilities
+
+Design the data pipelines and engineering infrastructure to support our clients’ enterprise machine learning systems at scale
+Take models data scientists build and turn them into a real machine learning production system
+Develop and deploy scalable tools and services for our clients to handle machine learning training and inference
+Identify and evaluate new technologies to improve performance, maintainability, and reliability of machine learning solutions
+Apply software engineering rigor and best practices to machine learning pipelines, including CI/CD, automation, etc.
+Support models with an emphasis on auditability, versioning, and data security
+Facilitate the development and deployment of proof-of-concept machine learning systems
+
+Skills Required
+
+Ability to build MLOps pipelines
+Ability to design and implement solutions in GCP
+Experience in Kubeflow Pipelines platform for building and deploying portable, scalable machine learning (ML) workflows
+Experience in Vertex AI services for building, deploying, and managing machine learning models in the cloud
+Experience with containerization and Kubernetes
+Good understanding of Linux for managing servers
+Automation for deploying machine learning solutions using Python/Bash/Go/Ruby scripting etc.
+Exposure to machine learning models built using scikit frameworks in Python
+Exposure to machine learning frameworks such as Keras or PyTorch or Tensorflow
+Hands-on experience managing or provisioning GPU/CPU clusters, or other large-scale cloud or Linux/Unix systems.
+Experience embedding monitoring solutions in ML applications
+Hands on experience developing and training AI/ML models.
+Proven experience implementing CI/CD on large-scale operational AI pipelines

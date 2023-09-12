@@ -1,0 +1,47 @@
+Machine Learning/AI Research Scientist (Paid Internship)
+hushh.ai  Mumbai, Maharashtra, India Hybrid 2 months ago  Over 200 applicants
+
+About the job
+We are looking for a passionate and driven Machine Learning/AI Research Scientist to join our team. As a Machine Learning/AI Research Scientist intern, you will work closely with our data scientists and software engineers to build and maintain our machine learning and data infrastructure, ensuring that we're applying the most appropriate machine learning models to help our users organize and manage their data for AI applications they interact with on a daily basis.
+
+
+Job Title: Machine Learning/AI Research Scientist (Paid Internship)
+
+Job Type: Internship/Co-op (12-24 weeks)
+
+
+Paid Internship w/ student stipend [only existing legal residents of India should apply as we won't be offering work visas at this point)
+
+Onsite w/ hybrid work environment at our office in BKC, Mumbai, India
+
+
+hushh is a well-funded AI first product and services startup (in stealth mode) based out of Kirkland, WA which is a suburb of Seattle, WA with international offices in Dubai, UAE and Chennai & Mumbai, India.
+
+
+hushh.ai is seeking a highly motivated and talented Machine Learning Researcher Intern/Co-op for User Data Management to join our team. As a Machine Learning Researcher Intern/Co-op for User Data Management at hushh.ai, you will work alongside our experienced team of data scientists and engineers to develop and implement machine learning models that improve our products and services. You will work closely with our data team to develop algorithms that enable users to collect, organize, and manage their most valuable data.
+
+
+Responsibilities:
+
+Design and implement machine learning models that support our products and services, including deep learning models for natural language processing (NLP), computer vision, and generative models.
+Develop algorithms that enable users to collect, organize, and manage their most valuable data, including techniques for data anonymization, encryption, and secure sharing.
+Analyze large datasets to identify trends and insights that inform product development, including techniques for unsupervised learning, anomaly detection, and causal inference.
+Stay up-to-date with the latest machine learning techniques and technologies, including advancements in reinforcement learning, meta-learning, and transfer learning.
+Participate in cutting-edge machine learning research and contribute to the broader machine learning community by publishing research papers and attending conferences.
+Utilize the latest data science technologies being worked on at companies like Google, OpenAI, Facebook, and Microsoft, including big data platforms (e.g., Hadoop, Spark), data processing tools (e.g., Apache Beam, Apache Flink), and cloud-based machine learning services (e.g., Google Cloud ML, Amazon SageMaker).
+Work collaboratively with the team to design experiments, analyze results, and present findings.
+
+Requirements:
+
+Ph.D. candidate in Computer Science, Mathematics, Statistics, or a related field from a top university.
+Strong programming skills in Python, TensorFlow, and other machine learning libraries.
+Deep understanding of data analysis and statistics.
+Familiarity with deep learning techniques (e.g., CNN, RNN, LSTM) for NLP and computer vision.
+Familiarity with unsupervised learning, anomaly detection, and causal inference.
+Experience with big data platforms (e.g., Hadoop, Spark), data processing tools (e.g., Apache Beam, Apache Flink), and cloud-based machine learning services (e.g., Google Cloud ML, Amazon SageMaker).
+Excellent communication and collaboration skills.
+Must be able to commit to a 12-24 week internship/co-op.
+
+If you're an existing Ph.D candidate who is close to graduation and has a passion for making user data generally accessible and valuable for the user by helping them collect, organize, and manage their most valuable data, and looking for an opportunity to gain experience in a dynamic and innovative team on cutting-edge machine learning research problems, utilizing the latest data science technologies, hushh.ai is the place for you. We offer competitive compensation packages, flexible work arrangements, and opportunities for career growth and development.
+
+Please submit your resume and a cover letter explaining your qualifications and interest in this internship/co-op position via jobs@hush1one.com. We look forward to hearing from you!

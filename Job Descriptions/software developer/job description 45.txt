@@ -1,0 +1,56 @@
+Python Developer - Talent Pipeline- job post
+Version 1
+19 reviews
+Birmingham•Hybrid remote
+Full-time
+
+Job details
+Matches job preferences you are interested in
+Job type
+Full-time
+Company Description
+
+Version 1 has celebrated over 25 years in the IT industry and we continue to be trusted by global brands to deliver IT solutions that drive customer success. Version 1 is a Microsoft Gold Partner, an AWS Premier Consulting Partner and an Oracle Platform Partner; we are also an award-winning employer and our employees are at the heart of Version 1.
+
+Version 1 as a consultancy and a service provider, we are a digital-first environment and we do things differently. We are focused on our core values, and using these we have seen significant growth in our UK Digital, Data and Cloud Practice in the 4 years since inception. Our UK Digital, Data and Cloud business is now preparing for the next phase of expansion, opening new opportunities for highly skilled technologists and leaders to join one of the fastest-growing consultancies in the UK.
+
+A few of our awards are the AWS Migration Partner of the Year - EMEA at AWS Re: Invent 2022, Best Workplace™ for Women UK 2022 By Great Place to Work® and Top 10 in Glassdoor’s Employees’ Choice Awards 2023.
+
+
+Job Description
+
+We are building/adapting scalable, high-quality RESTful microservices using Python and Django for a government client. Modern, accessible frontend applications using HTML, CSS, and JavaScript with templating tools like Moustache.
+
+You will be engaging in solution design with Business and Technical representatives, bringing your thoughts on new techniques and alternative approaches to the team for the development of public and private APIs, web application backends, and data acquisition from web sources using the Python language.
+
+Responsibilities
+
+Build APIs for third-party access to regulations from the client, to be implemented under an API management system.
+Build responsive, reliable, performant, documented and secure web application backends.
+Implement, tune, monitor, and maintain the DevOps necessary to support the above (AWS, Azure, GCP) with Docker.
+Using common JavaScript build and test tools such as Jest/Mocha/Jasmine/Karam, Webpack and NPM.
+Implement a TDD approach to building software and an understanding of modern design patterns.
+Perform code reviews and testing as needed to ensure high quality deliverables.
+Create and communicate development plans and schedules
+
+Qualifications
+
+We are looking for:
+
+Experience in comparable business/technical/product environments using Python.
+Proficiency in cloud-based development, DevOps, and operations
+Technologies – Python 3, HTML, SQL, XML, GIT,
+Experience of configuring cloud environments: Microsoft Azure and/or Amazon AWS.
+Reasonable Linux knowledge
+Strong communication skills
+Candidates that are eligible for SC clearance
+
+Additional Information
+
+At Version 1, we believe in providing our employees with a comprehensive benefits package that prioritizes their well-being, professional growth, and financial stability.
+
+One of our standout advantages is the ability to work remote or with a hybrid schedule along with business travel, allowing our employees to strike a balance between work and life. We also offer a range of tech-related benefits, including an innovative Tech Scheme, Octopus Car Lease, and MyGym Discounts to help keep our team members up-to-date with the latest technology.
+
+We prioritize the health and safety of our employees, providing private medical and life insurance coverage, as well as free eye tests and contributions towards glasses. Our team members can also stay ahead of the curve with incentivized certifications and accreditations, including AWS, Microsoft, Oracle, and Red Hat.
+
+Our employee-designed Profit Share scheme divides a portion of our company's profits each quarter among all full-time employees. We are dedicated to helping our employees reach their full potential, offering Pathways Career Development Quarterly, a program designed to support professional growth.

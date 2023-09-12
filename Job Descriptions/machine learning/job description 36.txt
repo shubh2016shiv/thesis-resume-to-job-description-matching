@@ -1,0 +1,56 @@
+Associate Data Scientist
+Assurant  Greater Kolkata Area Hybrid 2 months ago  100 applicants
+
+About the job
+Job Purpose
+
+The Data Scientist is responsible for using analytical techniques to solve and support complex data science problems. This role will work alongside senior team members to leverage machine learning tools that advance Assurant’s business. The Data Scientist will refresh existing ML models and bring maturity to the data science solutions
+
+Primary Job Accountabilities/Responsibilities
+
+Creating Value Through Data (15%):
+Produce clear, insightful, understandable work products (visualizations, reports, presentations, etc.) to outline actionable recommendations
+Transform data into insights by leveraging internal and external tools (e.g., Python, SQL, Hadoop, Excel, Sawtooth, Power BI, etc.) to identify and quantify opportunities
+Build studies that add substantial value to the decision-making process through proactive data analysis, reporting, and research
+
+Model Development (30%):
+Develops machine learning solutions for complex business problems; examine data and develop machine learning solutions for adding business value
+Provides feedback to product and engineering teams on machine learning solution design and development and communicate the approach and implementation of the machine learning solution
+Devises new algorithmic approaches to solving difficult quantitative problems using large-scale enterprise data sources
+Develop automated ML models to standardize the refresh process to drive data consistency and quality
+
+AI Product Maturity, Support & Maintenance (40%):
+Support re-training and enhancement of existing ML models to facilitate growth and maintenance of AI products
+Proactively identify the opportunities to drive and engage the data science and engineering teams to bring maturity to the AI product implementation methodology
+Works independently with mentorship from senior team members of the Data Science team on leveraging existing frameworks and models for supporting AI products
+Drive Analytics as a Product (AaaP) and provide thought leadership to Assurant’s Data Analytics COE, questioning traditional wisdom, current standard practices, and capabilities
+Ensures data and model governance is established to comply with internal audit requirements and ensures compliance with data governance and data privacy policies
+Support ad hoc analytical projects
+
+Communicating Insights (5%):
+Presents analysis and resulting recommendations to senior team members
+Leverages data to present compelling business cases to optimize investments and operations
+
+Support Data Strategies (10%):
+Remains abreast of developments in the field(s) of insurance, management, and data sciences by attending self-development programs, interacting with peers, and reviewing pertinent literature. Incorporates advancements when practicable and cost-effective.
+Participate and drive data modeling and governance best practices
+
+Proactively engages internal teams to discover areas of analytical needs
+
+Basic Qualifications Required - Experience, Skills, And Knowledge
+5 years - Experience in developing ML models, large scale solution implementation, data engineering & management, business analysis, research, statistics, applied mathematics, business intelligence, or related fields
+5 years - Experience with data science tools (e.g., Python, PySpark, SQL, Hadoop, Advanced Excel, Tableau, Power BI, Sawtooth, CART, R, etc.) and relational database software
+4 years - Experience in data analysis that includes translating insights into recommendations
+4 years - Experience in an analytical role involving data extraction, analysis, statistical or machine learning modeling, and communication
+Bachelor’s Degree in Statistics, Economics, Applied Mathematics, Computer Science, or Information Management; or equivalent is required
+Writes efficient code that incorporates best practices and standardized methodologies for implementing Data Science solutions
+
+Preferred Experience, Skills, And Knowledge
+Master’s Degree or Ph.D. preferred in business, mathematics, computer science, or a related field
+Experience in performing statistical analyses, such as predictive modeling, time series analysis, exploratory data analysis, segmentation, cluster analysis, retention, etc.
+Experience working with Machine Learning and Deep Learning algorithms design and implementation
+Strong written, verbal, and interpersonal communication skills. Ability to effectively communicate at all levels in the organization
+Experience with data storytelling and distilling complex information into understandable ideas
+Experience working in the insurance industry
+Ability to work independently on all project types
+Experience with cloud technologies (e.g., Apache Spark, Azure (Databricks, Azure ML, Cognitive Services))

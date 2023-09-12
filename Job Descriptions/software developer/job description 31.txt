@@ -1,0 +1,50 @@
+Software Engineer III / Sr. Java Developer
+Paychex  Bengaluru, Karnataka, India On-site 4 days ago  47 applicants
+
+About the job
+Title Software Engineer III / Sr. Java Developer
+
+EOE Statement We are an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status or any other characteristic protected by law.
+
+About the Organization: Paychex, Inc. (NASDAQ: PAYX) is a leading provider of integrated human capital management solutions for payroll, benefits, human resources, and insurance services.
+
+Industry expertise since 1971
+730,000+ clients in the U.S. and Northern Europe
+Pays 1 in 12 U.S. private sector employees
+Largest HR company for small to medium-sized businesses
+Product development company having products for payroll, benefits, and HR.
+
+Description:
+
+Software engineer to work on an agile development team supporting the Insurance product line at Paychex. Develops code and performs maintenance for a mission critical Insurance platform; collaborates effectively with teammates and business stakeholders; demonstrates passion for software engineering by producing clean, well-tested code that is released to customers every two weeks.
+
+Responsibilities
+
+Develop, test, deploy, maintain and improve software to meet requirements
+Complete complex program changes; self-directed
+Perform comprehensive analysis and design for broadly defined requirements
+Make significant technical contributions; contribute to technical direction
+Provide estimates required for user stories based on business requirements, specifications and designs
+Comply with and contribute to SDLC standards and CD/CI procedures to ensure consistency
+Monitor progress against task estimates to provide status
+Provide technical support and troubleshooting for applications across environments
+Maintain existing code base, monitoring for failures in non-prod environments
+Support changes during quality assurance, user acceptance testing, and post implementation to ensure integrity of application
+Share technical expertise; guide and mentor others to maximize team effectiveness and quality
+
+Category: PD&IT
+
+Position Requirements:
+
+Education:
+
+Bachelors degree in Computer Science or related field
+
+Masters Degree in Computer Science
+
+Required relevant experience:
+
+Bachelor's Degree in Computer related discipline or equivalent work experience
+SE 3 – 5-8 years of experience in Related field
+
+We’re looking for Java, AngularJS, CSS, Spring, Spring boot framework, SQL, Restful Services, MangoDB , automated testing with Robot Framework. One’s highlighted are essential.

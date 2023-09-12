@@ -1,0 +1,59 @@
+ML Engineer
+BT Group  Bengaluru, Karnataka, India On-site 3 days ago  170 applicants
+
+About the job
+Job Req ID:
+
+7823
+
+Posting Date:
+
+2 Jun 2023
+
+Function:
+
+Data & AI
+
+Location:
+
+RMZ Ecoworld, Devarabeesanahal, Bengaluru, India
+
+Salary:
+
+Competitive
+
+About BT
+
+BT has a key role in British society, fostering change and leading technology innovation. From delivering the Olympics, to supporting the emergency services, to investing more into research than any other UK technology company, we take pride in everything we do - and in the people who work here.
+
+We're now a global company operating at the forefront of the information age, employing 90,000 people in 180 countries. And we're on a mission. Guided by our core values of Personal, Simple and Brilliant our goal is to help customers, communities and businesses overcome barriers and release their potential.
+
+So, if you're interested in the power of potential, why not join us today and release yours? You can read more here about what it's like to work at BT.
+
+Responsibilities
+
+Play a significant part in encouraging ML productionisation in BT through the effective utilisation of the Data Science Platform(s) and improving infrastructure and tooling to enable the business to operate quickly and safely.
+Be a senior figure in a distributed team of Machine Learning Engineers working with the Data Science community across all business units in BT.
+Work closely with Data Scientists in the AI team, and across BT’s business units.
+Help the business to realise the value from their AI initiatives through speeding up their solution delivery, ensuring that all ML artefacts are captured, and the solution is robust enough for production.
+Report on progress clearly and succinctly to a wide range of colleagues, in and outside the immediate team.
+Be a subject matter expert across BT for MLOps, with a responsibility for advising other teams to encourage the usage of AI and ML infrastructure.
+Drive the high-quality and efficient deployment of multiple ML techniques across multiple products and business units.
+Enable novel ML models to be productionised and scaled across BT, with full lifecycle management (including Continuous Integration, Delivery and Training).
+Ensure good software engineering practices in cross-functional teams in general.
+
+Leading by example, and direct coaching of Machine Learning Engineering specialists.
+
+Experience
+
+5 years+ playing significant roles in ML deployment/MLOps /end-to-end Data Science initiatives.
+Direct and recent experience of using cloud ML platforms such as Google Cloud Platform (GCP) Vertex AI, Amazon Web Services (AWS) Sagemaker or Microsoft Azure ML Studio.
+Prior experience building ML pipelines and productionising ML solutions, particularly for large-scale, high-throughput, low-latency applications.
+Significant experience in SQL, Python Object-Oriented Programming and cloud deployment technology e.g. Terraform.
+Experience with MLOps orchestration (Kubeflow, TFX, Kedro etc.) and in building data pipelines using tools such as Apache Beam, Spark, Kafka and MLFlow) would be desirable.
+Experience of working directly with customers/stakeholders and as part of an Agile squad.
+Experience in implementing and steering good software engineering practices (DevOps, CI/CD, Testing) in tools such as Git.
+
+Who Is The BT Group
+
+We're the leading communications provider with customers in 180 countries. Across the world we enable customer's digital transformations so they can thrive. our focus is simple: be the global provider-of-choice for managed network and IT infrastructure services..

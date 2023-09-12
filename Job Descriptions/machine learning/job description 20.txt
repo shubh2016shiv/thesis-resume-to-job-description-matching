@@ -1,0 +1,56 @@
+Data Science Engineer
+Insyncai  Bengaluru, Karnataka, India On-site 1 month ago  Over 200 applicants
+
+About the job
+Data Science Engineer (2-4 Yrs)
+
+Location: At Bangalore, India
+
+
+Job Description
+
+As a Data Science Engineer at InsyncAI, you will need strong technical skills in data modeling, machine learning, data engineering, software development, as well as the ability to conduct literature reviews and critically evaluate research papers to identify applicable techniques. You should also be able to design and implement efficient and scalable data processing pipelines, perform exploratory data analysis, and collaborate with other teams to integrate data science models into production systems.
+
+
+You should join us if you...
+
+are really passionate about conversational AI & want to solve some of the most complex problems in Natural Language Processing space
+deeply care about highly scalable, stable, automated, highly performant deployments
+are ready to take on the challenge of building & scaling a truly amazing AI platform to impact the lives of millions of customers & hundreds of brands
+are keen on becoming the part of growth story a startup and grow with it- are ready to work on a challenging but fun environment where learning new things is the way of work every day
+can think of solutions beyond boundaries and drive outcomes with full ownership
+deeply believe in customer obsession, can learn & innovate fast
+
+Qualifications:
+
+Bachelor's or Master's degree in Computer Science, Engineering, Mathematics, Statistics or related field.
+Minimum of 2 years of experience in data engineering, data science, or a related field.
+Proficiency in Python programming and experience with relevant libraries and frameworks such as Pandas, NumPy, Scikit-learn, TensorFlow, and Keras.
+Experience building and maintaining data pipelines and ETL processes using tools such as Apache Spark, Airflow, or similar.
+Strong understanding of data architecture, database design, and data modeling principles.
+Familiarity with JSON APIs and experience building RESTful web services.
+Good understanding of NLP concepts and experience working on NLP projects is must.
+Strong analytical and problem-solving skills with ability to work independently and in a team-oriented environment.
+Excellent writing and verbal communication skills with the ability to present complex technical concepts to non-technical stakeholders.
+
+Responsibilities:
+
+Build and maintain data pipelines to extract and process data from various sources such as databases, APIs, and file systems.
+Leverage data science tools and techniques, Develop PoC, present lucidly to the team and evolve the solutions
+Conduct literature reviews and critically evaluate research papers to identify applicable techniques for solving complex data science problems.
+Design and implement scalable data architectures that can support the needs of data-driven solutions.
+Create and maintain JSON APIs to expose data and machine learning services to other systems and applications.
+Collaborate with cross-functional teams to understand their data and analytics needs and build solutions that meet those needs.
+Ensure the accuracy, completeness, and reliability of data through quality control measures and data validation techniques.
+Brainstorm, review, and discuss with team members to providing robust data science solutions.
+Stay up-to-date with the latest developments in data engineering, data science, and related technologies.
+
+Current Stack
+
+Our current stack is built (but not limited to) using:
+
+AI Stack & Components: NLP stack is build using In-House built & externally available models for various components: Data Classification, Data Extraction, Data Normalization, Sentiment Detection, Language Detection, Intent Detection, Entity Extraction, Image processing, Context Understanding, Spell Correction etc
+Technologies & Frameworks: Amazon AWS, Google Cloud, Ruby on Rails, Postgres, ElasticSearch, Redis, Python, React, AngularJS, Kibana, Kubernetes, Ansible, Hi-Charts etc.
+
+
+InsyncAI started developing powerful customer experience automation solutions in 2017 for enterprise customers. Today, InsyncAI is the champion of great sales and support service everywhere for everyone by unlocking the power of conversational AI and powering millions of conversations, enabling top enterprise customers with hundreds of millions of their users, by providing powerful human-like virtual assistants over chat, email, messaging, social channels and phone. Our products are built with love to be loved. The company was conceived in San Jose California, built and grown here and in Bangalore. Learn more at http://www.insyncai.com .

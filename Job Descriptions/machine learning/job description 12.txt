@@ -1,0 +1,54 @@
+ML Engineer II
+Nissan Motor Corporation  Trivandrum, Kerala, India 1 month ago  Over 200 applicants
+
+About the job
+Nissan is a pioneer in Innovation and Technology. With a focus on Mobility, Operational Excellence, Value to our Customers and Electrification of vehicles, you can expect to be part of a very exciting journey here at Nissan.
+
+Nissan is going after a massive Digital Transformation backed by leading technologies across the organization globally. We are committed to building a diverse, entrepreneurial organization, and our current team is a strong evidence of that. Our people are what drive the business forward. At Nissan Digital, you will be part of a dynamic team with ample opportunities to grow and make a difference.
+
+Overall 2-4 yrs. of relevant experience in Data Science/ Machine Learning space
+Education: PhD/Master/Bachelors quantitative discipline (e.g., Statistics, Operations Research, Economics, Computer Science, Mathematics, Physics, Industrial Engineering) or equivalent practical experience.
+Must have delivered one or more data science product(s) in production.
+Have to be fully hands-on
+
+About Data Science Centre of Excellence team:
+
+The Data Scientist will be part of Nissan Digital (fully owned subsidiary of Nissan Motors) as Data Science CoE who works with teams across the globe. They will be managing / coordinating with the team that identifies and develops advanced analytics statistical models, machine learning methods and solutions for Nissan Motors – Global Business Functions to improve various business outcome indicators.
+
+Objectives of the team is to:
+Successfully develop, conceptualize and test Various Data Science approaches to business problems
+Integrates the outcomes as real time analytics to elevate the Nissan Digital’s ability to create value for business functions in areas and through means not immediately apparent to business functions.
+
+Role description:
+
+Data Scientist in Data Science CoE follow multiple approaches for project execution. He/she is expected to drive a business problem right from interacting with business, data collection, building a concept application to demonstrate the advantages of the new methodology with explanations. Upon successful demonstration he/she brings in original ideas, collaborate and work with team and 3rd parties for speed of delivery to solve and deploy the solution globally. They also leverage the vast global network of Nissan Motors to collaborate with Nissan Digital – Data Engineering CoE, Software CoE, CI/CD team and other functions for creating and deploying solutions.
+
+Requirements:
+Overall years of experience: - 2-4yrs. of experience in Statistical and Machine learning models.
+Proficient in Python/R frameworks for machine learning.
+
+: Proficient in Data Visualisation in python / R or using BI Tools such as Tableau
+
+Proficient in Statistical modelling techniques and Machine Learning Algorithms
+
+Proficiency in Optimization techniques with open source tools is a plus
+Should understand CI/CD processes in product deployment and used it in delivery.
+Should have understanding of Dockerization, REST APIs
+Working knowledge on following agile practices in product development is a plus
+Experience in various statistical and machine learning models, data mining, unstructured data analytics in corporate or academic research environments
+Proven background in at least one of the following - Reliability models, Markov Models, Stochastic models, Bayesian Modelling, Classification Models, Cluster Analysis, Neural Network, Non-parametric Methods, Multivariate Statistics
+
+Ability to translate domain problems to data science problem
+Ability to think creatively to solve real world business problems
+Ability to work in a global collaborative team environment
+Proficient verbal and written communication skills in English
+
+Preferred Skillsets
+
+Applied experience in Operations Research, Statistical Modelling, Optimization with OR Tools or equivalent, PyTorch, Deep Learning, H2O.ai, Tensor Flow 2.0, Scikit Learn, Python, R, Julia, Numba, Cython, Spark. Django
+
+Note: Please clearly mention the projects where you contributed, the technologies used and the contributions to the project. Please separate out hobby projects and ML/NLP courses to a different section.
+
+Drive your career forward and join the company leading the technology and business evolution in the automotive industry.
+
+Trivandrum Kerala India

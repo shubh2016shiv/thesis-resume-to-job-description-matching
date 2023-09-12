@@ -1,0 +1,52 @@
+Data Scientist
+Trellix  Bengaluru, Karnataka, India On-site 1 month ago  Over 200 applicants
+
+About the job
+Job Title:
+
+Security Researcher
+
+Role Overview:
+
+Uses predictive modeling, statistics, Machine Learning, Data Mining, and other data analysis techniques to collect, explore, and extract insights from structure and unstructured data. Develop software, algorithms and applications to apply mathematics to data, perform large scale experimentation and build data driven apps to translate data into intelligence, solve a variety of business problems and enable business strategy. Assists business with casual inferences & observations with finding patterns , relationships in data. Must possess strong understanding of internal business segment (stakeholders) and possess strong written and communication skills. Typically requires expertise in relational database structures, research methods, machine learning, Cloud based technologies, Big Data technologies (i.e. Hadoop , HBase, Lucene/Solr), analytics packages (i.e. R, Mahout, Matlab, Octave, Weka), scripting languages (i.e. Python, Perl), programing languages (i.e. Java, C/C++, SQL). Typically possesses advanced degree in Computer Science, Mathematics, Machine Learning, Operation Research, and Statistics or equivalent expertise.
+
+This role is for a team that is working on creating cloud-based security solutions. The role involves developing scalable, extensible and high-quality software for our cloud-based solutions.
+
+Company Overview:
+
+Trellix is a global company redefining the future of cybersecurity. The company’s open and native extended detection and response (XDR) platform helps organizations confronted by today’s most advanced threats gain confidence in the protection and resilience of their operations. Trellix’s security experts, along with an extensive partner ecosystem, accelerate technology innovation through machine learning and automation to empower over 40,000 business and government customers. More at https://trellix.com.
+
+About the Role:
+
+Responsible for owning AI/ML solutions for zero-day detection of threats. You will work closely with Software Architects, Data Engineers, Security Researchers, and other domain experts, to design the next generation of AI/ML solutions to help protect our customers.
+
+Roles and Responsibilities:
+
+Collaborate with Security Researchers and Software Architects to understand the requirements for new AI/ML-based detection systems
+Own Feature Engineering – collaborate with Security Researchers to understand the domain and design innovative solutions to protect our customers
+Continuous research into improvement of existing AI/ML-based detection systems using different algorithms and/or improvement in features
+Work with Data Engineers to ensure a completely automated pipeline is built for agile and speedy model deployment to Production and Field
+Analyze all available data from telemetry, logs, stores, to propose new avenues with application of Data Science, and design experimental models to demonstrate the ideas
+
+About you:
+
+Bachelor’s degree in engineering, computer science, or mathematics
+Specialization in Data Science, Machine Learning, Deep Learning or related, from recognized institutions or platforms
+Strong knowledge of Data Science, Machine Learning and Statistical Modeling fundamentals
+4+ years of experience in designing solutions with Data Science concepts
+Expertise, with professional experience, in at least one programming language – Python/Java/Scala/R
+Experience with Cloud-based Data Engineering Platforms – at least one belonging to AWS / Azure / GCP
+Strong communication skills
+Ability to collaborate and work with multiple teams across different time-zones
+
+Company Benefits:
+
+We work hard to embrace diversity and inclusion and encourage everyone at Trellix to bring their authentic selves to work every day. We offer a variety of social programs, flexible work hours and family-friendly benefits to all of our employees.
+
+Pension and Retirement Plans
+Medical, Dental and Vision Coverage
+Paid Time Off
+Paid Parental Leave
+Support for Community Involvement
+
+We're serious about our commitment to diversity, which is why Trellix prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.

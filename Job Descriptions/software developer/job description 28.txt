@@ -1,0 +1,49 @@
+Senior Software Developer / Programmer
+Company 3  Pune, Maharashtra, India On-site 2 days ago  15 applicants
+
+About the job
+Position Title
+
+Senior Pipeline Developer
+
+Reports To
+
+Lead Pipeline Developer
+
+Job Location:
+
+Pune
+
+Company3/Method Studios, Inc. (CO3-Method) is a global leader in post-production, media entertainment services, and visual effects company for film, video and online content, from capture to consumption. Co3-Method has been the trusted partner for the past two decades for the world’s most successful Hollywood studios, independent film companies, TV networks, exhibitors, advertisers and others, offering best-in-class solutions in production, post-production, dailies, color, visual effects, and workflow management, utilizing the most cutting-edge digital solution-based technologies.
+
+Co3-Method is a robust global operation with locations in Los Angeles, New York and around the globe. The company is made up of nearly 4000 of the most talented, highly honored and recognized artists and industry veterans worldwide. For more information, please visit
+
+Job Profile
+
+This role will participate in the creation and maintenance of an innovative pipeline including asset management, production management, and other tools to support a state-of-the-art, international, visual effects and stereo conversion facility.
+
+Roles & Responsibilities
+Support pipeline change requirements from local production as well as from facilities abroad.
+Anticipate pipeline development challenges, identify and design solutions with department heads, management and the software development team.
+Partner with management, production, and heads of departments to standardize production procedures, define pipeline requirements, develop project plans, and integrate solutions to address production-specific needs.
+Promote a positive and productive work environment and help lead collaborative efforts across multiple facilities.
+Ensure effective communication between R&D and Pipeline Development, making sure critical information is shared among all parties.
+Manage integration of all software within the production pipeline with the support of the systems administrators.
+Ensure pipeline integrity by providing secure solutions to content management and user-based access permissions.
+Establish/maintain documented, pipeline-related procedures and best practices for all affected roles.
+Work with I/O and data management departments as part of the overall production pipeline team.
+Other duties as assigned.
+
+Requirements
+BS or MS in Computer Science or Computer Graphics, or equivalent experience.
+Minimum of 5+ years of experience in feature film on the postproduction side with large-scale visual effects or animation pipeline.
+2+ years management/leadership of software, pipeline, or technology teams preferred.
+Strong working knowledge of multiple 2D and 3D software packages and pipelines required.
+Understanding of general VFX methodologies.
+Experience with project management software such as Shotgun or Tactic.
+Ability to write code and assist in tool development; Python experience is required. JavaScript, HTML/CSS and/or C++ experience a plus.
+Proven ability to work closely in a small team with tight schedules.
+Must have excellent communication, organization and interpersonal skills.
+Must be able to work independently when required.
+Must possess extreme attention to detail.
+Flexibility to work extended hours and/or weekends, as required.

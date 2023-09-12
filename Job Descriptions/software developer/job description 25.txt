@@ -1,0 +1,49 @@
+Sr. Software Developer in Test
+Revvity  India Remote 1 day ago  120 applicants
+
+About the job
+Role Purpose
+
+Create, update, maintain and execute automated test suites for various web applications, desktop applications and back-end data warehousing solutions.
+Configure, schedule, execute and provide analysis and feedback on automated test executions across the product delivery stack.
+Integrate test framework with CI/CD systems
+Identify, record, document thoroughly and track bugs
+Stay up-to-date with new testing tools and technologies
+Work as a member of the scrum team including planning, estimating, and verifying user stories and acceptance criteria
+Liaise with internal teams (e.g. developers and product managers)
+Become a user expert on how our products work, gaining an understanding of the strengths and weaknesses, and championing customer issues in order to ensure they have a positive experience
+Help determining the testability of a product or design
+
+Job Specifications
+
+Qualifications
+
+Computer Science and/or Science-based bachelor's degree
+5+ years of experience qualifying high-volume, scalable software solutions and/or API’s.
+4+ years of experience in software programming (JavaScript/Python/ObjectiveC/similar)
+Experience with UI automation tools/frameworks (Selenium/Playwright/TestComplete)
+Experience with API automation tools (Postman/JMeter/ similar)
+Experience with unit test frameworks (JUnit/JEST/similar)
+Experience working with Cloud technologies (AWS/similar)
+Experience working with CI/CD tools (Jenkins/similar)
+Excellent working knowledge with Git/GitHub or similar source control tools
+Experience in testing systems at a large scale (performance/stress/load testing)
+Experience working in an agile/scrum environment
+Excellent working knowledge of Windows/Linux/Mac operating systems
+Excellent understanding of QA life cycle, methodologies, and best practices
+Experience in test case management and bug tracking systems (Jira/Zephyr/similar)
+Experience in transforming manual test cases into automated test cases
+Experience in test documentation, defect analysis, tracking and reporting
+Experience in BDD frameworks (JBehave/Cucumber/similar)
+
+Special Skills & Knowledge
+
+Experience in Chemistry domain is a plus
+Good English, written and verbal
+
+Other Key Competencies
+
+Passion for quality, creating innovative solutions and change
+Strong emphasis on learning quickly and staying current with modern technologies
+Self-motivated, independent thinker with excellent troubleshooting skills
+Ability to work within a multi-site, multicultural team

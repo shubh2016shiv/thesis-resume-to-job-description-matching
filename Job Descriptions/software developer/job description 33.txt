@@ -1,0 +1,20 @@
+Software Developer
+Qrata  Bengaluru North, Karnataka, India On-site 3 days ago  67 applicants
+
+About the job
+This job is sourced from a job board. Learn more
+What we are looking for?
+You have good understanding of the fundamentals of data science/algorithms or
+software engineering
+Preferably you should have done some project or internship related to the field
+Knowledge of SQL is a plus
+A deep desire to learn new things and be a part of a vibrant start-up. You will
+have a lot of freehand and this comes with immense responsibility - so it is
+
+expected that you will be willing to master new things that come along!
+
+What you will get to do?
+Build cloud-based services and/or user interfaces
+Participating in all aspects of software development activities, including design,
+coding, code review, unit testing, bug fixing, and code/API documentation
+Be the first few members of a growing technology team Skills:- Java, Data Structures, Algorithms, C++, C#, Go Programming (Golang), Amazon Web Services (AWS), Google Cloud Platform (GCP) and Data Science

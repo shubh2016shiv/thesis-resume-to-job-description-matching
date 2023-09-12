@@ -1,0 +1,45 @@
+TCTP Software Developer
+Siemens  Pune, Maharashtra, India On-site 1 week ago  36 applicants
+
+About the job
+Must have/know Skills:
+
+C# (.NET Framework, .NET Core),
+SQL / SQL Server / Oracle
+AWS Basics (EC2, S3)
+Javascript/Jquery
+
+Responsibilities:
+
+Responsible for development and support of enterprise .NET applications
+Supports critical production systems and data pipelines
+Develop software solutions compliant with enterprise architecture, processes, procedures, and protocols
+Works with architects and developers to report development progress.
+Responsible for timely completion of the development phase of projects
+
+Skills and Qualifications:
+
+B.E. or B.Tech. with 2-5 years of total experience and relevant experience in .NET
+Solid experience designing and developing .NET-based solutions using OOP concepts that include many of the following technologies:
+Development experience with .NET and .NET Core,
+Knowledge of user authentication and authorization between multiple systems, servers, and environments
+Should have significant experience developing working production grade software and maintaining it through a git version control system.
+Ability to work across new age front end scripting languages and adapt to rapidly changing technology stack
+Implementation of security and data protection
+
+Good to Know:
+
+WebAPI2
+Entity Framework
+REST, HTTP Protocol, Soap
+Postman, Swagger, OpenAPI
+ASP.Net
+OKTA, MyID (Oauth)
+Windows Server Administration Basics
+IIS
+
+Nice to have/know:
+
+HTML/CSS, Javascript
+Git, JIRA
+Scripting languages (e.g. Windows Powershell, Python)

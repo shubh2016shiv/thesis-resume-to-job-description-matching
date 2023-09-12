@@ -1,0 +1,63 @@
+Principal Product Manager​ - Azure for Operators
+Microsoft  England, United Kingdom Remote 3 days ago  43 applicants
+
+About the job
+Our Product Managers and Technical Program Managers help customers with advanced networking areas like 5G and cloud voice technologies. Our products are transforming industries and enabling powerful scenarios like edge computing, mobile networks, IoT and AI. On our team, we innovate quickly, collaborate, learn from experience and data, deliver amazing end-to-end solutions, think creatively, and have fun. On our PM team, you will be at the center of incredible innovation and important product & business strategy. You will work directly with the world’s largest network operators, interact with amazing enterprise customers as well as work with the core Azure, Operations, Infrastructure, Business, Marketing, Sales, and Finance teams. This is a high-profile team with high potential for industry and Microsoft impact.
+
+Join the Azure for Operators Voice Core team partnering with Microsoft Teams and operators globally to bring advanced real time communications and collaboration solutions to enterprises. We are on the leading edge of helping operators build their mission critical real time communications networks in Azure, and rapidly bringing innovative new solutions to their enterprise customers.
+
+Responsibilities
+
+This is a Product Manager role, requiring collaboration with other PMs across Microsoft, Microsoft field teams, telecom operators and enterprise communications partner ecosystems to
+
+Identify new opportunities and obstacles for enterprises to adopt and leverage cloud UCaaS, particularly when it comes to integrating with existing and new calling and mobility solutions
+
+Develop the business case for operators to evolve their enterprise calling portfolios with differentiated and innovative new services addressing this market
+
+Generate compelling new product and feature concepts at the intersection of operator network, Azure platforms and cloud UCaaS
+
+Develop and execute on partner strategies that complement and leverage Azure for Operators platforms to realise this value with operators
+
+Execute on these by building partnerships with the ecosystem of cloud UCaaS accelerators and value-add enterprise communication vendors.
+
+Your Impact
+
+Develop partner strategy, business case, roadmap, for integrating enterprise communication platform partners with the Azure Communications Gateway platform
+
+Act as a primary source of direct enterprise, operator customer and partner Microsoft organisation input to Azure for Operators partner and product strategies
+
+Design and implement partner engagement and certification programs, and work with internal Microsoft partner teams to implement these
+
+Drive recruitment and onboarding of 10+ partners within the first year
+
+Indirectly influence the adoption of operator enterprise calling services by 10Ms of users over the next 3 years
+
+Customer engagement and relationship development for executive briefings, product evangelism, and requirements gathering
+
+Qualifications
+
+BS/MS, MBA nice to have
+
+Experience in Product Management, or in GTM roles, bringing new B2B solutions to market
+
+Experience working in the cloud UCaaS / enterprise communications / telecoms domain
+
+Experience incubating and growing ISV and SI partner ecosystems preferred
+
+Strong commercial experience and designing business cases and value propositions
+
+High-level familiarity with enterprise communications architectures – e.g. SIP trunking, video collaboration, CPaaS, CX, cloud services
+
+Driven to build something new, innovative, and disruptive – and to make a material impact to the future of enterprise communications
+
+Excellent written and verbal communication skills
+
+Excellent presentation skills to conference and senior executive level
+
+Demonstrable track record of success
+
+Excellent people skills, team mentality and instinct to collaborate
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.

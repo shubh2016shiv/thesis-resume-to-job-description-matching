@@ -1,0 +1,40 @@
+Product Manager
+Munich Re  London, England, United Kingdom 1 week ago  33 applicants
+
+About the job
+The Digital Operations Automation team at Munich RE is responsible for managing all cloud related automation initiatives globally. Our objective is to make the ongoing move of our entire infrastructure and applications to a hybrid (private/public) cloud environment successful by automating workloads, infrastructure & processes.
+
+We are looking for an experienced Product Manager to take ownership of our new automation stack. This position is ideally located in London and will report directly to the Head of Infrastructure Engineering.
+
+Your job
+
+Responsible for the lifecycle of the application/s which define the product.
+Managing business requirements and consulting with the business to fulfill business strategy using market and technical innovation knowledge.
+Planning and aligning product roadmap with business on basis of target architecture, including necessary technical and security refactoring and cluster budget planning.
+Initiating projects or conducting implementation of change requests, planning and executing product releases, conducting sign-off procedures.
+Knows all relevant technical and functional details of the product, including interfaces to other products.
+Keeps all information up to date to run and develop the product including SLA with business.
+Ensures the stable run of the product, including setup and management of run, support, incident and monitoring processes aligned with the needs of the business, escalates and manages solutions for major incidents.
+Constantly checking incident volume incl. root causes and infrastructure settings to setup necessary improvement measures.
+Conducts and updates compliance gates and checks that product is running secure.
+Manages software licenses needed for the product.
+Knows and manages product costs and budgets.
+
+Your profile
+
+Technical-based university degree (preferably in IT) or several years’ experience in the IT infrastructure area.
+Experience in automated product deployment in public cloud (Azure) and private cloud (VMware).
+Experience of driving 3rd party software via API calls.
+Experience in languages such as TypeScript and JavaScript would be beneficial.
+Experience in configuration management tools like Salt (preferred), Chef, or Ansible.
+Knowledge in bordering areas VMWare, LAN, WAN, Storage, DMZ, Backup, AD, Oracle, Azure Dashboard, Azure Site Recovery/Site Recovery Manager.
+Additional experience in VXRail / Other vendor Hyperconverged-Infrastructure architectures would be desirable.
+Analytical and methodological skills for preparing technical drafts.
+Very good command of written and spoken English.
+5+ years professional background in product management and applications delivery.
+3+ years of Line Management of teams.
+Proven experience owning business and partner/vendor relationships.
+Effectively communicates, both verbally and in writing to various audiences.
+Collaborative working style, creating a culture of accountability and sharing.
+Ability to function as a member of a technology team, willing to contribute in any capacity required to achieve success.
+Well organized with a good ability to analyze situations, diagnose problems, identify the key issues, establish and weigh up alternative courses of action and produce a logical, practical and acceptable solution.

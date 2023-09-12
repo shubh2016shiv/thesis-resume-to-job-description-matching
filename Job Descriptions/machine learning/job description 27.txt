@@ -1,0 +1,50 @@
+Legal Data Scientist
+Citi  Mumbai, Maharashtra, India On-site 2 weeks ago  Over 200 applicants
+
+About the job
+Job Id: 23642201
+
+The Legal Chief Data Office (CDO) is responsible for driving Data transformation , Architecture and Knowledge Management initiatives across the Global Legal department. As the data and knowledge champions for Legal, the CDO will set the direction and approach to implement effective and best-in-class data and knowledge management frameworks, controls, and capabilities across Legal departments,
+
+Within that remit, the Legal CDO is hiring an experienced Data scientist who will be responsible for the driving the data transformation initiatives within Legal department in partnership with innovation lab at Citi
+
+The Data scientist will play a key role to implement short to medium term strategical initiatives thereby resolving real world business problems of Legal department that would alleviate the ‘process debt’
+
+Job Purpose:
+
+We are looking for a Data Scientist to help us discover information contained in vast streams of online and offline time-series data, enabling us to make data-driven decisions based on an enhanced understanding of our business performance in the financial markets.
+
+Your primary focus will be in applying data mining techniques, statistical analysis and feature selection in the training, testing and validation of models to be integrated into our financial markets decision-making systems and processes.
+
+You will work closely with product owners and team members to design, build and integrate targeted client solutions into one of our existing well-supported platforms, or through new channels as required. To meet client demand, our project lifecycles are measured in months, not years, presenting many opportunities to take on new challenges.
+
+Key Responsibilities:
+
+Feature engineering and selection
+Working across a range of disciplines, from NLP to time series analysis, to risk modelling and pricing
+Model selection, training, testing and validation
+Model visualisation, demonstration, and documentation, in an online form such as an interactive notebook or single-page application
+Work closely with product owners to develop client solutions for new and existing channels
+
+Grow our catalogue of common assets, such as code templates, libraries, utilities, services, etc.
+
+Skills & Qualifications:
+
+3-6 years of relevant experience in Data science field, preferably in investment banking/financial domain.
+Advanced applied statistics skills, including distributions, statistical testing, regression, etc.
+Excellent understanding of fundamental machine learning techniques and algorithms, such as Deep Learning, k-NN, Regression, SVM, Random Forests, etc.
+You are an excellent communicator, able to explain your feature selection or model ensemble in layman’s terms.
+Experience with common data science toolkits, with excellence in the SciPy.org stack (NumPy, SciPy, Matplotlib, Pandas, IPython, etc.) and Scikit-Learn highly desirable.
+Great working knowledge of Python an absolute given
+You may/may not be excited about very deep neural nets but can respect an opposing view too.
+Experience in Gradient Boosting Machines, Bayesian Optimisation and Time Series Cross Validation ticks a lot of our boxes.
+You are equipped to face the curse of dimensionality.
+Experience with data visualisation tools, such as Matplotlib, D3.js, GGplot, etc.
+Proficiency in using query languages, such as SQL, Spark DataFrame API, etc.
+A portfolio of interactive notebooks, with experience in single-page web app dev nice-to-have
+You are academically rigorous, but commercially minded, and enjoy seeing your work make money for a company that rewards you in return.
+You are an adaptable, resourceful, well organised team player with a strong work ethic.
+You agree that verbal and written communication skills are vital.
+You are eager to grow your skills.
+
+You are educated to degree level or above (or equivalent experience)
